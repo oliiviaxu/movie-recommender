@@ -1,0 +1,5044 @@
+movie_id,movie_title,rating
+1,Avatar ,7.9
+2,Pirates of the Caribbean: At World's End ,7.1
+3,Spectre ,6.8
+4,The Dark Knight Rises ,8.5
+5,Star Wars: Episode VII - The Force Awakens             ,7.1
+6,John Carter ,6.6
+7,Spider-Man 3 ,6.2
+8,Tangled ,7.8
+9,Avengers: Age of Ultron ,7.5
+10,Harry Potter and the Half-Blood Prince ,7.5
+11,Batman v Superman: Dawn of Justice ,6.9
+12,Superman Returns ,6.1
+13,Quantum of Solace ,6.7
+14,Pirates of the Caribbean: Dead Man's Chest ,7.3
+15,The Lone Ranger ,6.5
+16,Man of Steel ,7.2
+17,The Chronicles of Narnia: Prince Caspian ,6.6
+18,The Avengers ,8.1
+19,Pirates of the Caribbean: On Stranger Tides ,6.7
+20,Men in Black 3 ,6.8
+21,The Hobbit: The Battle of the Five Armies ,7.5
+22,The Amazing Spider-Man ,7.0
+23,Robin Hood ,6.7
+24,The Hobbit: The Desolation of Smaug ,7.9
+25,The Golden Compass ,6.1
+26,King Kong ,7.2
+27,Titanic ,7.7
+28,Captain America: Civil War ,8.2
+29,Battleship ,5.9
+30,Jurassic World ,7.0
+31,Skyfall ,7.8
+32,Spider-Man 2 ,7.3
+33,Iron Man 3 ,7.2
+34,Alice in Wonderland ,6.5
+35,X-Men: The Last Stand ,6.8
+36,Monsters University ,7.3
+37,Transformers: Revenge of the Fallen ,6.0
+38,Transformers: Age of Extinction ,5.7
+39,Oz the Great and Powerful ,6.4
+40,The Amazing Spider-Man 2 ,6.7
+41,TRON: Legacy ,6.8
+42,Cars 2 ,6.3
+43,Green Lantern ,5.6
+44,Toy Story 3 ,8.3
+45,Terminator Salvation ,6.6
+46,Furious 7 ,7.2
+47,World War Z ,7.0
+48,X-Men: Days of Future Past ,8.0
+49,Star Trek Into Darkness ,7.8
+50,Jack the Giant Slayer ,6.3
+51,The Great Gatsby ,7.3
+52,Prince of Persia: The Sands of Time ,6.6
+53,Pacific Rim ,7.0
+54,Transformers: Dark of the Moon ,6.3
+55,Indiana Jones and the Kingdom of the Crystal Skull ,6.2
+56,The Good Dinosaur ,6.8
+57,Brave ,7.2
+58,Star Trek Beyond ,7.5
+59,WALL·E ,8.4
+60,Rush Hour 3 ,6.2
+61,2012 ,5.8
+62,A Christmas Carol ,6.8
+63,Jupiter Ascending ,5.4
+64,The Legend of Tarzan ,6.6
+65,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe ",6.9
+66,X-Men: Apocalypse ,7.3
+67,The Dark Knight ,9.0
+68,Up ,8.3
+69,Monsters vs. Aliens ,6.5
+70,Iron Man ,7.9
+71,Hugo ,7.5
+72,Wild Wild West ,4.8
+73,The Mummy: Tomb of the Dragon Emperor ,5.2
+74,Suicide Squad ,6.9
+75,Evan Almighty ,5.4
+76,Edge of Tomorrow ,7.9
+77,Waterworld ,6.1
+78,G.I. Joe: The Rise of Cobra ,5.8
+79,Inside Out ,8.3
+80,The Jungle Book ,7.8
+81,Iron Man 2 ,7.0
+82,Snow White and the Huntsman ,6.1
+83,Maleficent ,7.0
+84,Dawn of the Planet of the Apes ,7.6
+85,The Lovers ,4.5
+86,47 Ronin ,6.3
+87,Captain America: The Winter Soldier ,7.8
+88,Shrek Forever After ,6.4
+89,Tomorrowland ,6.5
+90,Big Hero 6 ,7.9
+91,Wreck-It Ralph ,7.8
+92,The Polar Express ,6.6
+93,Independence Day: Resurgence ,5.5
+94,How to Train Your Dragon ,8.2
+95,Terminator 3: Rise of the Machines ,6.4
+96,Guardians of the Galaxy ,8.1
+97,Interstellar ,8.6
+98,Inception ,8.8
+99,Godzilla Resurgence ,8.2
+100,The Hobbit: An Unexpected Journey ,7.9
+101,The Fast and the Furious ,6.7
+102,The Curious Case of Benjamin Button ,7.8
+103,X-Men: First Class ,7.8
+104,The Hunger Games: Mockingjay - Part 2 ,6.6
+105,The Sorcerer's Apprentice ,6.1
+106,Poseidon ,5.6
+107,Alice Through the Looking Glass ,6.4
+108,Shrek the Third ,6.1
+109,Warcraft ,7.3
+110,Terminator Genisys ,6.6
+111,The Chronicles of Narnia: The Voyage of the Dawn Treader ,6.3
+112,Pearl Harbor ,6.1
+113,Transformers ,7.1
+114,Alexander ,5.5
+115,Harry Potter and the Order of the Phoenix ,7.5
+116,Harry Potter and the Goblet of Fire ,7.6
+117,Hancock ,6.4
+118,I Am Legend ,7.2
+119,Charlie and the Chocolate Factory ,6.7
+120,Ratatouille ,8.0
+121,Batman Begins ,8.3
+122,Madagascar: Escape 2 Africa ,6.7
+123,Night at the Museum: Battle of the Smithsonian ,5.9
+124,X-Men Origins: Wolverine ,6.7
+125,The Matrix Revolutions ,6.7
+126,Frozen ,7.6
+127,The Matrix Reloaded ,7.2
+128,Thor: The Dark World ,7.1
+129,Mad Max: Fury Road ,8.1
+130,Angels & Demons ,6.7
+131,Thor ,7.0
+132,Bolt ,6.9
+133,G-Force ,5.1
+134,Wrath of the Titans ,5.8
+135,Dark Shadows ,6.2
+136,Mission: Impossible - Rogue Nation ,7.4
+137,The Wolfman ,5.8
+138,The Legend of Tarzan ,6.6
+139,Bee Movie ,6.2
+140,Kung Fu Panda 2 ,7.3
+141,The Last Airbender ,4.2
+142,Mission: Impossible III ,6.9
+143,White House Down ,6.4
+144,Mars Needs Moms ,5.4
+145,Flushed Away ,6.7
+146,Pan ,5.8
+147,Mr. Peabody & Sherman ,6.9
+148,Troy ,7.2
+149,Madagascar 3: Europe's Most Wanted ,6.9
+150,Die Another Day ,6.1
+151,Ghostbusters ,5.5
+152,Armageddon ,6.6
+153,Men in Black II ,6.1
+154,Beowulf ,6.3
+155,Kung Fu Panda 3 ,7.2
+156,Mission: Impossible - Ghost Protocol ,7.4
+157,Rise of the Guardians ,7.3
+158,Fun with Dick and Jane ,6.1
+159,The Last Samurai ,7.7
+160,Exodus: Gods and Kings ,6.1
+161,Star Trek ,8.0
+162,Spider-Man ,7.3
+163,How to Train Your Dragon 2 ,7.9
+164,Gods of Egypt ,5.5
+165,Stealth ,5.0
+166,Watchmen ,7.7
+167,Lethal Weapon 4 ,6.6
+168,Hulk ,5.7
+169,G.I. Joe: Retaliation ,5.8
+170,Sahara ,6.0
+171,Final Fantasy: The Spirits Within ,6.4
+172,Captain America: The First Avenger ,6.9
+173,The World Is Not Enough ,6.4
+174,Master and Commander: The Far Side of the World ,7.4
+175,The Twilight Saga: Breaking Dawn - Part 2 ,5.5
+176,Happy Feet 2 ,5.9
+177,The Incredible Hulk ,6.8
+178,Miami Vice             ,7.5
+179,The BFG ,6.8
+180,The Revenant ,8.1
+181,Turbo ,6.5
+182,Rango ,7.2
+183,Penguins of Madagascar ,6.7
+184,The Bourne Ultimatum ,8.1
+185,Kung Fu Panda ,7.6
+186,Ant-Man ,7.4
+187,The Hunger Games: Catching Fire ,7.6
+188,The Twilight Saga: Breaking Dawn - Part 2 ,5.5
+189,Home ,6.7
+190,War of the Worlds ,6.5
+191,Bad Boys II ,6.6
+192,Puss in Boots ,6.7
+193,Salt ,6.4
+194,Noah ,5.8
+195,The Adventures of Tintin ,7.4
+196,Harry Potter and the Prisoner of Azkaban ,7.8
+197,Australia ,6.6
+198,After Earth ,4.9
+199,Dinosaur ,6.5
+200,Harry Potter and the Deathly Hallows: Part II ,7.5
+201,Night at the Museum: Secret of the Tomb ,6.2
+202,Megamind ,7.3
+203,Harry Potter and the Sorcerer's Stone ,7.5
+204,R.I.P.D. ,5.6
+205,Godzilla Resurgence ,8.2
+206,Pirates of the Caribbean: The Curse of the Black Pearl ,8.1
+207,Harry Potter and the Deathly Hallows: Part I ,6.4
+208,The Hunger Games: Mockingjay - Part 1 ,6.7
+209,The Da Vinci Code ,6.6
+210,Rio 2 ,6.4
+211,X-Men 2 ,7.5
+212,Fast Five ,7.3
+213,Sherlock Holmes: A Game of Shadows ,7.5
+214,Clash of the Titans ,5.8
+215,Total Recall ,7.5
+216,The 13th Warrior ,6.6
+217,The Bourne Legacy ,6.7
+218,Batman & Robin ,3.7
+219,How the Grinch Stole Christmas ,6.0
+220,The Day After Tomorrow ,6.4
+221,Mission: Impossible II ,6.1
+222,The Perfect Storm ,6.4
+223,Fantastic 4: Rise of the Silver Surfer ,5.6
+224,Life of Pi ,8.0
+225,Ghost Rider ,5.2
+226,Jason Bourne ,7.1
+227,Charlie's Angels: Full Throttle ,4.8
+228,Prometheus ,7.0
+229,Stuart Little 2 ,5.4
+230,Elysium ,6.6
+231,The Chronicles of Riddick ,6.7
+232,RoboCop ,6.2
+233,Speed Racer ,6.1
+234,How Do You Know ,5.3
+235,Knight and Day ,6.3
+236,Oblivion ,7.0
+237,Star Wars: Episode III - Revenge of the Sith ,7.6
+238,Star Wars: Episode II - Attack of the Clones ,6.7
+239,"Monsters, Inc. ",8.1
+240,The Wolverine ,6.7
+241,Star Wars: Episode I - The Phantom Menace ,6.5
+242,The Croods ,7.3
+243,Asterix at the Olympic Games ,5.1
+244,Windtalkers ,6.0
+245,The Huntsman: Winter's War ,6.1
+246,Teenage Mutant Ninja Turtles ,5.9
+247,Gravity ,7.8
+248,Dante's Peak ,5.8
+249,Teenage Mutant Ninja Turtles: Out of the Shadows ,6.3
+250,Fantastic Four ,4.3
+251,Night at the Museum ,6.4
+252,San Andreas ,6.1
+253,Tomorrow Never Dies ,6.5
+254,The Patriot ,7.1
+255,Ocean's Twelve ,6.4
+256,Mr. & Mrs. Smith ,6.5
+257,Insurgent ,6.3
+258,The Aviator ,7.5
+259,Gulliver's Travels ,4.9
+260,The Green Hornet ,5.8
+261,The A-Team             ,7.6
+262,300: Rise of an Empire ,6.2
+263,The Smurfs ,5.5
+264,Home on the Range ,5.4
+265,Allegiant ,5.8
+266,Real Steel ,7.1
+267,The Smurfs 2 ,5.4
+268,Speed 2: Cruise Control ,3.7
+269,Ender's Game ,6.7
+270,Live Free or Die Hard ,7.2
+271,The Lord of the Rings: The Fellowship of the Ring ,8.8
+272,Around the World in 80 Days ,5.8
+273,Ali ,6.8
+274,The Cat in the Hat ,3.8
+275,"I, Robot ",7.1
+276,Kingdom of Heaven ,7.2
+277,Stuart Little ,5.9
+278,The Princess and the Frog ,7.1
+279,The Martian ,8.1
+280,"10,000 B.C.             ",7.2
+281,The Island ,6.9
+282,Town & Country ,4.4
+283,Gone in Sixty Seconds ,6.5
+284,Gladiator ,8.5
+285,Minority Report ,7.7
+286,Harry Potter and the Chamber of Secrets ,7.4
+287,Casino Royale ,8.0
+288,Planet of the Apes ,5.7
+289,Terminator 2: Judgment Day ,8.5
+290,Public Enemies ,7.0
+291,American Gangster ,7.8
+292,True Lies ,7.2
+293,The Taking of Pelham 1 2 3 ,6.4
+294,Little Fockers ,5.5
+295,The Other Guys ,6.7
+296,Eraser ,6.1
+297,Django Unchained ,8.5
+298,The Hunchback of Notre Dame ,6.9
+299,The Emperor's New Groove ,7.3
+300,The Expendables 2 ,6.7
+301,National Treasure ,6.9
+302,Eragon ,5.1
+303,Where the Wild Things Are ,6.8
+304,Pan ,5.8
+305,Epic ,6.7
+306,The Tourist ,6.0
+307,End of Days ,5.7
+308,Blood Diamond ,8.0
+309,The Wolf of Wall Street ,8.2
+310,Batman Forever ,5.4
+311,Starship Troopers ,7.2
+312,Cloud Atlas ,7.5
+313,Legend of the Guardians: The Owls of Ga'Hoole ,7.0
+314,Catwoman ,3.3
+315,Hercules ,6.0
+316,Treasure Planet ,7.1
+317,Land of the Lost ,5.4
+318,The Expendables 3 ,6.1
+319,Point Break ,5.3
+320,Son of the Mask ,2.2
+321,In the Heart of the Sea ,7.0
+322,The Adventures of Pluto Nash ,3.8
+323,Green Zone ,6.9
+324,The Peanuts Movie ,7.2
+325,The Spanish Prisoner ,7.3
+326,The Mummy Returns ,6.3
+327,Gangs of New York ,7.5
+328,The Flowers of War ,7.6
+329,Surf's Up ,6.8
+330,The Stepford Wives ,5.2
+331,Black Hawk Down ,7.7
+332,The Campaign ,6.2
+333,The Fifth Element ,7.7
+334,Sex and the City 2 ,4.3
+335,The Road to El Dorado ,6.9
+336,Ice Age: Continental Drift ,6.6
+337,Cinderella ,7.0
+338,The Lovely Bones ,6.7
+339,Finding Nemo ,8.2
+340,The Lord of the Rings: The Return of the King ,8.9
+341,The Lord of the Rings: The Two Towers ,8.7
+342,Seventh Son ,5.5
+343,Lara Croft: Tomb Raider ,5.7
+344,Transcendence ,6.3
+345,Jurassic Park III ,5.9
+346,Rise of the Planet of the Apes ,7.6
+347,The Spiderwick Chronicles ,6.6
+348,A Good Day to Die Hard ,5.3
+349,The Alamo ,6.0
+350,The Incredibles ,8.0
+351,Cutthroat Island ,5.6
+352,Percy Jackson & the Olympians: The Lightning Thief ,5.9
+353,Men in Black ,7.3
+354,Toy Story 2 ,7.9
+355,Unstoppable ,6.8
+356,Rush Hour 2 ,6.6
+357,What Lies Beneath ,6.6
+358,Cloudy with a Chance of Meatballs ,7.0
+359,Ice Age: Dawn of the Dinosaurs ,7.0
+360,The Secret Life of Walter Mitty ,7.3
+361,Charlie's Angels ,5.5
+362,The Departed ,8.5
+363,Mulan ,7.5
+364,Tropic Thunder ,7.0
+365,The Girl with the Dragon Tattoo ,7.8
+366,Die Hard with a Vengeance ,7.6
+367,Sherlock Holmes ,7.6
+368,Ben-Hur ,6.1
+369,Atlantis: The Lost Empire ,6.8
+370,Alvin and the Chipmunks: The Road Chip ,5.0
+371,Valkyrie ,7.1
+372,You Don't Mess with the Zohan ,5.5
+373,Pixels ,5.6
+374,A.I. Artificial Intelligence ,7.1
+375,The Haunted Mansion ,4.9
+376,Contact ,7.4
+377,Hollow Man ,5.7
+378,The Interpreter ,6.4
+379,Percy Jackson: Sea of Monsters ,5.9
+380,Lara Croft Tomb Raider: The Cradle of Life ,5.5
+381,Now You See Me 2 ,6.9
+382,The Saint ,6.2
+383,Spy Game ,7.0
+384,Mission to Mars ,5.6
+385,Rio ,7.0
+386,Bicentennial Man ,6.8
+387,Volcano ,5.4
+388,The Devil's Own ,6.1
+389,K-19: The Widowmaker ,6.7
+390,Fantastic Four ,4.3
+391,Conan the Barbarian ,6.9
+392,Cinderella Man ,8.0
+393,The Nutcracker in 3D ,4.4
+394,Seabiscuit ,7.3
+395,Twister ,6.3
+396,The Fast and the Furious ,6.7
+397,Cast Away ,7.7
+398,Happy Feet ,6.5
+399,The Bourne Supremacy ,7.8
+400,Air Force One ,6.4
+401,Ocean's Eleven ,7.8
+402,The Three Musketeers ,5.8
+403,Hotel Transylvania ,7.1
+404,Enchanted ,7.1
+405,Hannibal             ,8.6
+406,Safe House ,6.8
+407,102 Dalmatians ,4.8
+408,Tower Heist ,6.2
+409,The Holiday ,6.9
+410,Enemy of the State ,7.3
+411,It's Complicated ,6.6
+412,Ocean's Thirteen ,6.9
+413,Open Season ,6.2
+414,Divergent ,6.7
+415,Enemy at the Gates ,7.6
+416,The Rundown ,6.7
+417,Last Action Hero ,6.2
+418,Memoirs of a Geisha ,7.3
+419,The Fast and the Furious: Tokyo Drift ,6.0
+420,Arthur Christmas ,7.1
+421,Meet Joe Black ,7.1
+422,Collateral Damage ,5.5
+423,All That Jazz ,7.8
+424,Mirror Mirror ,5.6
+425,Scott Pilgrim vs. the World ,7.5
+426,The Core ,5.4
+427,Nutty Professor II: The Klumps ,4.3
+428,Scooby-Doo ,4.9
+429,Dredd ,7.1
+430,Click ,6.4
+431,Creepshow ,6.9
+432,Cats & Dogs: The Revenge of Kitty Galore ,4.3
+433,Jumper ,6.1
+434,Hellboy II: The Golden Army ,7.0
+435,Zodiac ,7.7
+436,The 6th Day ,5.9
+437,Bruce Almighty ,6.7
+438,The Expendables ,6.5
+439,Mission: Impossible ,7.1
+440,The Hunger Games ,7.3
+441,The Hangover Part II ,6.5
+442,Batman Returns ,7.0
+443,Over the Hedge ,6.8
+444,Lilo & Stitch ,7.2
+445,Charlotte's Web ,6.4
+446,Deep Impact ,6.1
+447,RED 2 ,6.7
+448,The Longest Yard ,6.4
+449,Alvin and the Chipmunks: Chipwrecked ,4.4
+450,Grown Ups 2 ,5.4
+451,Get Smart ,6.5
+452,Something's Gotta Give ,6.7
+453,Shutter Island ,8.1
+454,Four Christmases ,5.6
+455,Robots ,6.3
+456,Face/Off ,7.3
+457,Bedtime Stories ,6.1
+458,Road to Perdition ,7.7
+459,Just Go with It ,6.4
+460,Daredevil             ,8.8
+461,Con Air ,6.8
+462,Eagle Eye ,6.6
+463,Cold Mountain ,7.2
+464,The Book of Eli ,6.9
+465,Flubber ,5.2
+466,The Haunting ,4.9
+467,Space Jam ,6.3
+468,The Pink Panther ,5.6
+469,The Day the Earth Stood Still ,5.5
+470,Conspiracy Theory ,6.7
+471,Fury ,7.6
+472,Six Days Seven Nights ,5.7
+473,Yogi Bear ,4.6
+474,Spirit: Stallion of the Cimarron ,7.0
+475,Zookeeper ,5.2
+476,Lost in Space ,5.1
+477,The Manchurian Candidate ,6.6
+478,Déjà Vu ,7.0
+479,Hotel Transylvania 2 ,6.7
+480,Bewitched             ,7.6
+481,Fantasia 2000 ,7.3
+482,The Time Machine ,5.9
+483,Mighty Joe Young ,5.6
+484,Swordfish ,6.5
+485,The Legend of Zorro ,5.9
+486,What Dreams May Come ,7.0
+487,Little Nicky ,5.3
+488,The Brothers Grimm ,5.9
+489,Mars Attacks! ,6.3
+490,Evolution ,6.4
+491,The Edge ,6.9
+492,Surrogates ,6.3
+493,Thirteen Days ,7.3
+494,Daylight ,5.8
+495,Walking with Dinosaurs 3D ,5.2
+496,Battlefield Earth ,2.4
+497,Looney Tunes: Back in Action ,5.7
+498,Nine ,5.8
+499,Timeline ,5.6
+500,The Postman ,6.0
+501,Babe: Pig in the City ,5.8
+502,The Last Witch Hunter ,6.0
+503,Red Planet ,5.7
+504,Arthur and the Invisibles ,6.0
+505,Oceans ,7.8
+506,A Sound of Thunder ,4.2
+507,Pompeii ,5.6
+508,Top Cat Begins ,4.4
+509,A Beautiful Mind ,8.2
+510,The Lion King ,8.5
+511,Journey 2: The Mysterious Island ,5.8
+512,Cloudy with a Chance of Meatballs 2 ,6.5
+513,Red Dragon ,7.2
+514,Hidalgo ,6.7
+515,Jack and Jill ,3.4
+516,2 Fast 2 Furious ,5.9
+517,The Little Prince ,7.8
+518,The Invasion ,5.9
+519,The Adventures of Rocky & Bullwinkle ,4.1
+520,The Secret Life of Pets ,6.8
+521,The League of Extraordinary Gentlemen ,5.8
+522,Despicable Me 2 ,7.5
+523,Independence Day ,6.9
+524,The Lost World: Jurassic Park ,6.5
+525,Madagascar ,6.9
+526,Children of Men ,7.9
+527,X-Men ,7.4
+528,Wanted ,6.7
+529,The Rock ,7.4
+530,Ice Age: The Meltdown ,6.9
+531,50 First Dates ,6.8
+532,Hairspray ,6.7
+533,Exorcist: The Beginning ,5.1
+534,Inspector Gadget ,4.1
+535,Now You See Me ,7.3
+536,Grown Ups ,6.0
+537,The Terminal ,7.3
+538,Constantine             ,7.5
+539,Hotel for Dogs ,5.4
+540,Vertical Limit ,5.9
+541,Charlie Wilson's War ,7.1
+542,Shark Tale ,6.0
+543,Dreamgirls ,6.5
+544,Life             ,8.3
+545,Be Cool ,5.7
+546,Munich ,7.6
+547,Tears of the Sun ,6.6
+548,Killers ,5.4
+549,The Man from U.N.C.L.E. ,7.3
+550,Spanglish ,6.5
+551,Monster House ,6.6
+552,Bandits ,6.6
+553,First Knight ,5.9
+554,Anna and the King ,6.7
+555,Immortals ,6.1
+556,Hostage ,6.6
+557,Titan A.E. ,6.6
+558,Hollywood Homicide ,5.3
+559,Soldier ,6.0
+560,Carriers ,6.0
+561,Monkeybone ,4.7
+562,Flight of the Phoenix ,6.1
+563,Unbreakable ,7.2
+564,Minions ,6.4
+565,Sucker Punch ,6.1
+566,Snake Eyes ,5.9
+567,Sphere ,6.0
+568,The Angry Birds Movie ,6.3
+569,Fool's Gold ,5.6
+570,Funny People ,6.4
+571,The Kingdom ,7.1
+572,Talladega Nights: The Ballad of Ricky Bobby ,6.6
+573,Dr. Dolittle 2 ,4.6
+574,Braveheart ,8.4
+575,Jarhead ,7.1
+576,The Simpsons Movie ,7.4
+577,The Majestic ,6.9
+578,Driven ,4.5
+579,Two Brothers ,7.1
+580,The Village ,6.5
+581,Doctor Dolittle ,5.3
+582,Signs ,6.7
+583,Shrek 2 ,7.2
+584,Cars ,7.2
+585,Runaway Bride ,5.5
+586,xXx ,5.8
+587,The SpongeBob Movie: Sponge Out of Water ,6.0
+588,Ransom ,6.6
+589,Inglourious Basterds ,8.3
+590,Hook ,6.7
+591,Hercules ,6.0
+592,Die Hard 2 ,7.1
+593,S.W.A.T. ,6.0
+594,Sleepy Hollow             ,7.5
+595,Vanilla Sky ,6.9
+596,Lady in the Water ,5.6
+597,AVP: Alien vs. Predator ,5.6
+598,Alvin and the Chipmunks: The Squeakquel ,4.5
+599,We Were Soldiers ,7.1
+600,Olympus Has Fallen ,6.5
+601,Star Trek: Insurrection ,6.4
+602,Battle Los Angeles ,5.8
+603,Big Fish ,8.0
+604,Wolf ,6.2
+605,War Horse ,7.2
+606,The Monuments Men ,6.1
+607,The Abyss ,7.6
+608,Wall Street: Money Never Sleeps ,6.3
+609,Dracula Untold ,6.3
+610,The Siege ,6.3
+611,Stardust ,7.7
+612,Seven Years in Tibet ,7.0
+613,The Dilemma ,5.3
+614,Bad Company ,5.6
+615,Doom ,5.2
+616,I Spy ,5.4
+617,Underworld: Awakening ,6.4
+618,Rock of Ages ,5.9
+619,Hart's War ,6.3
+620,Killer Elite ,6.5
+621,Rollerball ,3.0
+622,Ballistic: Ecks vs. Sever ,3.6
+623,Hard Rain ,5.8
+624,Osmosis Jones ,6.2
+625,Legends of Oz: Dorothy's Return ,5.6
+626,Blackhat ,5.4
+627,Sky Captain and the World of Tomorrow ,6.1
+628,Basic Instinct 2 ,4.2
+629,Escape Plan ,6.7
+630,The Legend of Hercules ,4.2
+631,The Sum of All Fears ,6.4
+632,The Twilight Saga: Eclipse ,4.9
+633,The Score ,6.8
+634,Despicable Me ,7.7
+635,Money Train ,5.6
+636,Ted 2 ,6.4
+637,Agora ,7.2
+638,Mystery Men ,6.0
+639,Hall Pass ,5.9
+640,The Insider ,7.9
+641,The Finest Hours ,6.8
+642,Body of Lies ,7.1
+643,Dinner for Schmucks ,5.9
+644,Abraham Lincoln: Vampire Hunter ,5.9
+645,Entrapment ,6.2
+646,Last Man Standing             ,7.4
+647,The X Files ,7.0
+648,The Last Legion ,5.4
+649,Saving Private Ryan ,8.6
+650,Need for Speed ,6.5
+651,What Women Want ,6.4
+652,Ice Age ,7.6
+653,Dreamcatcher ,5.5
+654,Lincoln ,7.4
+655,The Matrix ,8.7
+656,Apollo 13 ,7.6
+657,Total Recall ,7.5
+658,The Santa Clause 2 ,5.5
+659,Les Misérables ,7.6
+660,You've Got Mail ,6.5
+661,Step Brothers ,6.9
+662,The Mask of Zorro ,6.7
+663,Due Date ,6.6
+664,Unbroken ,7.2
+665,Space Cowboys ,6.4
+666,Cliffhanger ,6.4
+667,Broken Arrow ,6.0
+668,The Kid ,6.1
+669,World Trade Center ,6.0
+670,Mona Lisa Smile ,6.4
+671,The Dictator ,6.4
+672,Eyes Wide Shut ,7.3
+673,Annie ,5.2
+674,Focus ,6.6
+675,This Means War ,6.3
+676,Blade: Trinity ,5.9
+677,Red Dawn ,6.4
+678,Primary Colors ,6.7
+679,Resident Evil: Retribution ,5.4
+680,Death Race ,6.4
+681,The Long Kiss Goodnight ,6.7
+682,Proof of Life ,6.2
+683,Zathura: A Space Adventure ,6.1
+684,Fight Club ,8.8
+685,We Are Marshall ,7.1
+686,The Missing             ,8.1
+687,Hudson Hawk ,5.7
+688,Lucky Numbers ,5.0
+689,"I, Frankenstein ",5.1
+690,Oliver Twist ,6.9
+691,Elektra ,4.8
+692,Sin City: A Dame to Kill For ,6.5
+693,Random Hearts ,5.1
+694,Everest ,7.1
+695,Perfume: The Story of a Murderer ,7.5
+696,Austin Powers in Goldmember ,6.2
+697,Astro Boy ,6.3
+698,Jurassic Park ,8.1
+699,Wyatt Earp ,6.6
+700,Clear and Present Danger ,6.9
+701,Dragon Blade ,6.1
+702,Littleman ,4.3
+703,U-571 ,6.6
+704,The American President ,6.8
+705,The Love Guru ,3.8
+706,3000 Miles to Graceland ,5.9
+707,The Hateful Eight ,7.9
+708,Blades of Glory ,6.3
+709,Hop ,5.5
+710,300 ,7.7
+711,Meet the Fockers ,6.3
+712,Marley & Me ,7.1
+713,The Green Mile ,8.5
+714,Wild Hogs ,5.9
+715,Chicken Little ,5.8
+716,Gone Girl ,8.1
+717,The Bourne Identity ,7.9
+718,GoldenEye ,7.2
+719,The General's Daughter ,6.3
+720,The Truman Show ,8.1
+721,The Prince of Egypt ,7.0
+722,Daddy Day Care ,5.5
+723,2 Guns ,6.7
+724,Cats & Dogs ,5.2
+725,The Italian Job ,7.0
+726,Two Weeks Notice ,6.1
+727,Antz ,6.6
+728,Couples Retreat ,5.5
+729,Days of Thunder ,5.9
+730,Cheaper by the Dozen 2 ,5.4
+731,The Scorch Trials ,6.4
+732,Eat Pray Love ,5.7
+733,The Family Man ,6.7
+734,RED ,7.1
+735,Any Given Sunday ,6.8
+736,The Horse Whisperer ,6.5
+737,Collateral ,7.6
+738,The Scorpion King ,5.5
+739,Ladder 49 ,6.5
+740,Jack Reacher ,7.0
+741,Deep Blue Sea ,5.8
+742,This Is It ,7.3
+743,Contagion ,6.6
+744,Kangaroo Jack ,4.4
+745,Coraline ,7.7
+746,The Happening ,5.0
+747,Man on Fire ,7.7
+748,The Shaggy Dog ,4.4
+749,Starsky & Hutch ,6.1
+750,Jingle All the Way ,5.4
+751,Hellboy ,6.8
+752,A Civil Action ,6.5
+753,ParaNorman ,7.0
+754,The Jackal ,6.3
+755,Paycheck ,6.3
+756,Up Close & Personal ,6.1
+757,The Tale of Despereaux ,6.1
+758,Rules of Engagement             ,7.3
+759,The Tuxedo ,5.3
+760,Under Siege 2: Dark Territory ,5.4
+761,Jack Ryan: Shadow Recruit ,6.2
+762,Joy ,6.6
+763,London Has Fallen ,5.9
+764,Alien: Resurrection ,6.3
+765,Shooter ,7.2
+766,The Boxtrolls ,6.8
+767,Practical Magic ,6.1
+768,The Lego Movie ,7.8
+769,Miss Congeniality 2: Armed and Fabulous ,5.0
+770,Reign of Fire ,6.2
+771,Gangster Squad ,6.7
+772,Year One ,4.9
+773,Invictus ,7.4
+774,State of Play ,7.1
+775,Duplicity ,6.2
+776,My Favorite Martian ,4.9
+777,The Sentinel ,6.1
+778,Planet 51 ,6.1
+779,Star Trek: Nemesis ,6.4
+780,Intolerable Cruelty ,6.3
+781,Trouble with the Curve ,6.8
+782,Edge of Darkness ,6.6
+783,The Relic ,5.7
+784,Analyze That ,5.9
+785,Righteous Kill ,6.0
+786,Mercury Rising ,6.1
+787,The Soloist ,6.7
+788,The Legend of Bagger Vance ,6.7
+789,Almost Famous ,7.9
+790,Garfield 2 ,5.0
+791,xXx: State of the Union ,4.3
+792,Priest ,5.7
+793,Sinbad: Legend of the Seven Seas ,6.7
+794,Event Horizon ,6.7
+795,The Avengers ,8.1
+796,Dragonfly ,6.1
+797,The Black Dahlia ,5.6
+798,Flyboys ,6.6
+799,The Last Castle ,6.9
+800,Supernova ,4.8
+801,Winter's Tale ,6.2
+802,The Mortal Instruments: City of Bones ,6.0
+803,Meet Dave ,4.9
+804,Dark Water ,5.6
+805,Edtv ,6.1
+806,Inkheart ,6.1
+807,The Spirit ,4.8
+808,Mortdecai ,5.5
+809,In the Name of the King: A Dungeon Siege Tale ,3.8
+810,Beyond Borders ,6.5
+811,Xi you ji zhi: Sun Wukong san da Baigu Jing ,6.0
+812,The Great Raid ,6.7
+813,Deadpool ,8.1
+814,Holy Man ,4.9
+815,American Sniper ,7.3
+816,Goosebumps ,6.4
+817,"Sabrina, the Teenage Witch             ",6.6
+818,Just Like Heaven ,6.7
+819,The Flintstones in Viva Rock Vegas ,3.6
+820,Rambo III ,5.7
+821,Leatherheads ,6.0
+822,The Ridiculous 6 ,4.9
+823,Did You Hear About the Morgans? ,4.7
+824,The Internship ,6.3
+825,Resident Evil: Afterlife ,5.9
+826,Red Tails ,5.9
+827,Sex and the City             ,7.0
+828,The Devil's Advocate ,7.5
+829,That's My Boy ,5.6
+830,DragonHeart ,6.4
+831,After the Sunset ,6.3
+832,Ghost Rider: Spirit of Vengeance ,4.3
+833,Captain Corelli's Mandolin ,5.9
+834,Anger Management             ,6.7
+835,The Pacifier ,5.5
+836,Walking Tall ,6.2
+837,Forrest Gump ,8.8
+838,Alvin and the Chipmunks ,5.2
+839,Meet the Parents ,7.0
+840,Pocahontas ,6.6
+841,Superman ,7.3
+842,The Nutty Professor ,5.6
+843,Hitch ,6.6
+844,George of the Jungle ,5.4
+845,American Wedding ,6.3
+846,Captain Phillips ,7.9
+847,Date Night ,6.3
+848,Casper ,6.0
+849,The Equalizer ,7.2
+850,Maid in Manhattan ,5.1
+851,Crimson Tide ,7.3
+852,The Pursuit of Happyness ,8.0
+853,Flightplan ,6.2
+854,Disclosure ,6.0
+855,City of Angels ,6.7
+856,Kill Bill: Vol. 1 ,8.1
+857,Bowfinger ,6.4
+858,Stargate SG-1             ,8.4
+859,Kill Bill: Vol. 2 ,8.0
+860,Tango & Cash ,6.3
+861,Death Becomes Her ,6.4
+862,Shanghai Noon ,6.6
+863,Executive Decision ,6.4
+864,Mr. Popper's Penguins ,6.0
+865,The Forbidden Kingdom ,6.6
+866,Free Birds ,5.9
+867,Alien 3 ,6.4
+868,Evita ,6.3
+869,Ronin ,7.3
+870,The Ghost and the Darkness ,6.8
+871,Paddington ,7.2
+872,The Watch ,5.7
+873,The Hunted ,6.0
+874,Instinct ,6.5
+875,Stuck on You ,5.8
+876,Semi-Pro ,5.8
+877,The Pirates! Band of Misfits ,6.7
+878,Changeling ,7.8
+879,Chain Reaction ,5.6
+880,The Fan ,5.8
+881,The Phantom of the Opera ,7.4
+882,Elizabeth: The Golden Age ,6.9
+883,Æon Flux ,5.5
+884,Gods and Generals ,6.3
+885,Turbulence ,4.7
+886,Imagine That ,5.6
+887,Muppets Most Wanted ,6.4
+888,Thunderbirds ,4.2
+889,Burlesque ,6.4
+890,A Very Long Engagement ,7.7
+891,Lolita ,7.7
+892,Eye See You ,5.3
+893,Blade II ,6.7
+894,Seven Pounds ,7.7
+895,Bullet to the Head ,5.7
+896,The Godfather: Part III ,7.6
+897,Elizabethtown ,6.4
+898,"You, Me and Dupree ",5.6
+899,Superman II ,6.8
+900,Gigli ,2.4
+901,All the King's Men ,6.2
+902,Shaft ,5.9
+903,Anastasia ,7.1
+904,Moulin Rouge! ,7.6
+905,Domestic Disturbance ,5.5
+906,Black Mass ,7.0
+907,Flags of Our Fathers ,7.1
+908,Law Abiding Citizen ,7.4
+909,Grindhouse ,7.6
+910,Beloved ,5.9
+911,Lucky You ,5.9
+912,Catch Me If You Can ,8.0
+913,Zero Dark Thirty ,7.4
+914,The Break-Up ,5.8
+915,Mamma Mia! ,6.3
+916,Valentine's Day ,5.7
+917,The Dukes of Hazzard ,5.1
+918,The Thin Red Line ,7.6
+919,The Change-Up ,6.4
+920,Man on the Moon ,7.4
+921,Casino ,8.2
+922,From Paris with Love ,6.5
+923,Bulletproof Monk ,5.5
+924,"Me, Myself & Irene ",6.5
+925,Barnyard ,5.6
+926,Deck the Halls ,4.9
+927,The Twilight Saga: New Moon ,4.6
+928,Shrek ,7.9
+929,The Adjustment Bureau ,7.1
+930,Robin Hood: Prince of Thieves ,6.9
+931,Jerry Maguire ,7.3
+932,Ted ,7.0
+933,As Good as It Gets ,7.7
+934,Patch Adams ,6.7
+935,Anchorman 2: The Legend Continues ,6.3
+936,Mr. Deeds ,5.8
+937,Super 8 ,7.1
+938,Erin Brockovich ,7.3
+939,How to Lose a Guy in 10 Days ,6.4
+940,22 Jump Street ,7.1
+941,Interview with the Vampire: The Vampire Chronicles ,7.6
+942,Yes Man ,6.8
+943,Central Intelligence ,6.6
+944,Stepmom ,6.7
+945,Daddy's Home ,6.1
+946,Into the Woods ,6.0
+947,Inside Man ,7.6
+948,Payback ,7.1
+949,Congo ,5.0
+950,We Bought a Zoo ,7.1
+951,Knowing ,6.2
+952,Failure to Launch ,5.6
+953,The Ring Two ,5.4
+954,"Crazy, Stupid, Love. ",7.4
+955,Garfield ,5.0
+956,Christmas with the Kranks ,5.2
+957,Moneyball ,7.6
+958,Outbreak ,6.6
+959,Non-Stop ,7.0
+960,Race to Witch Mountain ,5.7
+961,V for Vendetta ,8.2
+962,Shanghai Knights ,6.2
+963,Unforgotten             ,7.9
+964,Curious George ,6.6
+965,Herbie Fully Loaded ,4.7
+966,Don't Say a Word ,6.3
+967,Hansel & Gretel: Witch Hunters ,6.1
+968,Unfaithful ,6.7
+969,I Am Number Four ,6.1
+970,Syriana ,7.0
+971,13 Hours ,7.4
+972,The Book of Life ,7.3
+973,Firewall ,5.8
+974,Absolute Power ,6.7
+975,G.I. Jane ,5.8
+976,The Game ,7.8
+977,Silent Hill ,6.6
+978,The Replacements ,6.5
+979,American Reunion ,6.7
+980,The Negotiator ,7.3
+981,Into the Storm ,5.8
+982,Beverly Hills Cop III ,5.5
+983,Gremlins 2: The New Batch ,6.3
+984,The Judge ,7.4
+985,The Peacemaker ,5.9
+986,Resident Evil: Apocalypse ,6.2
+987,Bridget Jones: The Edge of Reason ,5.9
+988,Out of Time ,6.5
+989,On Deadly Ground ,4.4
+990,The Adventures of Sharkboy and Lavagirl 3-D ,3.5
+991,The Beach ,6.6
+992,Raising Helen ,6.0
+993,Ninja Assassin ,6.4
+994,For Love of the Game ,6.5
+995,A Touch of Frost             ,7.8
+996,Striptease ,4.3
+997,Marmaduke ,4.2
+998,Hereafter ,6.5
+999,Murder by Numbers ,6.1
+1000,Assassins ,6.3
+1001,Hannibal Rising ,6.2
+1002,The Story of Us ,5.9
+1003,The Host ,5.9
+1004,Basic ,6.5
+1005,Blood Work ,6.4
+1006,The International ,6.5
+1007,Escape from L.A. ,5.7
+1008,Twisted             ,7.5
+1009,The Iron Giant ,8.0
+1010,The Life Aquatic with Steve Zissou ,7.3
+1011,Free State of Jones ,6.7
+1012,The Life of David Gale ,7.5
+1013,Man of the House ,5.4
+1014,Run All Night ,6.6
+1015,Eastern Promises ,7.7
+1016,Into the Blue ,5.8
+1017,The Messenger: The Story of Joan of Arc ,6.4
+1018,Your Highness ,5.6
+1019,Dream House ,6.0
+1020,Mad City ,6.2
+1021,Baby's Day Out ,5.9
+1022,The Scarlet Letter ,5.1
+1023,Fair Game ,6.8
+1024,Defiance             ,7.0
+1025,Domino ,6.0
+1026,Jade ,5.1
+1027,Gamer ,5.8
+1028,Beautiful Creatures ,6.2
+1029,Death to Smoochy ,6.4
+1030,Zoolander 2 ,4.8
+1031,The Big Bounce ,4.9
+1032,What Planet Are You From? ,5.6
+1033,Drive Angry ,5.5
+1034,Street Fighter: The Legend of Chun-Li ,3.7
+1035,The One ,5.9
+1036,Outlander             ,8.5
+1037,The Adventures of Ford Fairlane ,6.3
+1038,Pirate Radio ,7.4
+1039,Traffic ,7.6
+1040,Indiana Jones and the Last Crusade ,8.3
+1041,Anna Karenina ,6.6
+1042,Chappie ,6.9
+1043,The Bone Collector ,6.7
+1044,Panic Room ,6.8
+1045,The Tooth Fairy ,4.6
+1046,Three Kings ,7.1
+1047,Child 44 ,6.4
+1048,Rat Race ,6.4
+1049,K-PAX ,7.4
+1050,Kate & Leopold ,6.4
+1051,Bedazzled ,6.0
+1052,The Cotton Club ,6.5
+1053,3:10 to Yuma ,7.8
+1054,Taken 3 ,6.0
+1055,Out of Sight ,7.0
+1056,The Cable Guy ,6.0
+1057,Earth ,7.8
+1058,Dick Tracy ,6.1
+1059,The Thomas Crown Affair ,6.8
+1060,Riding in Cars with Boys ,6.4
+1061,First Blood ,7.7
+1062,Solaris ,8.1
+1063,Happily N'Ever After ,4.5
+1064,Mary Reilly ,5.8
+1065,My Best Friend's Wedding ,6.3
+1066,America's Sweethearts ,5.7
+1067,Insomnia ,7.2
+1068,Star Trek: First Contact ,7.6
+1069,Jonah Hex ,4.7
+1070,Courage Under Fire ,6.6
+1071,Liar Liar ,6.8
+1072,The Infiltrator ,7.3
+1073,Inchon ,2.7
+1074,The Flintstones ,4.8
+1075,Taken 2 ,6.3
+1076,Scary Movie 3 ,5.5
+1077,Miss Congeniality ,6.2
+1078,Journey to the Center of the Earth ,5.8
+1079,The Princess Diaries 2: Royal Engagement ,5.7
+1080,The Pelican Brief ,6.5
+1081,The Client ,6.7
+1082,The Bucket List ,7.4
+1083,Patriot Games ,6.9
+1084,Monster-in-Law ,5.5
+1085,Prisoners ,8.1
+1086,Training Day ,7.7
+1087,Galaxy Quest ,7.3
+1088,Scary Movie 2 ,5.2
+1089,The Muppets ,7.1
+1090,Blade ,7.1
+1091,Coach Carter ,7.2
+1092,Changing Lanes ,6.5
+1093,Anaconda ,4.6
+1094,Coyote Ugly ,5.6
+1095,Love Actually ,7.7
+1096,A Bug's Life ,7.2
+1097,From Hell ,6.8
+1098,The Specialist ,5.4
+1099,Tin Cup ,6.3
+1100,"Yours, Mine and Ours ",7.2
+1101,Kicking & Screaming ,5.6
+1102,The Hitchhiker's Guide to the Galaxy ,6.8
+1103,Fat Albert ,4.3
+1104,Resident Evil: Extinction ,6.3
+1105,Blended ,6.5
+1106,Last Holiday ,6.4
+1107,The River Wild ,6.3
+1108,The Indian in the Cupboard ,5.9
+1109,Savages ,6.5
+1110,Cellular ,6.5
+1111,Johnny English ,6.1
+1112,The Ant Bully ,5.9
+1113,Dune ,6.6
+1114,Across the Universe ,7.4
+1115,Revolutionary Road ,7.3
+1116,16 Blocks ,6.6
+1117,Babylon A.D. ,5.6
+1118,The Glimmer Man ,5.3
+1119,Multiplicity ,6.0
+1120,Aliens in the Attic ,5.4
+1121,The Pledge ,6.8
+1122,The Producers ,6.4
+1123,Dredd ,7.1
+1124,The Phantom ,4.9
+1125,All the Pretty Horses ,5.8
+1126,Nixon ,7.1
+1127,The Ghost Writer ,7.2
+1128,Deep Rising ,6.0
+1129,Miracle at St. Anna ,6.0
+1130,Curse of the Golden Flower ,7.0
+1131,Bangkok Dangerous ,5.4
+1132,Big Trouble ,6.5
+1133,Love in the Time of Cholera ,6.4
+1134,The Returned             ,8.3
+1135,Shadow Conspiracy ,4.9
+1136,Johnny English Reborn ,6.3
+1137,Foodfight! ,1.7
+1138,Argo ,7.7
+1139,The Fugitive ,7.8
+1140,The Bounty Hunter ,5.5
+1141,Sleepers ,7.5
+1142,Rambo: First Blood Part II ,6.4
+1143,The Juror ,5.6
+1144,Pinocchio ,7.5
+1145,Heaven's Gate ,6.8
+1146,Underworld: Evolution ,6.8
+1147,Victor Frankenstein ,6.0
+1148,Finding Forrester ,7.3
+1149,28 Days ,6.0
+1150,Unleashed ,7.0
+1151,The Sweetest Thing ,5.1
+1152,The Firm ,6.8
+1153,Charlie St. Cloud ,6.5
+1154,The Mechanic ,6.6
+1155,21 Jump Street ,7.2
+1156,Notting Hill ,7.0
+1157,Chicken Run ,7.0
+1158,Along Came Polly ,5.9
+1159,Boomerang ,5.4
+1160,The Heat ,6.6
+1161,Cleopatra ,7.0
+1162,Here Comes the Boom ,6.5
+1163,High Crimes ,6.3
+1164,The Mirror Has Two Faces ,6.5
+1165,The Mothman Prophecies ,6.5
+1166,Brüno ,5.8
+1167,Licence to Kill ,6.6
+1168,Red Riding Hood ,5.4
+1169,15 Minutes ,6.1
+1170,Super Mario Bros. ,4.0
+1171,Lord of War ,7.6
+1172,Hero ,7.9
+1173,One for the Money ,5.3
+1174,The Interview ,6.6
+1175,The Warrior's Way ,6.3
+1176,McHale's Navy             ,7.5
+1177,Micmacs ,7.2
+1178,8 Mile ,7.0
+1179,Animal Kingdom: Let's go Ape ,4.9
+1180,A Knight's Tale ,6.9
+1181,The Medallion ,5.2
+1182,The Sixth Sense ,8.1
+1183,Man on a Ledge ,6.6
+1184,The Big Year ,6.2
+1185,The Karate Kid ,7.2
+1186,American Hustle ,7.3
+1187,The Proposal ,6.7
+1188,Double Jeopardy ,6.4
+1189,Back to the Future Part II ,7.8
+1190,Lucy ,6.4
+1191,Fifty Shades of Grey ,4.1
+1192,Spy Kids 3-D: Game Over ,4.1
+1193,A Time to Kill ,7.4
+1194,Cheaper by the Dozen ,5.8
+1195,Lone Survivor ,7.6
+1196,A League of Their Own ,7.2
+1197,The Conjuring 2 ,7.8
+1198,The Social Network ,7.7
+1199,He's Just Not That Into You ,6.4
+1200,Scary Movie 4 ,5.1
+1201,Scream 3 ,5.5
+1202,Back to the Future Part III ,7.4
+1203,Get Hard ,6.0
+1204,Bram Stoker's Dracula ,7.5
+1205,Julie & Julia ,7.0
+1206,42 ,7.5
+1207,The Talented Mr. Ripley ,7.3
+1208,Dumb and Dumber To ,5.7
+1209,Eight Below ,7.3
+1210,The Intern ,7.2
+1211,Ride Along 2 ,5.9
+1212,The Last of the Mohicans ,7.8
+1213,Ray ,7.7
+1214,Sin City ,8.1
+1215,Vantage Point ,6.6
+1216,"I Love You, Man ",7.1
+1217,Shallow Hal ,5.9
+1218,JFK ,8.0
+1219,Big Momma's House 2 ,4.6
+1220,The Mexican ,6.1
+1221,Unbroken ,7.2
+1222,17 Again ,6.4
+1223,The Other Woman ,6.0
+1224,The Final Destination ,5.2
+1225,Bridge of Spies ,7.6
+1226,Behind Enemy Lines ,6.4
+1227,Get Him to the Greek ,6.4
+1228,Shall We Dance ,6.1
+1229,Small Soldiers ,6.1
+1230,Spawn ,5.2
+1231,The Count of Monte Cristo ,7.7
+1232,The Lincoln Lawyer ,7.3
+1233,Unknown ,6.9
+1234,The Prestige ,8.5
+1235,Horrible Bosses 2 ,6.3
+1236,Escape from Planet Earth ,5.9
+1237,Apocalypto ,7.8
+1238,The Living Daylights ,6.7
+1239,Predators ,6.4
+1240,Legal Eagles ,5.9
+1241,Secret Window ,6.6
+1242,The Lake House ,6.8
+1243,The Skeleton Key ,6.5
+1244,The Odd Life of Timothy Green ,6.6
+1245,Made of Honor ,5.8
+1246,Jersey Boys ,6.9
+1247,The Rainmaker ,7.1
+1248,Gothika ,5.8
+1249,Amistad ,7.2
+1250,Medicine Man ,6.0
+1251,Aliens vs. Predator: Requiem ,4.7
+1252,Ri¢hie Ri¢h ,5.2
+1253,Autumn in New York ,5.5
+1254,Music and Lyrics ,6.5
+1255,Paul ,7.0
+1256,The Guilt Trip ,5.8
+1257,Scream 4 ,6.2
+1258,8MM ,6.5
+1259,The Doors ,7.2
+1260,Sex Tape ,5.1
+1261,Hanging Up ,4.7
+1262,Final Destination 5 ,5.9
+1263,Mickey Blue Eyes ,5.8
+1264,Pay It Forward ,7.2
+1265,Fever Pitch ,6.2
+1266,Arthur             ,7.4
+1267,Drillbit Taylor ,5.7
+1268,A Million Ways to Die in the West ,6.1
+1269,The Shadow ,6.0
+1270,Extremely Loud & Incredibly Close ,6.9
+1271,Morning Glory ,6.5
+1272,Get Rich or Die Tryin' ,5.0
+1273,The Art of War ,5.7
+1274,Rent ,7.0
+1275,Bless the Child ,5.1
+1276,The Out-of-Towners ,5.3
+1277,The Island of Dr. Moreau ,4.4
+1278,The Musketeer ,4.7
+1279,The Other Boleyn Girl ,6.7
+1280,Sweet November ,6.7
+1281,The Reaping ,5.7
+1282,Mean Streets ,7.4
+1283,Renaissance Man ,6.1
+1284,Colombiana ,6.4
+1285,The Magic Sword: Quest for Camelot ,6.2
+1286,City by the Sea ,6.2
+1287,At First Sight ,5.9
+1288,Torque ,4.0
+1289,City Hall ,6.2
+1290,Showgirls ,4.6
+1291,Marie Antoinette ,6.4
+1292,Kiss of Death ,5.9
+1293,Get Carter ,5.1
+1294,The Impossible ,7.6
+1295,Ishtar ,4.2
+1296,Fantastic Mr. Fox ,7.8
+1297,Life or Something Like It ,5.8
+1298,Memoirs of an Invisible Man ,5.9
+1299,Amélie ,8.4
+1300,New York Minute ,4.8
+1301,Alfie ,6.2
+1302,Big Miracle ,6.5
+1303,The Deep End of the Ocean ,6.3
+1304,Feardotcom ,3.3
+1305,Cirque du Freak: The Vampire's Assistant ,5.9
+1306,Victor Frankenstein ,6.0
+1307,Duplex ,5.8
+1308,Soul Men ,6.5
+1309,Raise the Titanic ,4.7
+1310,Universal Soldier: The Return ,4.1
+1311,Pandorum ,6.8
+1312,Impostor ,6.2
+1313,Extreme Ops ,4.5
+1314,Just Visiting ,5.8
+1315,Sunshine ,7.3
+1316,A Thousand Words ,5.9
+1317,Delgo ,4.4
+1318,The Gunman ,5.8
+1319,Alex Rider: Operation Stormbreaker ,5.1
+1320,Disturbia ,6.9
+1321,Hackers ,6.2
+1322,The Hunting Party ,6.9
+1323,The Hudsucker Proxy ,7.3
+1324,The Warlords ,7.1
+1325,Nomad: The Warrior ,6.0
+1326,Snowpiercer ,7.0
+1327,A Monster in Paris ,6.8
+1328,The Last Shot ,5.7
+1329,The Crow ,7.6
+1330,Baahubali: The Beginning ,8.4
+1331,The Time Traveler's Wife ,7.1
+1332,Because I Said So ,5.6
+1333,The Fast and the Furious ,6.7
+1334,Frankenweenie ,7.0
+1335,Serenity ,8.0
+1336,Against the Ropes ,5.3
+1337,Superman III ,4.9
+1338,Grudge Match ,6.4
+1339,Red Cliff ,7.4
+1340,Sweet Home Alabama ,6.1
+1341,The Ugly Truth ,6.5
+1342,Sgt. Bilko ,5.7
+1343,Spy Kids 2: Island of Lost Dreams ,5.1
+1344,Star Trek: Generations ,6.6
+1345,The Grandmaster ,6.5
+1346,Water for Elephants ,6.9
+1347,3rd Rock from the Sun             ,7.8
+1348,Dragon Nest: Warriors' Dawn ,6.4
+1349,The Hurricane ,7.6
+1350,Enough ,5.6
+1351,Heartbreakers ,6.2
+1352,Paul Blart: Mall Cop 2 ,4.4
+1353,Angel Eyes ,5.6
+1354,Joe Somebody ,5.5
+1355,The Ninth Gate ,6.7
+1356,Extreme Measures ,6.1
+1357,Rock Star ,6.2
+1358,Precious ,7.3
+1359,White Squall ,6.6
+1360,The Thing ,8.2
+1361,Riddick ,6.4
+1362,Switchback ,6.4
+1363,Texas Rangers ,5.2
+1364,City of Ember ,6.5
+1365,The Master ,7.1
+1366,Virgin Territory ,4.8
+1367,The Express ,7.3
+1368,The 5th Wave ,5.2
+1369,Creed ,7.7
+1370,The Town ,7.6
+1371,What to Expect When You're Expecting ,5.7
+1372,Burn After Reading ,7.0
+1373,Nim's Island ,6.0
+1374,Rush ,8.1
+1375,Magnolia ,8.0
+1376,Cop Out ,5.6
+1377,How to Be Single ,6.1
+1378,Dolphin Tale ,6.9
+1379,Twilight ,5.2
+1380,John Q ,7.0
+1381,Blue Streak ,6.3
+1382,We're the Millers ,7.0
+1383,Obitaemyy ostrov ,5.3
+1384,Breakdown ,6.9
+1385,Never Say Never Again ,6.2
+1386,Hot Tub Time Machine ,6.4
+1387,Dolphin Tale 2 ,6.4
+1388,Reindeer Games ,5.7
+1389,A Man Apart ,6.1
+1390,Aloha ,5.4
+1391,Ghosts of Mississippi ,6.7
+1392,Snow Falling on Cedars ,6.8
+1393,The Rite ,6.0
+1394,Gattaca ,7.8
+1395,Isn't She Great ,5.3
+1396,Space Chimps ,4.5
+1397,Head of State ,5.4
+1398,The Hangover ,7.8
+1399,Ip Man 3 ,7.2
+1400,Austin Powers: The Spy Who Shagged Me ,6.6
+1401,Batman ,7.6
+1402,There Be Dragons ,5.9
+1403,Lethal Weapon 3 ,6.7
+1404,The Blind Side ,7.7
+1405,Rush Hour             ,5.8
+1406,Spy Kids ,5.4
+1407,Horrible Bosses ,6.9
+1408,True Grit ,7.7
+1409,The Devil Wears Prada ,6.8
+1410,Star Trek: The Motion Picture ,6.4
+1411,Identity Thief ,5.7
+1412,Cape Fear ,7.3
+1413,21 ,6.8
+1414,Trainwreck ,6.3
+1415,Guess Who ,5.9
+1416,The English Patient ,7.4
+1417,L.A. Confidential ,8.3
+1418,Sky High ,6.2
+1419,In & Out ,6.3
+1420,Species ,5.8
+1421,A Nightmare on Elm Street ,7.5
+1422,The Cell ,6.3
+1423,The Man in the Iron Mask ,6.4
+1424,Secretariat ,7.2
+1425,TMNT ,6.3
+1426,Radio ,6.9
+1427,Friends with Benefits ,6.6
+1428,Neighbors 2: Sorority Rising ,6.0
+1429,Saving Mr. Banks ,7.5
+1430,Malcolm X ,7.7
+1431,This Is 40 ,6.2
+1432,Old Dogs ,5.4
+1433,Underworld: Rise of the Lycans ,6.6
+1434,License to Wed ,5.3
+1435,The Benchwarmers ,5.6
+1436,Must Love Dogs ,5.9
+1437,Donnie Brasco ,7.8
+1438,Resident Evil ,6.7
+1439,Poltergeist ,7.4
+1440,The Ladykillers ,6.2
+1441,Max Payne ,5.4
+1442,In Time ,6.7
+1443,The Back-up Plan ,5.3
+1444,Something Borrowed ,5.9
+1445,Hit the Floor             ,7.0
+1446,Black Knight ,4.8
+1447,The Bad News Bears ,7.3
+1448,Street Fighter ,3.8
+1449,The Pianist ,8.5
+1450,From Hell ,6.8
+1451,The Nativity Story ,6.8
+1452,House of Wax ,5.3
+1453,Closer ,7.3
+1454,J. Edgar ,6.6
+1455,Mirrors ,6.2
+1456,Queen of the Damned ,5.2
+1457,Predator 2 ,6.2
+1458,Untraceable ,6.2
+1459,Blast from the Past ,6.6
+1460,Flash Gordon ,6.4
+1461,Jersey Girl ,6.2
+1462,Alex Cross ,5.1
+1463,Midnight in the Garden of Good and Evil ,6.6
+1464,Heist ,6.1
+1465,Nanny McPhee Returns ,6.1
+1466,Hoffa ,6.6
+1467,The X Files: I Want to Believe ,5.9
+1468,Ella Enchanted ,6.3
+1469,Concussion ,7.1
+1470,Abduction ,5.0
+1471,Valiant ,5.6
+1472,Wonder Boys ,7.4
+1473,Superhero Movie ,4.5
+1474,Broken City ,6.2
+1475,Cursed ,5.0
+1476,Premium Rush ,6.5
+1477,Hot Pursuit ,5.1
+1478,The Four Feathers ,6.5
+1479,Parker ,6.2
+1480,Wimbledon ,6.3
+1481,Furry Vengeance ,3.8
+1482,Bait ,5.2
+1483,Krull ,6.0
+1484,Lions for Lambs ,6.2
+1485,Flight of the Intruder ,5.7
+1486,Walk Hard: The Dewey Cox Story ,6.7
+1487,The Shipping News ,6.8
+1488,American Outlaws ,6.0
+1489,The Young Victoria ,7.3
+1490,Whiteout ,5.5
+1491,The Tree of Life ,6.7
+1492,Knock Off ,4.8
+1493,Sabotage ,5.7
+1494,The Order ,5.1
+1495,Punisher: War Zone ,6.0
+1496,Zoom ,4.2
+1497,The Walk ,7.4
+1498,Warriors of Virtue ,4.6
+1499,A Good Year ,6.9
+1500,Luther             ,8.6
+1501,Radio Flyer ,6.9
+1502,"Blood In, Blood Out ",8.0
+1503,Smilla's Sense of Snow ,6.4
+1504,Femme Fatale ,6.3
+1505,Lion of the Desert ,8.4
+1506,The Horseman on the Roof ,7.1
+1507,Ride with the Devil ,6.8
+1508,Biutiful ,7.5
+1509,The Lovers ,4.5
+1510,Bandidas ,5.7
+1511,Black Water Transit ,7.2
+1512,The Maze Runner ,6.8
+1513,Unfinished Business ,5.4
+1514,The Age of Innocence ,7.2
+1515,The Fountain ,7.3
+1516,Chill Factor ,5.2
+1517,Stolen ,5.5
+1518,Ponyo ,7.7
+1519,The Longest Ride ,7.1
+1520,The Astronaut's Wife ,5.3
+1521,I Dreamed of Africa ,5.6
+1522,Playing for Keeps ,5.7
+1523,Mandela: Long Walk to Freedom ,7.1
+1524,Reds ,7.5
+1525,A Few Good Men ,7.6
+1526,Exit Wounds ,5.5
+1527,Big Momma's House ,5.1
+1528,Thunder and the House of Magic ,6.3
+1529,The Darkest Hour ,4.9
+1530,Step Up Revolution ,6.5
+1531,Snakes on a Plane ,5.6
+1532,The Watcher ,5.3
+1533,The Punisher ,6.5
+1534,Goal! The Dream Begins ,6.8
+1535,Safe ,6.5
+1536,Pushing Tin ,6.0
+1537,Star Wars: Episode VI - Return of the Jedi ,8.4
+1538,Doomsday ,6.0
+1539,The Reader ,7.6
+1540,Wanderlust ,5.6
+1541,Elf ,6.9
+1542,Phenomenon ,6.4
+1543,Snow Dogs ,5.1
+1544,Scrooged ,7.0
+1545,Nacho Libre ,5.7
+1546,Bridesmaids ,6.8
+1547,This Is the End ,6.7
+1548,Stigmata ,6.2
+1549,Men of Honor ,7.2
+1550,Takers ,6.2
+1551,The Big Wedding ,5.6
+1552,"Big Mommas: Like Father, Like Son ",4.4
+1553,Source Code ,7.5
+1554,Alive ,7.1
+1555,The Number 23 ,6.4
+1556,The Young and Prodigious T.S. Spivet ,7.1
+1557,1941 ,5.9
+1558,Dreamer: Inspired by a True Story ,6.9
+1559,A History of Violence ,7.5
+1560,Transporter 2 ,6.3
+1561,The Quick and the Dead ,6.4
+1562,Laws of Attraction ,5.9
+1563,Bringing Out the Dead ,6.8
+1564,Repo Men ,6.3
+1565,Dragon Wars: D-War ,3.6
+1566,Bogus ,5.3
+1567,The Incredible Burt Wonderstone ,5.9
+1568,Cats Don't Dance ,6.9
+1569,Cradle Will Rock ,6.9
+1570,The Good German ,6.1
+1571,George and the Dragon ,5.7
+1572,Apocalypse Now ,8.5
+1573,Going the Distance ,6.3
+1574,Mr. Holland's Opus ,7.3
+1575,Criminal ,6.3
+1576,Out of Africa ,7.2
+1577,Flight ,7.3
+1578,Moonraker ,6.3
+1579,The Grand Budapest Hotel ,8.1
+1580,Hearts in Atlantis ,6.9
+1581,Arachnophobia ,6.3
+1582,Frequency ,7.3
+1583,Ghostbusters ,5.5
+1584,Vacation ,6.1
+1585,Get Shorty ,6.9
+1586,Chicago ,7.2
+1587,Big Daddy ,6.4
+1588,American Pie 2 ,6.4
+1589,Toy Story ,8.3
+1590,Speed ,7.2
+1591,The Vow ,6.8
+1592,Extraordinary Measures ,6.5
+1593,Remember the Titans ,7.8
+1594,The Hunt for Red October ,7.6
+1595,Lee Daniels' The Butler ,7.2
+1596,Dodgeball: A True Underdog Story ,6.7
+1597,The Addams Family ,6.8
+1598,Ace Ventura: When Nature Calls ,6.3
+1599,The Princess Diaries ,6.2
+1600,The First Wives Club ,6.2
+1601,Se7en ,8.6
+1602,District 9 ,8.0
+1603,The SpongeBob SquarePants Movie ,7.0
+1604,Mystic River ,8.0
+1605,Million Dollar Baby ,8.1
+1606,Analyze This ,6.7
+1607,The Notebook ,7.9
+1608,27 Dresses ,6.1
+1609,Hannah Montana: The Movie ,4.2
+1610,Rugrats in Paris: The Movie ,6.1
+1611,The Prince of Tides ,6.6
+1612,Legends of the Fall ,7.5
+1613,Up in the Air ,7.4
+1614,About Schmidt ,7.2
+1615,Warm Bodies ,6.9
+1616,Looper ,7.4
+1617,Down to Earth ,5.4
+1618,Babe ,6.8
+1619,Hope Springs ,6.3
+1620,Forgetting Sarah Marshall ,7.2
+1621,Friday Night Lights             ,8.7
+1622,Four Brothers ,6.9
+1623,Baby Mama ,6.0
+1624,Hope Floats ,5.9
+1625,Bride Wars ,5.4
+1626,Without a Paddle ,5.9
+1627,13 Going on 30 ,6.1
+1628,Midnight in Paris ,7.7
+1629,The Nut Job ,5.8
+1630,Blow ,7.6
+1631,Message in a Bottle ,6.1
+1632,Star Trek V: The Final Frontier ,5.4
+1633,Like Mike ,5.1
+1634,Naked Gun 33 1/3: The Final Insult ,6.4
+1635,A View to a Kill ,6.3
+1636,The Curse of the Were-Rabbit ,7.5
+1637,P.S. I Love You ,7.1
+1638,Racing Stripes ,5.2
+1639,Atonement ,7.8
+1640,Letters to Juliet ,6.5
+1641,Black Rain ,6.6
+1642,The Three Stooges ,5.1
+1643,Corpse Bride ,7.4
+1644,Glory Road ,7.2
+1645,Sicario ,7.6
+1646,Southpaw ,7.5
+1647,Drag Me to Hell ,6.6
+1648,The Age of Adaline ,7.2
+1649,Secondhand Lions ,7.6
+1650,Step Up 3D ,6.2
+1651,Blue Crush ,5.6
+1652,Stranger Than Fiction ,7.6
+1653,30 Days of Night ,6.6
+1654,The Cabin in the Woods ,7.0
+1655,Meet the Spartans ,2.7
+1656,Midnight Run ,7.6
+1657,The Running Man ,6.6
+1658,Little Shop of Horrors ,6.9
+1659,Hanna ,6.8
+1660,The Family             ,7.5
+1661,Mortal Kombat: Annihilation ,3.7
+1662,Larry Crowne ,6.1
+1663,Carrie ,5.9
+1664,Take the Lead ,6.7
+1665,Entourage             ,8.5
+1666,Gridiron Gang ,6.9
+1667,What's the Worst That Could Happen? ,5.5
+1668,9 ,7.1
+1669,Side Effects ,7.1
+1670,The Prince and Me ,5.9
+1671,Winnie the Pooh ,7.3
+1672,Dumb and Dumberer: When Harry Met Lloyd ,3.4
+1673,Bulworth ,6.8
+1674,Get on Up ,6.9
+1675,One True Thing ,7.0
+1676,Virtuosity ,5.5
+1677,My Super Ex-Girlfriend ,5.1
+1678,Deliver Us from Evil ,6.2
+1679,Sanctum ,5.9
+1680,Little Black Book ,5.2
+1681,The Five-Year Engagement ,6.2
+1682,Mr 3000 ,5.5
+1683,The Next Three Days ,7.4
+1684,Ultraviolet ,4.4
+1685,Assault on Precinct 13 ,6.3
+1686,The Replacement Killers ,6.1
+1687,Fled ,5.3
+1688,Eight Legged Freaks ,5.4
+1689,Love & Other Drugs ,6.7
+1690,88 Minutes ,5.9
+1691,North Country ,7.3
+1692,The Whole Ten Yards ,5.5
+1693,Splice ,5.8
+1694,Howard the Duck ,4.6
+1695,Pride and Glory ,6.7
+1696,The Cave ,5.1
+1697,Alex & Emma ,5.6
+1698,Wicker Park ,7.0
+1699,Fright Night ,6.4
+1700,The New World ,6.7
+1701,Wing Commander ,4.1
+1702,In Dreams ,5.5
+1703,Dragonball: Evolution ,2.7
+1704,The Last Stand ,6.4
+1705,Godsend ,4.8
+1706,Chasing Liberty ,6.1
+1707,Hoodwinked Too! Hood vs. Evil ,4.8
+1708,An Unfinished Life ,7.0
+1709,The Imaginarium of Doctor Parnassus ,6.8
+1710,Barney's Version ,7.3
+1711,Trapped             ,8.2
+1712,Runner Runner ,5.6
+1713,Antitrust ,6.1
+1714,Glory ,7.9
+1715,Once Upon a Time in America ,8.4
+1716,Dead Man Down ,6.5
+1717,The Merchant of Venice ,7.1
+1718,The Good Thief ,6.6
+1719,Supercross ,4.0
+1720,Miss Potter ,7.0
+1721,The Promise ,5.6
+1722,DOA: Dead or Alive ,4.8
+1723,The Assassination of Jesse James by the Coward Robert Ford ,7.5
+1724,1911 ,6.0
+1725,Little Nicholas ,7.2
+1726,Wild Card ,5.6
+1727,Machine Gun Preacher ,6.8
+1728,Animals United ,4.9
+1729,The Color of Freedom ,7.1
+1730,United Passions ,2.0
+1731,Grace of Monaco ,5.7
+1732,A Warrior's Tail ,4.1
+1733,Ripley's Game ,6.7
+1734,Sausage Party ,7.5
+1735,Pitch Perfect 2 ,6.5
+1736,Walk the Line ,7.9
+1737,12 Monkeys             ,7.6
+1738,Keeping the Faith ,6.4
+1739,The Borrowers ,5.8
+1740,Frost/Nixon ,7.7
+1741,Confessions of a Dangerous Mind ,7.1
+1742,Serving Sara ,5.3
+1743,The Boss ,5.3
+1744,Cry Freedom ,7.5
+1745,Mumford ,6.9
+1746,Seed of Chucky ,4.9
+1747,The Jacket ,7.1
+1748,Aladdin ,8.0
+1749,Straight Outta Compton ,7.9
+1750,Indiana Jones and the Temple of Doom ,7.6
+1751,The Rugrats Movie ,5.9
+1752,Along Came a Spider ,6.3
+1753,Florence Foster Jenkins ,7.1
+1754,Once Upon a Time in Mexico ,6.4
+1755,Die Hard ,8.2
+1756,Role Models ,6.9
+1757,The Big Short ,7.8
+1758,Taking Woodstock ,6.7
+1759,Miracle ,7.5
+1760,Dawn of the Dead ,7.4
+1761,The Wedding Planner ,5.2
+1762,Harlock: Space Pirate ,6.5
+1763,The Royal Tenenbaums ,7.6
+1764,Identity ,7.3
+1765,Last Vegas ,6.6
+1766,For Your Eyes Only ,6.8
+1767,Serendipity ,6.9
+1768,Timecop ,5.8
+1769,Zoolander ,6.6
+1770,Safe Haven ,6.7
+1771,Hocus Pocus ,6.7
+1772,No Reservations ,6.3
+1773,Kick-Ass ,7.7
+1774,30 Minutes or Less ,6.1
+1775,Dracula 2000 ,4.9
+1776,"Alexander and the Terrible, Horrible, No Good, Very Bad Day ",6.2
+1777,Pride & Prejudice ,7.8
+1778,Blade Runner ,8.2
+1779,Rob Roy ,6.9
+1780,3 Days to Kill ,6.2
+1781,We Own the Night ,6.9
+1782,Lost Souls ,4.8
+1783,Winged Migration ,8.0
+1784,Just My Luck ,5.3
+1785,"Mystery, Alaska ",6.7
+1786,The Spy Next Door ,5.4
+1787,A Simple Wish ,5.4
+1788,Ghosts of Mars ,4.9
+1789,Our Brand Is Crisis ,6.1
+1790,Pride and Prejudice and Zombies ,5.8
+1791,Kundun ,7.0
+1792,How to Lose Friends & Alienate People ,6.5
+1793,Kick-Ass 2 ,6.6
+1794,Captain Alatriste: The Spanish Musketeer ,6.1
+1795,Brick Mansions ,5.7
+1796,Octopussy ,6.6
+1797,Knocked Up ,7.0
+1798,My Sister's Keeper ,7.4
+1799,"Welcome Home, Roscoe Jenkins ",5.3
+1800,A Passage to India ,7.4
+1801,Notes on a Scandal ,7.4
+1802,Rendition ,6.8
+1803,Limitless             ,7.9
+1804,Star Trek VI: The Undiscovered Country ,7.2
+1805,Divine Secrets of the Ya-Ya Sisterhood ,6.0
+1806,The Jungle Book ,7.8
+1807,Kiss the Girls ,6.6
+1808,The Blues Brothers ,7.9
+1809,The Sisterhood of the Traveling Pants 2 ,6.2
+1810,Joyful Noise ,5.7
+1811,About a Boy ,7.1
+1812,Lake Placid ,5.6
+1813,Lucky Number Slevin ,7.8
+1814,The Right Stuff ,7.9
+1815,Anonymous ,6.9
+1816,The NeverEnding Story ,7.4
+1817,Dark City ,7.7
+1818,The Duchess ,6.9
+1819,The Honeymooners             ,8.7
+1820,Return to Oz ,6.7
+1821,The Newton Boys ,6.0
+1822,Case 39 ,6.2
+1823,Suspect Zero ,5.9
+1824,Martian Child ,6.8
+1825,Spy Kids: All the Time in the World in 4D ,3.6
+1826,Money Monster ,6.7
+1827,Formula 51 ,6.3
+1828,Flawless ,6.4
+1829,Mindhunters ,6.4
+1830,What Just Happened ,5.7
+1831,The Statement ,6.2
+1832,The Magic Flute ,6.6
+1833,Paul Blart: Mall Cop ,5.2
+1834,Freaky Friday ,6.1
+1835,The 40-Year-Old Virgin ,7.1
+1836,Shakespeare in Love ,7.2
+1837,A Walk Among the Tombstones ,6.5
+1838,Kindergarten Cop ,6.0
+1839,Pineapple Express ,7.0
+1840,Ever After: A Cinderella Story ,7.0
+1841,Open Range ,7.5
+1842,Flatliners ,6.6
+1843,It's Always Sunny in Philadelphia             ,8.8
+1844,A Bridge Too Far ,7.4
+1845,Red Eye ,6.5
+1846,Final Destination 2 ,6.2
+1847,"O Brother, Where Art Thou? ",7.8
+1848,Legion ,5.2
+1849,Pain & Gain ,6.5
+1850,In Good Company ,6.5
+1851,Clockstoppers ,5.2
+1852,Silverado ,7.2
+1853,Brothers ,7.1
+1854,Agent Cody Banks 2: Destination London ,4.5
+1855,New Year's Eve ,5.7
+1856,Original Sin ,6.0
+1857,The Raven ,6.4
+1858,Welcome to Mooseport ,5.2
+1859,Highlander: The Final Dimension ,4.3
+1860,Blood and Wine ,6.1
+1861,Snow White: A Tale of Terror ,6.3
+1862,The Curse of the Jade Scorpion ,6.8
+1863,Accidental Love ,4.0
+1864,Flipper ,5.2
+1865,Self/less ,6.5
+1866,The Constant Gardener ,7.5
+1867,The Passion of the Christ ,7.1
+1868,Mrs. Doubtfire ,6.9
+1869,Rain Man ,8.0
+1870,Gran Torino ,8.2
+1871,W. ,6.4
+1872,Taken ,7.9
+1873,The Best of Me ,6.7
+1874,The Bodyguard ,6.1
+1875,Schindler's List ,8.9
+1876,The Help ,8.1
+1877,The Fifth Estate ,6.2
+1878,Scooby-Doo 2: Monsters Unleashed ,4.9
+1879,Viy ,5.4
+1880,Freddy vs. Jason ,5.8
+1881,The Face of an Angel ,4.7
+1882,Jimmy Neutron: Boy Genius ,6.0
+1883,Cloverfield ,7.0
+1884,Teenage Mutant Ninja Turtles II: The Secret of the Ooze ,6.0
+1885,The Untouchables ,7.9
+1886,No Country for Old Men ,8.1
+1887,Ride Along ,6.2
+1888,Bridget Jones's Diary ,6.7
+1889,Chocolat ,7.3
+1890,"Legally Blonde 2: Red, White & Blonde ",4.6
+1891,Parental Guidance ,6.1
+1892,No Strings Attached ,6.2
+1893,Tombstone ,7.8
+1894,Romeo Must Die ,6.1
+1895,The Omen ,7.6
+1896,Final Destination 3 ,5.8
+1897,The Lucky One ,6.5
+1898,Bridge to Terabithia ,7.2
+1899,Finding Neverland ,7.8
+1900,A Madea Christmas ,4.7
+1901,The Grey ,6.8
+1902,Hide and Seek ,5.9
+1903,Anchorman: The Legend of Ron Burgundy ,7.2
+1904,Goodfellas ,8.7
+1905,Agent Cody Banks ,5.0
+1906,Nanny McPhee ,6.6
+1907,Scarface ,8.3
+1908,Nothing to Lose ,6.7
+1909,The Last Emperor ,7.8
+1910,Contraband ,6.5
+1911,Money Talks ,6.1
+1912,There Will Be Blood ,8.1
+1913,The Wild Thornberrys Movie ,5.2
+1914,Rugrats Go Wild ,5.6
+1915,Undercover Brother ,5.8
+1916,The Sisterhood of the Traveling Pants ,6.6
+1917,Kiss of the Dragon ,6.6
+1918,The House Bunny ,5.5
+1919,Beauty Shop ,5.5
+1920,Million Dollar Arm ,7.0
+1921,The Giver ,6.5
+1922,What a Girl Wants ,5.8
+1923,Jeepers Creepers II ,5.6
+1924,Good Luck Chuck ,5.6
+1925,Cradle 2 the Grave ,5.8
+1926,The Hours ,7.6
+1927,She's the Man ,6.4
+1928,Mr. Bean's Holiday ,6.3
+1929,Anacondas: The Hunt for the Blood Orchid ,4.6
+1930,Blood Ties ,6.5
+1931,August Rush ,7.5
+1932,Elizabeth ,7.5
+1933,Bride of Chucky ,5.3
+1934,Tora! Tora! Tora! ,7.5
+1935,Spice World ,3.3
+1936,The Sitter ,5.7
+1937,Dance Flick ,3.5
+1938,The Shawshank Redemption ,9.3
+1939,Crocodile Dundee in Los Angeles ,4.8
+1940,Kingpin ,6.9
+1941,The Gambler ,6.0
+1942,August: Osage County ,7.3
+1943,Ice Princess ,6.0
+1944,A Lot Like Love ,6.6
+1945,Eddie the Eagle ,7.5
+1946,He Got Game ,6.9
+1947,Don Juan DeMarco ,6.8
+1948,Shaun the Sheep             ,8.3
+1949,Dear John ,6.3
+1950,The Losers ,6.4
+1951,Don't Be Afraid of the Dark ,5.6
+1952,War ,6.3
+1953,Punch-Drunk Love ,7.3
+1954,EuroTrip ,6.6
+1955,Half Past Dead ,4.6
+1956,Unaccompanied Minors ,5.1
+1957,"Bright Lights, Big City ",5.6
+1958,The Adventures of Pinocchio ,5.3
+1959,The Greatest Game Ever Played ,7.5
+1960,The Box ,5.6
+1961,The Ruins ,5.9
+1962,The Next Best Thing ,4.7
+1963,My Soul to Take ,4.8
+1964,The Girl Next Door ,6.8
+1965,Maximum Risk ,5.4
+1966,Stealing Harvard ,5.1
+1967,Legend ,7.0
+1968,Hot Rod ,6.7
+1969,Shark Night 3D ,4.0
+1970,Angela's Ashes ,7.3
+1971,Draft Day ,6.8
+1972,Lifeforce ,6.1
+1973,The Powerpuff Girls             ,7.2
+1974,The Conspirator ,7.0
+1975,Lords of Dogtown ,7.1
+1976,The 33 ,6.9
+1977,Big Trouble in Little China ,7.3
+1978,A Perfect Plan ,6.3
+1979,Warrior ,8.2
+1980,Michael Collins ,7.1
+1981,Gettysburg ,7.7
+1982,Stop-Loss ,6.5
+1983,Abandon ,4.9
+1984,Brokedown Palace ,6.4
+1985,The Possession ,5.9
+1986,Mrs. Winterbourne ,6.2
+1987,Straw Dogs ,5.8
+1988,The Hoax ,6.7
+1989,Stone Cold ,5.9
+1990,The Road ,7.3
+1991,Sheena ,4.8
+1992,Underclassman ,4.1
+1993,Say It Isn't So ,4.9
+1994,The World's Fastest Indian ,7.9
+1995,Snakes on a Plane ,5.6
+1996,Tank Girl ,5.2
+1997,King's Ransom ,4.1
+1998,Blindness ,6.6
+1999,BloodRayne ,2.9
+2000,Carnage ,7.2
+2001,Where the Truth Lies ,6.5
+2002,Cirque du Soleil: Worlds Away ,6.8
+2003,Without Limits ,7.2
+2004,Me and Orson Welles ,6.8
+2005,The Best Offer ,7.8
+2006,Bad Lieutenant: Port of Call New Orleans ,6.7
+2007,A Turtle's Tale: Sammy's Adventures ,6.1
+2008,Little White Lies ,7.1
+2009,Love Ranch ,5.7
+2010,The True Story of Puss'N Boots ,2.9
+2011,Space Dogs ,5.2
+2012,The Counselor ,5.3
+2013,Ironclad ,6.2
+2014,Waterloo ,7.3
+2015,Kung Fu Killer ,6.5
+2016,Red Sky ,4.1
+2017,Dangerous Liaisons ,7.7
+2018,On the Road ,6.1
+2019,Star Trek IV: The Voyage Home ,7.3
+2020,Rocky Balboa ,7.2
+2021,Point Break ,5.3
+2022,Scream 2 ,6.1
+2023,Jane Got a Gun ,5.8
+2024,Think Like a Man Too ,5.7
+2025,The Whole Nine Yards ,6.7
+2026,Footloose ,6.5
+2027,Old School ,7.2
+2028,The Fisher King ,7.6
+2029,I Still Know What You Did Last Summer ,4.6
+2030,Return to Me ,6.9
+2031,Zack and Miri Make a Porno ,6.6
+2032,Nurse Betty ,6.3
+2033,The Men Who Stare at Goats ,6.2
+2034,Double Take ,5.3
+2035,"Girl, Interrupted ",7.3
+2036,Win a Date with Tad Hamilton! ,5.6
+2037,Muppets from Space ,6.2
+2038,The Wiz ,5.2
+2039,Ready to Rumble ,5.3
+2040,Play It to the Bone ,5.4
+2041,I Don't Know How She Does It ,4.9
+2042,Piranha 3D ,5.5
+2043,Beyond the Sea ,6.7
+2044,Meet the Deedles ,3.9
+2045,The Princess and the Cobbler ,7.2
+2046,The Bridge of San Luis Rey ,5.1
+2047,Faster ,6.5
+2048,Howl's Moving Castle ,8.2
+2049,Zombieland ,7.7
+2050,King Kong ,7.2
+2051,The Waterboy ,6.1
+2052,Star Wars: Episode V - The Empire Strikes Back ,8.8
+2053,Bad Boys ,6.8
+2054,The Naked Gun 2½: The Smell of Fear ,6.8
+2055,Final Destination ,6.7
+2056,The Ides of March ,7.1
+2057,Pitch Black ,7.1
+2058,Someone Like You... ,6.1
+2059,Her ,8.0
+2060,Eddie the Eagle ,7.5
+2061,Joy Ride ,6.6
+2062,The Adventurer: The Curse of the Midas Box ,5.4
+2063,Anywhere But Here ,6.1
+2064,Chasing Liberty ,6.1
+2065,The Crew ,5.6
+2066,Haywire ,5.8
+2067,Jaws: The Revenge ,2.8
+2068,Marvin's Room ,6.7
+2069,The Longshots ,5.1
+2070,The End of the Affair ,7.2
+2071,Harley Davidson and the Marlboro Man ,6.0
+2072,In the Valley of Elah ,7.2
+2073,Coco Before Chanel ,6.7
+2074,Forsaken ,6.3
+2075,Chéri ,6.2
+2076,Rogue             ,6.8
+2077,Vanity Fair ,6.2
+2078,Bodyguards and Assassins ,6.9
+2079,1408 ,6.8
+2080,Spaceballs ,7.1
+2081,The Water Diviner ,7.1
+2082,Ghost ,7.0
+2083,There's Something About Mary ,7.1
+2084,The Santa Clause ,6.4
+2085,The Rookie ,7.0
+2086,The Game Plan ,6.2
+2087,The Bridges of Madison County ,7.5
+2088,The Animal ,4.8
+2089,Gandhi ,8.1
+2090,The Hundred-Foot Journey ,7.3
+2091,The Net ,5.8
+2092,I Am Sam ,7.6
+2093,Son of God ,5.6
+2094,Underworld ,7.0
+2095,Derailed ,6.6
+2096,The Informant! ,6.5
+2097,Shadowlands ,7.4
+2098,Deuce Bigalow: European Gigolo ,4.6
+2099,Delivery Man ,6.4
+2100,Victor Frankenstein ,6.0
+2101,Our Kind of Traitor ,6.4
+2102,Saving Silverman ,5.9
+2103,Diary of a Wimpy Kid: Dog Days ,6.4
+2104,Summer of Sam ,6.6
+2105,Jay and Silent Bob Strike Back ,6.9
+2106,The Island ,6.9
+2107,The Glass House ,5.8
+2108,"Hail, Caesar! ",6.4
+2109,Josie and the Pussycats ,5.3
+2110,Homefront ,6.5
+2111,The Little Vampire ,5.7
+2112,I Heart Huckabees ,6.7
+2113,RoboCop 3 ,3.9
+2114,Megiddo: The Omega Code 2 ,4.1
+2115,Darling Lili ,6.2
+2116,Dudley Do-Right ,3.8
+2117,The Transporter Refueled ,5.1
+2118,The Libertine ,6.4
+2119,Black Book ,7.8
+2120,Joyeux Noel ,7.8
+2121,Hit and Run ,6.1
+2122,Mad Money ,5.8
+2123,Before I Go to Sleep ,6.3
+2124,Sorcerer ,7.7
+2125,Stone ,5.4
+2126,Molière ,7.3
+2127,Out of the Furnace ,6.8
+2128,Michael Clayton ,7.3
+2129,My Fellow Americans ,6.5
+2130,Arlington Road ,7.2
+2131,Underdogs ,6.7
+2132,To Rome with Love ,6.3
+2133,Firefox ,5.9
+2134,South Park: Bigger Longer & Uncut ,7.8
+2135,Death at a Funeral ,7.4
+2136,Teenage Mutant Ninja Turtles III ,4.8
+2137,Hardball ,6.3
+2138,Silver Linings Playbook ,7.8
+2139,Freedom Writers ,7.5
+2140,For Colored Girls ,6.0
+2141,The Transporter ,6.8
+2142,Never Back Down ,6.6
+2143,The Rage: Carrie 2 ,4.6
+2144,The Bachelor             ,2.9
+2145,Away We Go ,7.1
+2146,Swing Vote ,6.1
+2147,Moonlight Mile ,6.7
+2148,Tinker Tailor Soldier Spy ,7.1
+2149,Molly ,5.8
+2150,The Beaver ,6.7
+2151,The Best Little Whorehouse in Texas ,5.8
+2152,eXistenZ ,6.8
+2153,Raiders of the Lost Ark ,8.5
+2154,Home Alone 2: Lost in New York ,6.6
+2155,Close Encounters of the Third Kind ,7.7
+2156,Pulse ,4.7
+2157,Beverly Hills Cop II ,6.4
+2158,Bringing Down the House ,5.5
+2159,The Silence of the Lambs ,8.6
+2160,Wayne's World ,7.0
+2161,Jackass 3D ,7.1
+2162,Jaws 2 ,5.7
+2163,Beverly Hills Chihuahua ,3.7
+2164,The Conjuring ,7.5
+2165,Are We There Yet? ,4.6
+2166,Tammy ,4.9
+2167,Disturbia ,6.9
+2168,School of Rock ,7.1
+2169,Mortal Kombat ,5.8
+2170,Wicker Park ,7.0
+2171,White Chicks ,5.4
+2172,The Descendants ,7.3
+2173,Holes ,7.1
+2174,The Last Song ,5.8
+2175,12 Years a Slave ,8.1
+2176,Drumline ,5.7
+2177,Why Did I Get Married Too? ,4.4
+2178,Edward Scissorhands ,7.9
+2179,Me Before You ,7.6
+2180,Madea's Witness Protection ,4.8
+2181,The French Connection ,7.8
+2182,Bad Moms ,6.7
+2183,Date Movie ,2.7
+2184,Return to Never Land ,5.8
+2185,Selma ,7.5
+2186,The Jungle Book 2 ,5.4
+2187,Boogeyman ,4.1
+2188,Premonition ,5.9
+2189,The Tigger Movie ,6.3
+2190,Orphan ,7.0
+2191,Max ,6.8
+2192,Meet the Browns             ,3.5
+2193,Epic Movie ,2.3
+2194,Conan the Barbarian ,6.9
+2195,Spotlight ,8.1
+2196,Lakeview Terrace ,6.1
+2197,The Grudge 2 ,5.0
+2198,How Stella Got Her Groove Back ,5.5
+2199,Bill & Ted's Bogus Journey ,6.2
+2200,Man of the Year ,6.2
+2201,The Black Hole ,5.9
+2202,The American ,6.3
+2203,Selena ,6.7
+2204,Vampires Suck ,3.5
+2205,Babel ,7.5
+2206,This Is Where I Leave You ,6.6
+2207,Doubt ,7.5
+2208,Team America: World Police ,7.2
+2209,Texas Chainsaw 3D ,4.8
+2210,Copycat ,6.6
+2211,Scary Movie 5 ,3.5
+2212,Paint Your Wagon ,6.7
+2213,Milk ,7.6
+2214,Risen ,6.3
+2215,Ghost Ship ,5.5
+2216,A Very Harold & Kumar 3D Christmas ,6.3
+2217,Wild Things ,6.5
+2218,The Stepfather ,5.6
+2219,The Debt ,6.9
+2220,High Fidelity ,7.6
+2221,One Missed Call ,3.9
+2222,Eye for an Eye ,6.1
+2223,The Bank Job ,7.3
+2224,Eternal Sunshine of the Spotless Mind ,8.3
+2225,You Again ,5.8
+2226,Street Kings ,6.8
+2227,The World's End ,7.0
+2228,Nancy Drew ,5.9
+2229,Daybreakers ,6.5
+2230,She's Out of My League ,6.4
+2231,Monte Carlo ,5.8
+2232,Stay Alive ,5.1
+2233,Quigley Down Under ,6.8
+2234,Alpha and Omega ,5.3
+2235,The Covenant ,5.3
+2236,Stick It ,6.4
+2237,Shorts ,4.9
+2238,To Die For ,6.8
+2239,Nerve ,7.1
+2240,Appaloosa ,6.8
+2241,Vampires ,6.1
+2242,Yu-Gi-Oh! Duel Monsters             ,7.0
+2243,Psycho ,8.5
+2244,My Best Friend's Girl ,5.9
+2245,Endless Love ,6.3
+2246,Georgia Rule ,5.9
+2247,Under the Rainbow ,5.4
+2248,Ladyhawke ,7.0
+2249,Simon Birch ,6.9
+2250,Reign Over Me ,7.5
+2251,Into the Wild ,8.2
+2252,School for Scoundrels ,5.9
+2253,Silent Hill: Revelation 3D ,5.0
+2254,From Dusk Till Dawn ,7.3
+2255,Pooh's Heffalump Movie ,6.4
+2256,Home for the Holidays ,6.6
+2257,Kung Fu Hustle ,7.8
+2258,Fired Up             ,6.7
+2259,The Country Bears ,4.0
+2260,The Kite Runner ,7.6
+2261,21 Grams ,7.7
+2262,Paparazzi ,5.8
+2263,Twilight ,5.2
+2264,A Guy Thing ,5.6
+2265,Loser ,5.3
+2266,Capitalism: A Love Story ,7.4
+2267,The Greatest Story Ever Told ,6.6
+2268,Secret in Their Eyes ,6.2
+2269,Disaster Movie ,1.9
+2270,Armored ,5.7
+2271,The Man Who Knew Too Little ,6.6
+2272,What's Your Number? ,6.0
+2273,Lockout ,6.1
+2274,Envy ,4.8
+2275,Crank: High Voltage ,6.2
+2276,Bullets Over Broadway ,7.5
+2277,One Night with the King ,6.3
+2278,The Quiet American ,7.1
+2279,The Weather Man ,6.6
+2280,Undisputed ,6.1
+2281,Ghost Town ,6.7
+2282,12 Rounds ,5.6
+2283,Let Me In ,7.2
+2284,3 Ninjas Kick Back ,4.3
+2285,Be Kind Rewind ,6.4
+2286,Mrs Henderson Presents ,7.1
+2287,Triple 9 ,6.3
+2288,Deconstructing Harry ,7.4
+2289,Three to Tango ,6.1
+2290,Burnt ,6.6
+2291,We're No Angels ,6.0
+2292,Everyone Says I Love You ,6.8
+2293,Death at a Funeral ,7.4
+2294,Death Sentence ,6.8
+2295,Everybody's Fine ,7.2
+2296,Superbabies: Baby Geniuses 2 ,1.9
+2297,The Man ,5.5
+2298,Code Name: The Cleaner ,4.5
+2299,Connie and Carla ,6.3
+2300,Sweet Charity ,7.0
+2301,Inherent Vice ,6.7
+2302,Doogal ,2.8
+2303,Battle of the Year ,5.0
+2304,Perception             ,7.5
+2305,An American Carol ,4.3
+2306,Machete Kills ,5.6
+2307,Willard ,6.2
+2308,Strange Wilderness ,5.3
+2309,Topsy-Turvy ,7.4
+2310,Little Boy ,7.4
+2311,A Dangerous Method ,6.5
+2312,A Scanner Darkly ,7.1
+2313,Chasing Mavericks ,7.2
+2314,Alone in the Dark ,2.3
+2315,Bandslam ,6.4
+2316,Birth ,6.1
+2317,A Most Violent Year ,7.0
+2318,Passchendaele ,6.5
+2319,Flash of Genius ,7.0
+2320,I'm Not There. ,7.0
+2321,The Cold Light of Day ,4.9
+2322,The Brothers Bloom ,6.9
+2323,"Synecdoche, New York ",7.5
+2324,Princess Mononoke ,8.4
+2325,Bon voyage ,6.9
+2326,Can't Stop the Music ,4.5
+2327,The Proposition ,7.4
+2328,Courage ,7.0
+2329,Marci X ,2.8
+2330,Equilibrium ,7.5
+2331,The Children of Huang Shi ,7.1
+2332,The Yards ,6.4
+2333,The Oogieloves in the Big Balloon Adventure ,6.7
+2334,By the Sea ,5.3
+2335,Steamboy ,6.9
+2336,The Game of Their Lives ,6.2
+2337,All Good Things ,6.3
+2338,Rapa Nui ,6.4
+2339,CJ7 ,6.5
+2340,Les couloirs du temps: Les visiteurs II ,6.0
+2341,Dylan Dog: Dead of Night ,5.1
+2342,People I Know ,5.5
+2343,The Doombolt Chase             ,7.2
+2344,The Tempest ,5.4
+2345,Regression ,5.7
+2346,The Touch ,5.2
+2347,Three Kingdoms: Resurrection of the Dragon ,6.2
+2348,Shattered ,6.7
+2349,Zambezia ,5.8
+2350,Ramanujan ,7.0
+2351,Dwegons and Leprechauns ,4.8
+2352,Hands of Stone ,7.2
+2353,Survivor ,5.6
+2354,The Frozen Ground ,6.4
+2355,The Painted Veil ,7.5
+2356,The Baader Meinhof Complex ,7.4
+2357,Dances with Wolves ,8.0
+2358,Bad Teacher ,5.7
+2359,Sea of Love ,6.8
+2360,A Cinderella Story ,5.9
+2361,Scream ,7.2
+2362,Thir13en Ghosts ,5.5
+2363,The Shining ,8.4
+2364,Back to the Future ,8.5
+2365,House on Haunted Hill ,5.6
+2366,I Can Do Bad All by Myself ,4.1
+2367,Fight Valley ,5.0
+2368,The Switch ,6.1
+2369,Just Married ,5.4
+2370,The Devil's Double ,7.1
+2371,"Gone, Baby, Gone             ",6.6
+2372,Thomas and the Magic Railroad ,3.6
+2373,The Crazies ,6.5
+2374,Spirited Away ,8.6
+2375,Firestorm ,6.2
+2376,The Bounty ,7.0
+2377,The Book Thief ,7.6
+2378,Sex Drive ,6.5
+2379,Leap Year ,6.4
+2380,The Fall of the Roman Empire ,6.7
+2381,Take Me Home Tonight ,6.3
+2382,Won't Back Down ,6.4
+2383,The Nutcracker ,5.7
+2384,Kansas City ,6.3
+2385,Indignation ,7.8
+2386,The Amityville Horror ,6.0
+2387,Adaptation. ,7.7
+2388,Land of the Dead ,6.2
+2389,Out of Inferno ,5.7
+2390,Fear and Loathing in Las Vegas ,7.7
+2391,The Invention of Lying ,6.4
+2392,Neighbors ,6.4
+2393,The Mask ,6.9
+2394,Big ,7.3
+2395,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan ,7.3
+2396,Legally Blonde ,6.2
+2397,Star Trek III: The Search for Spock ,6.6
+2398,The Exorcism of Emily Rose ,6.7
+2399,Deuce Bigalow: Male Gigolo ,5.7
+2400,Left Behind ,3.1
+2401,The Family Stone ,6.3
+2402,Barbershop 2: Back in Business ,5.7
+2403,Bad Santa ,7.1
+2404,Austin Powers: International Man of Mystery ,7.0
+2405,My Big Fat Greek Wedding 2 ,6.1
+2406,Diary of a Wimpy Kid: Rodrick Rules ,6.6
+2407,Predator ,7.8
+2408,Amadeus ,8.3
+2409,Prom Night ,3.9
+2410,Mean Girls ,7.0
+2411,Under the Tuscan Sun ,6.7
+2412,Gosford Park ,7.3
+2413,The O.C.             ,7.5
+2414,Peggy Sue Got Married ,6.3
+2415,Birdman or (The Unexpected Virtue of Ignorance) ,7.8
+2416,Blue Jasmine ,7.3
+2417,United 93 ,7.6
+2418,Honey ,5.3
+2419,Glory ,7.9
+2420,Spy Hard ,5.3
+2421,The Fog ,6.8
+2422,Soul Surfer ,7.1
+2423,Catch-22 ,7.2
+2424,Observe and Report ,5.8
+2425,Conan the Destroyer ,5.8
+2426,Raging Bull ,8.3
+2427,Love Happens ,5.6
+2428,Young Sherlock Holmes ,6.8
+2429,Fame ,5.0
+2430,127 Hours ,7.6
+2431,Small Time Crooks ,6.7
+2432,Center Stage ,6.7
+2433,Love the Coopers ,5.7
+2434,Catch That Kid ,5.2
+2435,Life as a House ,7.5
+2436,Steve Jobs ,7.2
+2437,"I Love You, Beth Cooper ",5.3
+2438,Youth in Revolt ,6.5
+2439,The Legend of the Lone Ranger ,5.0
+2440,The Tailor of Panama ,6.1
+2441,Blow Out ,7.4
+2442,Getaway ,4.4
+2443,The Ice Storm ,7.5
+2444,And So It Goes ,5.7
+2445,Troop Beverly Hills ,5.5
+2446,Being Julia ,7.1
+2447,9½ Weeks ,5.9
+2448,Dragonslayer ,6.7
+2449,The Last Station ,7.0
+2450,Ed Wood ,7.9
+2451,Labor Day ,6.9
+2452,Mongol: The Rise of Genghis Khan ,7.3
+2453,RocknRolla ,7.3
+2454,Megaforce ,3.5
+2455,Hamlet ,7.8
+2456,Mao's Last Dancer ,7.4
+2457,Midnight Special ,6.7
+2458,Anything Else ,6.4
+2459,The Railway Man ,7.1
+2460,Unforgettable             ,6.7
+2461,The White Ribbon ,7.8
+2462,Restoration ,4.0
+2463,The Wraith ,5.9
+2464,The Salton Sea ,7.2
+2465,Metallica Through the Never ,7.2
+2466,The Informers ,5.1
+2467,Carlos             ,7.7
+2468,I Come with the Rain ,5.5
+2469,One Man's Hero ,6.2
+2470,Day of the Dead ,7.2
+2471,I Am Wrath ,5.2
+2472,Renaissance ,6.7
+2473,Forsaken ,6.3
+2474,Red Sonja ,5.0
+2475,Red Lights ,6.2
+2476,Superbad ,7.6
+2477,Madea Goes to Jail ,4.1
+2478,Wolves ,5.3
+2479,Step Up 2: The Streets ,6.2
+2480,Hoodwinked! ,6.5
+2481,Hotel Rwanda ,8.1
+2482,Hitman ,6.3
+2483,Black Nativity ,4.4
+2484,The Prince ,4.6
+2485,City of Ghosts ,6.0
+2486,The Others ,7.6
+2487,Aliens ,8.4
+2488,My Fair Lady ,7.9
+2489,I Know What You Did Last Summer ,5.6
+2490,Let's Be Cops ,6.5
+2491,Sideways ,7.5
+2492,Beerfest ,6.3
+2493,Halloween ,7.9
+2494,Hero ,7.9
+2495,Good Boy! ,5.1
+2496,The Best Man Holiday ,6.7
+2497,Smokin' Aces ,6.7
+2498,Saw 3D: The Final Chapter ,5.6
+2499,40 Days and 40 Nights ,5.6
+2500,TRON: Legacy ,6.8
+2501,A Night at the Roxbury ,6.2
+2502,Beastly ,5.6
+2503,The Hills Have Eyes ,6.4
+2504,Dickie Roberts: Former Child Star ,5.6
+2505,"McFarland, USA ",7.4
+2506,Lottery Ticket ,4.9
+2507,ATL ,6.0
+2508,Pitch Perfect ,7.2
+2509,Summer Catch ,4.9
+2510,A Simple Plan ,7.5
+2511,They ,4.8
+2512,Larry the Cable Guy: Health Inspector ,3.1
+2513,The Adventures of Elmo in Grouchland ,5.8
+2514,Brooklyn's Finest ,6.7
+2515,55 Days at Peking ,6.8
+2516,Evil Dead ,6.5
+2517,My Life in Ruins ,5.9
+2518,American Dreamz ,5.5
+2519,Superman IV: The Quest for Peace ,3.6
+2520,How She Move ,3.3
+2521,Running Scared ,7.4
+2522,Bobby Jones: Stroke of Genius ,6.7
+2523,Shanghai Surprise ,3.0
+2524,The Illusionist ,7.6
+2525,Roar ,6.4
+2526,Veronica Guerin ,6.9
+2527,Escobar: Paradise Lost ,6.6
+2528,Southland Tales ,5.5
+2529,Dragon Hunters ,6.6
+2530,Damnation Alley ,5.2
+2531,The Apparition ,4.1
+2532,My Girl ,6.8
+2533,Fur: An Imaginary Portrait of Diane Arbus ,6.5
+2534,The Illusionist ,7.6
+2535,Wall Street ,7.4
+2536,Sense and Sensibility ,7.7
+2537,Becoming Jane ,7.1
+2538,Sydney White ,6.3
+2539,House of Sand and Fog ,7.6
+2540,Dead Poets Society ,8.0
+2541,Dumb & Dumber ,7.3
+2542,When Harry Met Sally... ,7.6
+2543,The Verdict ,7.8
+2544,Road Trip ,6.5
+2545,Varsity Blues ,6.4
+2546,The Artist ,8.0
+2547,The Unborn ,4.8
+2548,Moonrise Kingdom ,7.8
+2549,The Texas Chainsaw Massacre: The Beginning ,5.9
+2550,The Young Messiah ,5.4
+2551,The Master of Disguise ,3.3
+2552,Pan's Labyrinth ,8.2
+2553,The Messengers             ,6.6
+2554,See Spot Run ,5.4
+2555,Baby Boy ,6.4
+2556,The Roommate ,4.8
+2557,Joe Dirt ,5.9
+2558,Double Impact ,5.5
+2559,Hot Fuzz ,7.9
+2560,The Women ,4.9
+2561,Vicky Cristina Barcelona ,7.2
+2562,Arn: The Knight Templar ,6.6
+2563,Bad Moms ,6.7
+2564,Boys and Girls ,5.3
+2565,White Oleander ,7.2
+2566,Jennifer's Body ,5.1
+2567,Drowning Mona ,5.6
+2568,Radio Days ,7.6
+2569,Left Behind ,3.1
+2570,Remember Me ,7.2
+2571,How to Deal ,5.7
+2572,My Stepmother Is an Alien ,5.2
+2573,Philadelphia ,7.7
+2574,The Thirteenth Floor ,7.0
+2575,The Cookout ,3.6
+2576,Meteor ,4.9
+2577,Duets ,6.0
+2578,Hollywood Ending ,6.6
+2579,Detroit Rock City ,6.8
+2580,Highlander ,7.2
+2581,Things We Lost in the Fire ,7.2
+2582,Steel ,2.8
+2583,The Immigrant ,6.6
+2584,The White Countess ,6.7
+2585,Trance ,7.0
+2586,Soul Plane ,4.4
+2587,Welcome to the Sticks ,7.1
+2588,Good ,6.2
+2589,Enter the Void ,7.3
+2590,Vamps ,5.1
+2591,Hachi: A Dog's Tale ,8.1
+2592,Zulu ,6.7
+2593,The Homesman ,6.6
+2594,Juwanna Mann ,4.5
+2595,Lilyhammer             ,8.1
+2596,Ararat ,6.6
+2597,Madison ,6.5
+2598,Slow Burn ,5.9
+2599,Wasabi ,6.6
+2600,Slither ,6.5
+2601,Beverly Hills Cop ,7.3
+2602,Home Alone ,7.5
+2603,3 Men and a Baby ,5.9
+2604,Tootsie ,7.4
+2605,Top Gun ,6.9
+2606,"Crouching Tiger, Hidden Dragon ",7.9
+2607,American Beauty ,8.4
+2608,The King's Speech ,8.0
+2609,Twins ,6.0
+2610,Scream: The TV Series             ,7.3
+2611,The Yellow Handkerchief ,6.8
+2612,The Color Purple ,7.8
+2613,Tidal Wave ,5.7
+2614,Ben-Hur ,6.1
+2615,The Imitation Game ,8.1
+2616,Private Benjamin ,6.1
+2617,Coal Miner's Daughter ,7.5
+2618,Diary of a Wimpy Kid ,6.2
+2619,Mama ,6.2
+2620,Halloween ,7.9
+2621,National Lampoon's Vacation ,7.4
+2622,Bad Grandpa ,6.6
+2623,The Queen ,7.3
+2624,Beetlejuice ,7.5
+2625,Why Did I Get Married? ,5.6
+2626,Little Women ,7.3
+2627,The Woman in Black ,6.4
+2628,When a Stranger Calls ,5.0
+2629,Big Fat Liar ,5.4
+2630,The Deer Hunter ,8.2
+2631,Wag the Dog ,7.1
+2632,The Lizzie McGuire Movie ,5.3
+2633,Snitch ,6.5
+2634,Krampus ,6.2
+2635,The Faculty ,6.4
+2636,What's Love Got to Do with It ,7.2
+2637,Cop Land ,6.9
+2638,Not Another Teen Movie ,5.7
+2639,End of Watch ,7.7
+2640,Aloha ,5.4
+2641,The Skulls ,5.6
+2642,The Theory of Everything ,7.7
+2643,Malibu's Most Wanted ,5.1
+2644,Where the Heart Is ,6.8
+2645,Lawrence of Arabia ,8.4
+2646,Halloween II ,4.9
+2647,Wild ,7.1
+2648,The Last House on the Left ,6.6
+2649,The Wedding Date ,6.1
+2650,Halloween: Resurrection ,4.1
+2651,Clash of the Titans ,5.8
+2652,The Princess Bride ,8.1
+2653,The Great Debaters ,7.6
+2654,Drive ,7.8
+2655,Confessions of a Teenage Drama Queen ,4.6
+2656,The Object of My Affection ,6.0
+2657,28 Weeks Later ,7.0
+2658,When the Game Stands Tall ,6.7
+2659,Because of Winn-Dixie ,6.4
+2660,Love & Basketball ,7.2
+2661,Grosse Pointe Blank ,7.4
+2662,All About Steve ,4.8
+2663,Book of Shadows: Blair Witch 2 ,4.0
+2664,The Craft ,6.2
+2665,Match Point ,7.7
+2666,Ramona and Beezus ,6.7
+2667,The Remains of the Day ,7.9
+2668,Boogie Nights ,7.9
+2669,Nowhere to Run ,5.5
+2670,Flicka ,6.2
+2671,The Hills Have Eyes II ,5.1
+2672,Urban Legends: Final Cut ,4.1
+2673,Tuck Everlasting ,6.7
+2674,The Marine ,4.7
+2675,Keanu ,6.4
+2676,Country Strong ,6.3
+2677,Disturbing Behavior ,5.5
+2678,The Place Beyond the Pines ,7.3
+2679,The November Man ,6.3
+2680,Eye of the Beholder ,4.9
+2681,The Hurt Locker ,7.6
+2682,Firestarter ,6.0
+2683,Killing Them Softly ,6.2
+2684,A Most Wanted Man ,6.8
+2685,Freddy Got Fingered ,4.5
+2686,The Pirates Who Don't Do Anything: A VeggieTales Movie ,5.7
+2687,U2 3D ,8.4
+2688,Highlander: Endgame ,4.6
+2689,Idlewild ,6.2
+2690,One Day ,7.0
+2691,Whip It ,6.9
+2692,Knockaround Guys ,6.1
+2693,Confidence ,6.7
+2694,The Muse ,5.6
+2695,De-Lovely ,6.6
+2696,New York Stories ,6.4
+2697,Barney's Great Adventure ,2.8
+2698,The Man with the Iron Fists ,5.4
+2699,Home Fries ,5.0
+2700,Here on Earth ,5.1
+2701,Brazil ,8.0
+2702,Raise Your Voice ,5.9
+2703,The Dead Zone             ,7.5
+2704,The Big Lebowski ,8.2
+2705,Black Snake Moan ,7.0
+2706,Dark Blue ,6.6
+2707,A Mighty Heart ,6.7
+2708,Whatever It Takes ,5.5
+2709,Boat Trip ,4.9
+2710,The Importance of Being Earnest ,6.9
+2711,The Love Letter ,7.4
+2712,Hoot ,5.6
+2713,In Bruges ,8.0
+2714,Peeples ,5.3
+2715,The Rocker ,6.2
+2716,Post Grad ,5.3
+2717,Promised Land ,6.6
+2718,Whatever Works ,7.2
+2719,The In Crowd ,4.6
+2720,Three Burials ,7.5
+2721,Jakob the Liar ,6.5
+2722,Kiss Kiss Bang Bang ,7.6
+2723,Idle Hands ,6.2
+2724,Mulholland Drive ,8.0
+2725,Blood and Chocolate ,5.5
+2726,You Will Meet a Tall Dark Stranger ,6.3
+2727,Never Let Me Go ,7.2
+2728,The Company             ,7.9
+2729,Transsiberian ,6.7
+2730,The Clan of the Cave Bear ,5.3
+2731,Crazy in Alabama ,6.3
+2732,Funny Games ,6.5
+2733,Listening ,5.6
+2734,Felicia's Journey ,7.0
+2735,Metropolis ,8.3
+2736,District B13 ,7.2
+2737,Things to Do in Denver When You're Dead ,6.8
+2738,The Assassin ,6.4
+2739,Buffalo Soldiers ,6.9
+2740,The Return ,8.0
+2741,Ong-bak 2 ,6.2
+2742,Centurion ,6.4
+2743,Silent Trigger ,5.6
+2744,The Midnight Meat Train ,6.1
+2745,Winnie Mandela ,6.0
+2746,The Son of No One ,5.1
+2747,All the Queen's Men ,4.5
+2748,The Good Night ,5.9
+2749,Bathory: Countess of Blood ,6.0
+2750,Khumba ,5.8
+2751,Automata ,6.1
+2752,Dungeons & Dragons: Wrath of the Dragon God ,4.9
+2753,Chiamatemi Francesco - Il Papa della gente ,5.7
+2754,Shinjuku Incident ,7.1
+2755,Pandaemonium ,6.6
+2756,Groundhog Day ,8.1
+2757,Magic Mike XXL ,5.7
+2758,Romeo + Juliet ,6.8
+2759,Sarah's Key ,7.5
+2760,Freedom ,6.2
+2761,Unforgiven ,8.3
+2762,Manderlay ,7.4
+2763,Slumdog Millionaire ,8.0
+2764,Fatal Attraction ,6.9
+2765,Pretty Woman ,6.9
+2766,Towering Inferno             ,9.5
+2767,Crocodile Dundee II ,5.5
+2768,Broken Horses ,5.7
+2769,Born on the Fourth of July ,7.2
+2770,Cool Runnings ,6.9
+2771,My Bloody Valentine ,5.5
+2772,The Possession ,5.9
+2773,First Blood ,7.7
+2774,Stomp the Yard ,5.2
+2775,The Spy Who Loved Me ,7.1
+2776,Ghost Hunters             ,6.6
+2777,Urban Legend ,5.5
+2778,Dangerous Liaisons ,7.7
+2779,Good Deeds ,5.4
+2780,White Fang ,6.7
+2781,Superstar ,5.0
+2782,The Iron Lady ,6.4
+2783,Jonah: A VeggieTales Movie ,6.6
+2784,Poetic Justice ,5.9
+2785,All About the Benjamins ,5.7
+2786,Vampire in Brooklyn ,4.5
+2787,Exorcist II: The Heretic ,3.7
+2788,An American Haunting ,5.0
+2789,My Boss's Daughter ,4.6
+2790,A Perfect Getaway ,6.5
+2791,Our Family Wedding ,4.9
+2792,Dead Man on Campus ,6.0
+2793,Tea with Mussolini ,6.9
+2794,Thinner ,5.7
+2795,"New York, New York ",6.7
+2796,Crooklyn ,6.9
+2797,I Think I Love My Wife ,5.5
+2798,Jason X ,4.4
+2799,Big Fat Liar ,5.4
+2800,Bobby ,7.0
+2801,Head Over Heels ,5.4
+2802,Fun Size ,5.4
+2803,The Diving Bell and the Butterfly ,8.0
+2804,Little Children ,7.6
+2805,Gossip ,5.9
+2806,A Walk on the Moon ,6.6
+2807,Catch a Fire ,6.7
+2808,Soul Survivors ,3.9
+2809,Jefferson in Paris ,5.7
+2810,Easy Virtue ,6.7
+2811,Caravans ,6.5
+2812,Mr. Turner ,6.8
+2813,Wild Grass ,6.3
+2814,Amen. ,7.3
+2815,Reign of Assassins ,6.9
+2816,The Lucky Ones ,7.0
+2817,Margaret ,6.5
+2818,Stan Helsing ,3.6
+2819,Flipped ,7.7
+2820,Brokeback Mountain ,7.7
+2821,Teenage Mutant Ninja Turtles ,5.9
+2822,Clueless ,6.8
+2823,Far from Heaven ,7.4
+2824,Hot Tub Time Machine 2 ,5.1
+2825,Dekalog             ,9.1
+2826,Quills ,7.4
+2827,Seven Psychopaths ,7.2
+2828,The Caveman's Valentine ,6.0
+2829,The Border             ,7.4
+2830,Downfall ,8.3
+2831,The Sea Inside ,8.1
+2832,Under the Skin ,6.3
+2833,"Good Morning, Vietnam ",7.3
+2834,The Last Godfather ,3.6
+2835,Justin Bieber: Never Say Never ,1.6
+2836,Black Swan ,8.0
+2837,RoboCop ,6.2
+2838,The Godfather: Part II ,9.0
+2839,Save the Last Dance ,6.1
+2840,A Nightmare on Elm Street 4: The Dream Master ,5.7
+2841,Miracles from Heaven ,6.8
+2842,"Dude, Where's My Car? ",5.5
+2843,Young Guns ,6.8
+2844,St. Vincent ,7.3
+2845,About Last Night ,6.1
+2846,10 Things I Hate About You ,7.2
+2847,The New Guy ,5.9
+2848,Loaded Weapon 1 ,6.1
+2849,The Shallows ,6.8
+2850,The Butterfly Effect ,7.7
+2851,Snow Day ,4.9
+2852,This Christmas ,6.1
+2853,Baby Geniuses ,2.5
+2854,The Big Hit ,6.1
+2855,Harriet the Spy ,5.9
+2856,Child's Play 2 ,5.7
+2857,No Good Deed ,5.6
+2858,The Mist ,7.2
+2859,Ex Machina ,7.7
+2860,Being John Malkovich ,7.8
+2861,Two Can Play That Game ,6.1
+2862,Earth to Echo ,5.8
+2863,Crazy/Beautiful ,6.5
+2864,Letters from Iwo Jima ,7.9
+2865,The Astronaut Farmer ,6.3
+2866,Woo ,3.8
+2867,Room ,8.3
+2868,Dirty Work ,6.4
+2869,Serial Mom ,6.7
+2870,Dick ,6.1
+2871,Del 1 - Män som hatar kvinnor             ,8.1
+2872,Light It Up ,6.0
+2873,54 ,5.8
+2874,Bubble Boy ,5.6
+2875,Birthday Girl ,6.1
+2876,21 & Over ,5.9
+2877,"Paris, je t'aime ",7.3
+2878,Resurrecting the Champ ,6.8
+2879,Admission ,5.7
+2880,The Widow of Saint-Pierre ,7.3
+2881,Chloe ,6.3
+2882,Faithful ,5.9
+2883,Brothers ,7.1
+2884,Find Me Guilty ,7.1
+2885,The Perks of Being a Wallflower ,8.0
+2886,Excessive Force ,5.1
+2887,Infamous ,7.1
+2888,The Claim ,6.5
+2889,The Vatican Tapes ,4.5
+2890,Attack the Block ,6.6
+2891,In the Land of Blood and Honey ,4.3
+2892,The Call ,6.7
+2893,Operation Chromite ,6.8
+2894,The Crocodile Hunter: Collision Course ,5.4
+2895,I Love You Phillip Morris ,6.6
+2896,Quest for Fire ,7.4
+2897,Antwone Fisher ,7.3
+2898,The Emperor's Club ,6.9
+2899,True Romance ,8.0
+2900,Womb ,6.4
+2901,Glengarry Glen Ross ,7.8
+2902,The Killer Inside Me ,6.1
+2903,Cat People ,6.1
+2904,Sorority Row ,5.1
+2905,The Prisoner of Zenda ,7.8
+2906,Lars and the Real Girl ,7.4
+2907,The Boy in the Striped Pajamas ,7.8
+2908,Dancer in the Dark ,8.0
+2909,Oscar and Lucinda ,6.7
+2910,The Funeral ,6.6
+2911,Solitary Man ,6.4
+2912,Machete ,6.7
+2913,Casino Jack ,6.2
+2914,The Land Before Time ,7.3
+2915,Tae Guk Gi: The Brotherhood of War ,8.1
+2916,The Perfect Game ,7.0
+2917,The Exorcist ,8.0
+2918,Jaws ,8.0
+2919,American Pie ,7.0
+2920,Ernest & Celestine ,7.9
+2921,The Golden Child ,5.9
+2922,Think Like a Man ,6.6
+2923,Barbershop ,6.3
+2924,Star Trek II: The Wrath of Khan ,7.7
+2925,Ace Ventura: Pet Detective ,6.9
+2926,WarGames ,7.1
+2927,Witness ,7.4
+2928,Act of Valor ,6.5
+2929,Step Up ,6.5
+2930,Beavis and Butt-Head Do America ,6.8
+2931,Jackie Brown ,7.5
+2932,Harold & Kumar Escape from Guantanamo Bay ,6.6
+2933,Chronicle ,7.1
+2934,Yentl ,6.6
+2935,Time Bandits ,7.0
+2936,Crossroads ,3.3
+2937,Project X ,6.7
+2938,Patton ,8.0
+2939,One Hour Photo ,6.8
+2940,Quarantine ,6.0
+2941,The Eye ,5.4
+2942,Johnson Family Vacation ,4.3
+2943,How High ,6.2
+2944,The Muppet Christmas Carol ,7.7
+2945,Casino Royale ,8.0
+2946,Frida ,7.4
+2947,Katy Perry: Part of Me ,5.9
+2948,The Fault in Our Stars ,7.8
+2949,Rounders ,7.4
+2950,Top Five ,6.5
+2951,Prophecy ,5.4
+2952,Stir of Echoes ,7.0
+2953,Spartacus: War of the Damned             ,8.6
+2954,Philomena ,7.6
+2955,The Upside of Anger ,6.9
+2956,The Boys from Brazil ,7.0
+2957,Aquamarine ,5.3
+2958,Paper Towns ,6.4
+2959,My Baby's Daddy ,4.5
+2960,Nebraska ,7.8
+2961,Tales from the Crypt: Demon Knight ,6.7
+2962,Max Keeble's Big Move ,5.3
+2963,Young Adult ,6.3
+2964,Crank ,7.0
+2965,How to Be a Player ,5.3
+2966,Living Out Loud ,6.6
+2967,Just Wright ,5.8
+2968,Rachel Getting Married ,6.7
+2969,The Postman Always Rings Twice ,6.6
+2970,Girl with a Pearl Earring ,7.0
+2971,Das Boot ,8.4
+2972,The Alamo ,6.0
+2973,Sorority Boys ,5.4
+2974,About Time ,7.8
+2975,House of Flying Daggers ,7.6
+2976,Arbitrage ,6.6
+2977,Project Almanac ,6.4
+2978,Cadillac Records ,7.0
+2979,Screwed ,5.7
+2980,Fortress ,5.9
+2981,For Your Consideration ,6.3
+2982,Celebrity ,6.3
+2983,Running with Scissors ,6.2
+2984,From Justin to Kelly ,2.1
+2985,Girl 6 ,5.0
+2986,In the Cut ,5.3
+2987,Two Lovers ,7.1
+2988,Last Orders ,7.0
+2989,The Host ,7.0
+2990,The Pursuit of D.B. Cooper ,5.7
+2991,Ravenous ,7.1
+2992,Charlie Bartlett ,7.0
+2993,The Great Beauty ,7.7
+2994,The Dangerous Lives of Altar Boys ,7.1
+2995,Stoker ,6.8
+2996,2046 ,7.5
+2997,Married Life ,6.3
+2998,Duma ,7.3
+2999,Ondine ,6.8
+3000,Brother ,7.2
+3001,Welcome to Collinwood ,6.4
+3002,Critical Care ,6.0
+3003,The Life Before Her Eyes ,6.4
+3004,Darling Companion ,5.1
+3005,Trade ,7.5
+3006,Fateless ,7.1
+3007,Breakfast of Champions ,4.6
+3008,"A Woman, a Gun and a Noodle Shop ",5.7
+3009,Cypher ,6.8
+3010,City of Life and Death ,7.7
+3011,Home ,6.7
+3012,Legend of Kung Fu Rabbit ,3.2
+3013,Space Battleship Yamato ,6.1
+3014,5 Days of War ,5.6
+3015,Triangle ,6.9
+3016,10 Days in a Madhouse ,7.5
+3017,Heaven Is for Real ,5.8
+3018,Snatch ,8.3
+3019,Dancin' It's On ,2.8
+3020,Pet Sematary ,6.6
+3021,Madadayo ,7.5
+3022,The Cry of the Owl ,6.0
+3023,A Tale of Three Cities ,6.2
+3024,Gremlins ,7.2
+3025,Star Wars: Episode IV - A New Hope ,8.7
+3026,Dirty Grandpa ,6.0
+3027,Doctor Zhivago ,8.0
+3028,Trash ,7.2
+3029,High School Musical 3: Senior Year ,4.5
+3030,The Fighter ,7.9
+3031,Jackass Number Two ,7.1
+3032,My Cousin Vinny ,7.5
+3033,If I Stay ,6.8
+3034,Drive Hard ,4.3
+3035,Major League ,7.2
+3036,St. Trinian's ,5.8
+3037,Phone Booth ,7.1
+3038,A Walk to Remember ,7.4
+3039,Dead Man Walking ,7.6
+3040,Cruel Intentions ,6.9
+3041,Saw VI ,6.0
+3042,History of the World: Part I ,6.9
+3043,The Secret Life of Bees ,7.3
+3044,Corky Romano ,4.6
+3045,Raising Cain ,6.0
+3046,F.I.S.T. ,6.4
+3047,Invaders from Mars ,5.5
+3048,Brooklyn ,7.5
+3049,Barry Lyndon ,8.1
+3050,Out Cold ,6.3
+3051,The Ladies Man ,5.1
+3052,Quartet ,6.8
+3053,Tomcats ,5.3
+3054,Frailty ,7.3
+3055,Woman in Gold ,7.3
+3056,Kinsey ,7.1
+3057,Army of Darkness ,7.6
+3058,Slackers ,5.3
+3059,What's Eating Gilbert Grape ,7.8
+3060,The Visual Bible: The Gospel of John ,7.7
+3061,Vera Drake ,7.7
+3062,The Guru ,5.4
+3063,The Perez Family ,6.2
+3064,Inside Llewyn Davis ,7.4
+3065,O ,6.2
+3066,Return to the Blue Lagoon ,5.1
+3067,The Molly Maguires ,6.9
+3068,Romance & Cigarettes ,6.3
+3069,Copying Beethoven ,6.8
+3070,Poltergeist ,7.4
+3071,Brighton Rock ,5.7
+3072,Saw V ,5.8
+3073,Machine Gun McCain ,6.2
+3074,LOL ,4.3
+3075,Jindabyne ,6.4
+3076,Kabhi Alvida Naa Kehna ,6.0
+3077,An Ideal Husband ,6.9
+3078,The Last Days on Mars ,5.5
+3079,Darkness ,5.4
+3080,2001: A Space Odyssey ,8.3
+3081,E.T. the Extra-Terrestrial ,7.9
+3082,In the Land of Women ,6.5
+3083,The Blue Butterfly ,6.3
+3084,There Goes My Baby ,6.4
+3085,Lovesick             ,7.9
+3086,Housefull ,5.3
+3087,September Dawn ,5.8
+3088,For Greater Glory: The True Story of Cristiada ,6.6
+3089,La Famille Bélier ,7.4
+3090,Good Will Hunting ,8.3
+3091,Misconduct ,5.3
+3092,Saw III ,6.2
+3093,Stripes ,6.9
+3094,Bring It On ,5.9
+3095,The Purge: Election Year ,6.1
+3096,She's All That ,5.8
+3097,Precious ,7.3
+3098,Saw IV ,5.9
+3099,White Noise ,5.5
+3100,Madea's Family Reunion ,5.0
+3101,The Color of Money ,7.0
+3102,The Longest Day ,7.8
+3103,The Mighty Ducks ,6.4
+3104,The Grudge ,5.9
+3105,Happy Gilmore ,7.0
+3106,Jeepers Creepers ,6.1
+3107,Bill & Ted's Excellent Adventure ,6.9
+3108,Oliver! ,7.5
+3109,The Best Exotic Marigold Hotel ,7.3
+3110,Recess: School's Out ,6.5
+3111,Mad Max Beyond Thunderdome ,6.2
+3112,Commando ,6.7
+3113,The Boy ,6.0
+3114,Devil ,6.3
+3115,Friday After Next ,5.8
+3116,Insidious: Chapter 3 ,6.1
+3117,The Last Dragon ,6.9
+3118,Snatch ,8.3
+3119,The Lawnmower Man ,5.4
+3120,Nick and Norah's Infinite Playlist ,6.7
+3121,Dogma ,7.4
+3122,The Banger Sisters ,5.6
+3123,Twilight Zone: The Movie ,6.5
+3124,Road House ,6.5
+3125,A Low Down Dirty Shame ,5.8
+3126,Swimfan ,5.0
+3127,Employee of the Month ,5.5
+3128,Can't Hardly Wait ,6.5
+3129,The Outsiders ,7.2
+3130,Pete's Dragon ,7.3
+3131,The Dead Zone ,7.2
+3132,Sinister 2 ,5.2
+3133,Sparkle ,5.7
+3134,Valentine ,4.7
+3135,The Fourth Kind ,5.9
+3136,A Prairie Home Companion ,6.8
+3137,Sugar Hill ,5.9
+3138,Invasion U.S.A. ,5.3
+3139,Roll Bounce ,6.0
+3140,Rushmore ,7.7
+3141,Skyline ,4.4
+3142,The Second Best Exotic Marigold Hotel ,6.6
+3143,Kit Kittredge: An American Girl ,6.7
+3144,The Perfect Man ,5.5
+3145,Mo' Better Blues ,6.5
+3146,Kung Pow: Enter the Fist ,6.2
+3147,Tremors ,7.1
+3148,Wrong Turn ,6.1
+3149,The Long Riders ,7.1
+3150,The Corruptor ,6.0
+3151,Mud ,7.4
+3152,Reno 911!: Miami ,5.9
+3153,One Direction: This Is Us ,4.1
+3154,"The Goods: Live Hard, Sell Hard ",5.8
+3155,Hey Arnold! The Movie ,5.9
+3156,My Week with Marilyn ,7.0
+3157,The Matador ,6.8
+3158,Love Jones ,7.4
+3159,The Gift ,7.1
+3160,End of the Spear ,7.0
+3161,Get Over It ,5.8
+3162,Office Space ,7.8
+3163,Drop Dead Gorgeous ,6.5
+3164,Big Eyes ,7.0
+3165,Very Bad Things ,6.3
+3166,Sleepover ,5.3
+3167,Body Double ,6.8
+3168,MacGruber ,5.5
+3169,Dirty Pretty Things ,7.4
+3170,Movie 43 ,4.3
+3171,The Tourist ,6.0
+3172,Over Her Dead Body ,5.2
+3173,Seeking a Friend for the End of the World ,6.7
+3174,Cedar Rapids ,6.3
+3175,Bones             ,7.9
+3176,American History X ,8.6
+3177,The Collection ,6.1
+3178,Teacher's Pet ,5.8
+3179,The Red Violin ,7.7
+3180,The Straight Story ,8.0
+3181,Deuces Wild ,5.6
+3182,Bad Words ,6.7
+3183,"Run, Fatboy, Run ",6.6
+3184,Heartbeeps ,4.2
+3185,Black or White ,6.6
+3186,On the Line ,4.1
+3187,Rescue Dawn ,7.3
+3188,Danny Collins ,7.1
+3189,"Jeff, Who Lives at Home ",6.5
+3190,I Am Love ,7.0
+3191,Atlas Shrugged II: The Strike ,5.5
+3192,Romeo Is Bleeding ,6.6
+3193,The Limey ,7.1
+3194,Crash ,7.9
+3195,The House of Mirth ,7.1
+3196,Malone ,5.6
+3197,Peaceful Warrior ,7.3
+3198,Bucky Larson: Born to Be a Star ,3.3
+3199,Bamboozled ,6.5
+3200,The Forest ,4.8
+3201,Sphinx ,5.2
+3202,While We're Young ,6.3
+3203,A Better Life ,7.2
+3204,Spider ,6.8
+3205,Gun Shy ,5.7
+3206,Nicholas Nickleby ,7.2
+3207,The Iceman ,6.9
+3208,Dekalog             ,9.1
+3209,Krrish ,6.3
+3210,Cecil B. DeMented ,6.2
+3211,Killer Joe ,6.7
+3212,The Joneses ,6.5
+3213,Owning Mahowny ,7.2
+3214,The Brothers Solomon ,5.3
+3215,My Blueberry Nights ,6.7
+3216,Illuminata ,6.2
+3217,Swept Away ,3.6
+3218,"War, Inc. ",5.7
+3219,Shaolin Soccer ,7.3
+3220,The Brown Bunny ,5.0
+3221,The Swindle ,6.6
+3222,Rosewater ,6.6
+3223,The Chambermaid on the Titanic ,6.8
+3224,Coriolanus ,6.2
+3225,Imaginary Heroes ,7.3
+3226,High Heels and Low Lifes ,6.2
+3227,World's Greatest Dad ,6.9
+3228,Severance ,6.6
+3229,Edmond ,6.3
+3230,Welcome to the Rileys ,7.0
+3231,Police Academy: Mission to Moscow ,3.3
+3232,Blood Done Sign My Name ,6.7
+3233,"Cinco de Mayo, La Batalla ",6.2
+3234,Elsa & Fred ,6.5
+3235,An Alan Smithee Film: Burn Hollywood Burn ,3.5
+3236,The Open Road ,5.5
+3237,The Good Guy ,5.9
+3238,Motherhood ,4.7
+3239,Free Style ,4.2
+3240,Strangerland ,5.2
+3241,The Janky Promoters ,5.2
+3242,Blonde Ambition ,3.9
+3243,The Oxford Murders ,6.1
+3244,The Reef ,5.8
+3245,Eulogy ,6.7
+3246,White Noise 2: The Light ,5.7
+3247,You Got Served: Beat the World ,4.5
+3248,Fifty Dead Men Walking ,6.9
+3249,Jungle Shuffle ,4.8
+3250,Adam Resurrected ,6.3
+3251,Of Horses and Men ,6.9
+3252,It's a Wonderful Afterlife ,5.4
+3253,The Devil's Tomb ,3.8
+3254,Partition ,7.0
+3255,Good Intentions ,5.2
+3256,"The Good, the Bad, the Weird ",7.3
+3257,Nurse 3D ,4.6
+3258,Gunless ,6.5
+3259,Adventureland ,6.8
+3260,The Lost City ,6.7
+3261,Next Friday ,6.1
+3262,American Heist ,5.2
+3263,You Only Live Twice ,6.9
+3264,Plastic ,6.0
+3265,Amour ,7.9
+3266,Poltergeist III ,4.5
+3267,Re-Kill ,5.1
+3268,"It's a Mad, Mad, Mad, Mad World ",7.6
+3269,Volver ,7.6
+3270,Heavy Metal ,6.7
+3271,Gentlemen Broncos ,6.1
+3272,Richard III ,7.5
+3273,Into the Grizzly Maze ,5.3
+3274,Kites ,6.0
+3275,Melancholia ,7.1
+3276,Red Dog ,7.5
+3277,Jab Tak Hai Jaan ,6.9
+3278,Alien ,8.5
+3279,The Texas Chain Saw Massacre ,7.5
+3280,The Runaways ,6.6
+3281,Fiddler on the Roof ,8.0
+3282,Thunderball ,7.0
+3283,Detention ,5.8
+3284,Loose Cannons ,7.3
+3285,Set It Off ,6.8
+3286,The Best Man ,6.7
+3287,Child's Play ,6.5
+3288,Sicko ,8.0
+3289,The Purge: Anarchy ,6.5
+3290,Down to You ,4.9
+3291,Harold & Kumar Go to White Castle ,7.1
+3292,The Contender ,7.0
+3293,Boiler Room ,7.0
+3294,Trading Places ,7.5
+3295,Black Christmas ,4.5
+3296,Breakin' All the Rules ,5.5
+3297,Henry V ,7.7
+3298,The Savages ,7.2
+3299,Chasing Papi ,4.8
+3300,The Way of the Gun ,6.7
+3301,Igby Goes Down ,7.0
+3302,PCU ,6.5
+3303,The Ultimate Gift ,7.4
+3304,The Bold and the Beautiful             ,3.5
+3305,The Ice Pirates ,5.7
+3306,Gracie ,6.2
+3307,Trust the Man ,5.7
+3308,Hamlet 2 ,6.4
+3309,Velvet Goldmine ,7.0
+3310,The Wailing ,7.7
+3311,Glee: The 3D Concert Movie ,5.4
+3312,The Legend of Suriyothai ,6.6
+3313,Two Evil Eyes ,6.1
+3314,Barbecue ,6.1
+3315,All or Nothing ,7.6
+3316,Princess Kaiulani ,6.2
+3317,Opal Dream ,6.6
+3318,Heist ,6.1
+3319,Flame and Citron ,7.3
+3320,Undiscovered ,4.2
+3321,Red Riding: In the Year of Our Lord 1974 ,7.1
+3322,The Girl on the Train ,6.0
+3323,Veronika Decides to Die ,6.5
+3324,Crocodile Dundee ,6.5
+3325,"Ultramarines: A Warhammer 40,000 Movie ",5.7
+3326,The I Inside ,6.1
+3327,Beneath Hill 60 ,7.1
+3328,Polisse ,7.3
+3329,Awake ,6.5
+3330,Star Wars: The Clone Wars             ,7.9
+3331,Skin Trade ,5.7
+3332,The Lost Boys ,7.2
+3333,Crazy Heart ,7.3
+3334,The Rose ,6.9
+3335,Baggage Claim ,5.0
+3336,Barbarella ,5.9
+3337,Shipwrecked ,6.7
+3338,Election ,7.3
+3339,The Namesake ,7.6
+3340,The DUFF ,6.5
+3341,Glitter ,2.1
+3342,The Haunting in Connecticut 2: Ghosts of Georgia ,5.3
+3343,Silmido ,7.2
+3344,Bright Star ,7.0
+3345,My Name Is Khan ,8.0
+3346,Footloose ,6.5
+3347,All Is Lost ,6.9
+3348,Limbo ,7.1
+3349,Namastey London ,7.3
+3350,The Wind That Shakes the Barley ,7.5
+3351,Yeh Jawaani Hai Deewani ,6.9
+3352,The Karate Kid ,7.2
+3353,Quo Vadis ,7.2
+3354,Repo! The Genetic Opera ,6.7
+3355,Valley of the Wolves: Iraq ,6.0
+3356,Pulp Fiction ,8.9
+3357,The Muppet Movie ,7.7
+3358,Nightcrawler ,7.9
+3359,Club Dread ,5.6
+3360,The Sound of Music ,8.0
+3361,Splash ,6.2
+3362,Little Miss Sunshine ,7.9
+3363,Stand by Me ,8.1
+3364,28 Days Later... ,7.6
+3365,You Got Served ,3.5
+3366,Escape from Alcatraz ,7.6
+3367,Brown Sugar ,6.5
+3368,A Thin Line Between Love and Hate ,5.6
+3369,50/50 ,7.7
+3370,Shutter ,5.2
+3371,Creepshow ,6.9
+3372,That Awkward Moment ,6.1
+3373,Modern Problems ,5.0
+3374,Kicks ,7.8
+3375,Much Ado About Nothing ,7.4
+3376,On Her Majesty's Secret Service ,6.8
+3377,The Player             ,7.1
+3378,New Nightmare ,6.4
+3379,Drive Me Crazy ,5.7
+3380,Akeelah and the Bee ,7.5
+3381,Half Baked ,6.7
+3382,New in Town ,5.6
+3383,Syriana ,7.0
+3384,American Psycho ,7.6
+3385,The Good Girl ,6.5
+3386,Bon Cop Bad Cop ,7.0
+3387,The Boondock Saints II: All Saints Day ,6.3
+3388,The City of Your Final Destination ,6.4
+3389,Enough Said ,7.1
+3390,Easy A ,7.1
+3391,The Inkwell ,6.5
+3392,Shadow of the Vampire ,6.9
+3393,Prom ,5.4
+3394,The Pallbearer ,4.9
+3395,Held Up ,5.1
+3396,Woman on Top ,5.3
+3397,Howards End ,7.5
+3398,Preacher             ,8.3
+3399,Anomalisa ,7.3
+3400,Another Year ,7.3
+3401,8 Women ,7.1
+3402,Showdown in Little Tokyo ,6.0
+3403,Clay Pigeons ,6.6
+3404,It's Kind of a Funny Story ,7.2
+3405,Made in Dagenham ,7.2
+3406,When Did You Last See Your Father? ,6.9
+3407,Prefontaine ,6.8
+3408,The Wicked Lady ,4.0
+3409,The Secret of Kells ,7.7
+3410,Begin Again ,7.4
+3411,Down in the Valley ,6.5
+3412,Brooklyn Rules ,6.4
+3413,Restless ,7.2
+3414,The Singing Detective ,5.6
+3415,The Land Girls ,6.3
+3416,Fido ,6.8
+3417,The Wendell Baker Story ,5.5
+3418,Wild Target ,6.9
+3419,Pathology ,6.0
+3420,Wuthering Heights             ,7.7
+3421,10th & Wolf ,6.4
+3422,Dear Wendy ,6.6
+3423,Aloft ,5.3
+3424,Akira ,8.1
+3425,The Death and Life of Bobby Z ,5.9
+3426,The Rocket: The Legend of Rocket Richard ,7.7
+3427,Swelter ,4.6
+3428,My Lucky Star ,5.1
+3429,Imagine Me & You ,6.9
+3430,Mr. Church ,8.0
+3431,Swimming Pool ,6.8
+3432,Green Street 3: Never Back Down ,5.4
+3433,The Blood of Heroes ,6.5
+3434,Code of Honor ,4.2
+3435,Driving Miss Daisy ,7.4
+3436,Soul Food ,6.9
+3437,Rumble in the Bronx ,6.7
+3438,Far from Men ,7.3
+3439,Thank You for Smoking ,7.6
+3440,Hostel: Part II ,5.4
+3441,An Education ,7.3
+3442,Shopgirl ,6.4
+3443,The Hotel New Hampshire ,6.0
+3444,Narc ,7.2
+3445,Men with Brooms ,6.0
+3446,Witless Protection ,3.1
+3447,The Work and the Glory ,6.9
+3448,Extract ,6.2
+3449,Masked and Anonymous ,5.5
+3450,Alias Betty ,6.9
+3451,Code 46 ,6.3
+3452,Outside Bet ,4.8
+3453,Crash ,7.9
+3454,Albert Nobbs ,6.7
+3455,Black November ,5.6
+3456,Ta Ra Rum Pum ,5.4
+3457,Persepolis ,8.0
+3458,The Hole ,5.7
+3459,The Wave ,7.6
+3460,The Neon Demon ,7.0
+3461,Harry Brown ,7.2
+3462,Spider-Man 3 ,6.2
+3463,The Omega Code ,3.5
+3464,Juno ,7.5
+3465,Pound of Flesh ,5.1
+3466,Diamonds Are Forever ,6.7
+3467,The Godfather ,9.2
+3468,Flashdance ,6.1
+3469,500 Days of Summer ,7.7
+3470,The Piano ,7.6
+3471,Magic Mike ,6.1
+3472,Darkness Falls ,4.9
+3473,Live and Let Die ,6.8
+3474,My Dog Skip ,7.0
+3475,"Definitely, Maybe ",7.2
+3476,Jumping the Broom ,5.7
+3477,The Great Gatsby ,7.3
+3478,"Good Night, and Good Luck. ",7.5
+3479,Capote ,7.4
+3480,Desperado ,7.2
+3481,The Claim ,6.5
+3482,Fargo             ,9.0
+3483,Logan's Run ,6.8
+3484,The Man with the Golden Gun ,6.8
+3485,Action Jackson ,5.2
+3486,The Descent ,7.2
+3487,Michael Jordan to the Max ,7.5
+3488,Devil's Due ,4.0
+3489,Flirting with Disaster ,6.8
+3490,The Devil's Rejects ,6.9
+3491,Buffy the Vampire Slayer             ,8.2
+3492,Dope ,7.3
+3493,In Too Deep ,6.1
+3494,Skyfall ,7.8
+3495,House of 1000 Corpses ,6.0
+3496,Alien Zone ,4.1
+3497,A Serious Man ,7.0
+3498,Get Low ,7.1
+3499,Warlock ,6.2
+3500,Beyond the Lights ,6.9
+3501,A Single Man ,7.6
+3502,The Last Temptation of Christ ,7.6
+3503,Outside Providence ,6.4
+3504,Bride & Prejudice ,6.2
+3505,Rabbit-Proof Fence ,7.5
+3506,Who's Your Caddy? ,2.0
+3507,Split Second ,6.2
+3508,Nikita             ,7.7
+3509,The Other Side of Heaven ,6.5
+3510,Dark Angel             ,7.4
+3511,Veer-Zaara ,7.9
+3512,Redbelt ,6.8
+3513,Cyrus ,6.3
+3514,A Dog of Flanders ,6.3
+3515,Auto Focus ,6.6
+3516,Factory Girl ,6.4
+3517,We Need to Talk About Kevin ,7.5
+3518,The Christmas Candle ,5.8
+3519,The Mighty Macs ,6.5
+3520,Losin' It ,4.8
+3521,Mother and Child ,7.2
+3522,March or Die ,6.3
+3523,Les visiteurs ,7.0
+3524,Somewhere ,6.3
+3525,I Hope They Serve Beer in Hell ,5.3
+3526,Chairman of the Board ,2.3
+3527,Hesher ,7.1
+3528,Dom Hemingway ,6.2
+3529,Gerry ,6.2
+3530,The Heart of Me ,6.7
+3531,Freeheld ,6.5
+3532,The Extra Man ,5.9
+3533,Hard to Be a God ,6.7
+3534,Ca$h ,6.0
+3535,Wah-Wah ,6.9
+3536,The Boondock Saints ,7.9
+3537,Z Storm ,5.3
+3538,Twixt ,4.8
+3539,Snow Queen ,5.3
+3540,Alpha and Omega 4: The Legend of the Saw Toothed Cave ,6.0
+3541,Pale Rider ,7.3
+3542,Stargate: The Ark of Truth ,7.4
+3543,Dazed and Confused ,7.7
+3544,High School Musical 2 ,4.8
+3545,Two Lovers and a Bear ,7.2
+3546,Criminal Activities ,5.8
+3547,Aimee & Jaguar ,7.3
+3548,The Chumscrubber ,7.0
+3549,Shade ,6.4
+3550,House at the End of the Street ,5.6
+3551,Incendies ,8.2
+3552,"Remember Me, My Love ",6.5
+3553,Perrier's Bounty ,6.4
+3554,Elite Squad ,8.1
+3555,Annabelle ,5.4
+3556,Bran Nue Dae ,6.3
+3557,Boyz n the Hood ,7.8
+3558,La Bamba ,6.8
+3559,The Four Seasons ,7.2
+3560,Dressed to Kill ,7.1
+3561,The Adventures of Huck Finn ,6.2
+3562,Go ,7.3
+3563,Friends with Money ,5.9
+3564,The Andromeda Strain ,7.2
+3565,Bats ,3.6
+3566,Nowhere in Africa ,7.7
+3567,Shame ,7.3
+3568,Layer Cake ,7.4
+3569,The Work and the Glory II: American Zion ,6.6
+3570,The East ,6.9
+3571,A Home at the End of the World ,6.8
+3572,Aberdeen ,7.3
+3573,The Messenger ,7.2
+3574,Tracker ,6.5
+3575,Control ,7.7
+3576,The Terminator ,8.1
+3577,Good Bye Lenin! ,7.7
+3578,The Damned United ,7.6
+3579,The Return of the Living Dead ,7.3
+3580,Gomorrah             ,8.7
+3581,Mallrats ,7.2
+3582,Grease ,7.2
+3583,Platoon ,8.1
+3584,Fahrenheit 9/11 ,7.5
+3585,Butch Cassidy and the Sundance Kid ,8.1
+3586,Mary Poppins ,7.8
+3587,Ordinary People ,7.8
+3588,Around the World in 80 Days ,5.8
+3589,West Side Story ,7.6
+3590,Caddyshack ,7.4
+3591,The Brothers ,6.3
+3592,The Wood ,6.9
+3593,The Usual Suspects ,8.6
+3594,A Nightmare on Elm Street 5: The Dream Child ,5.1
+3595,Van Wilder: Party Liaison ,6.4
+3596,The Wrestler ,7.9
+3597,Duel in the Sun ,6.9
+3598,Best in Show ,7.5
+3599,Escape from New York ,7.2
+3600,School Daze ,5.8
+3601,Daddy Day Camp ,2.9
+3602,Mr. Nice Guy ,6.2
+3603,A Mighty Wind ,7.3
+3604,Mystic Pizza ,6.2
+3605,War & Peace             ,8.2
+3606,Sliding Doors ,6.8
+3607,Tales from the Hood ,6.1
+3608,The Last King of Scotland ,7.7
+3609,Halloween 5 ,5.2
+3610,Bernie ,6.8
+3611,Dolphins and Whales 3D: Tribes of the Ocean ,6.5
+3612,Pollock ,7.0
+3613,200 Cigarettes ,5.9
+3614,The Words ,7.1
+3615,Casa de mi Padre ,5.5
+3616,City Island ,7.4
+3617,The Guard ,7.3
+3618,College ,4.6
+3619,The Virgin Suicides ,7.2
+3620,Little Voice ,7.0
+3621,Miss March ,5.1
+3622,Wish I Was Here ,6.7
+3623,Simply Irresistible ,5.3
+3624,Veronica Mars             ,8.4
+3625,Hedwig and the Angry Inch ,7.8
+3626,Only the Strong ,6.7
+3627,Goddess of Love ,5.4
+3628,Shattered Glass ,7.2
+3629,Novocaine ,5.8
+3630,The Business of Strangers ,6.4
+3631,The Wild Bunch ,8.0
+3632,The Wackness ,7.0
+3633,The Great Train Robbery ,7.0
+3634,Morvern Callar ,6.7
+3635,Beastmaster 2: Through the Portal of Time ,3.8
+3636,The 5th Quarter ,5.7
+3637,The Flower of Evil ,6.6
+3638,The Greatest ,6.7
+3639,Snow Flower and the Secret Fan ,6.1
+3640,Come Early Morning ,6.2
+3641,Lucky Break ,6.2
+3642,Julia ,7.4
+3643,"Surfer, Dude ",4.7
+3644,Lake of Fire ,8.3
+3645,11:14 ,7.2
+3646,Men of War ,5.8
+3647,Don McKay ,5.9
+3648,Deadfall ,6.3
+3649,A Shine of Rainbows ,7.2
+3650,The Hit List ,5.4
+3651,Emma             ,8.2
+3652,Videodrome ,7.3
+3653,L'auberge espagnole ,7.3
+3654,Song One ,5.8
+3655,Murder by Numbers ,6.1
+3656,Winter in Wartime ,7.1
+3657,Freaky Deaky ,6.5
+3658,The Train ,7.9
+3659,Trade of Innocents ,5.4
+3660,The Protector ,7.1
+3661,Stiff Upper Lips ,6.4
+3662,The Inbetweeners             ,8.4
+3663,Bend It Like Beckham ,6.7
+3664,Sunshine State ,6.9
+3665,Crossover ,2.1
+3666,Khiladi 786 ,4.3
+3667,[Rec] 2 ,6.6
+3668,Standing Ovation ,3.4
+3669,The Sting ,8.3
+3670,Chariots of Fire ,7.2
+3671,Diary of a Mad Black Woman ,5.6
+3672,Shine ,7.7
+3673,Don Jon ,6.6
+3674,High Plains Drifter ,7.6
+3675,Ghost World ,7.4
+3676,Iris ,7.1
+3677,Galaxina ,3.4
+3678,The Chorus ,7.9
+3679,Mambo Italiano ,6.7
+3680,Wonderland ,6.6
+3681,Do the Right Thing ,7.9
+3682,Harvard Man ,4.9
+3683,Le Havre ,7.2
+3684,Irreversible ,7.4
+3685,R100 ,6.1
+3686,Rang De Basanti ,8.4
+3687,Animals ,6.2
+3688,Salvation Boulevard ,5.3
+3689,The Ten ,5.0
+3690,A Room for Romeo Brass ,7.7
+3691,Headhunters ,7.6
+3692,Grabbers ,6.3
+3693,Saint Ralph ,7.6
+3694,Miss Julie ,5.6
+3695,Somewhere in Time ,7.3
+3696,Dum Maaro Dum ,6.2
+3697,Insidious: Chapter 2 ,6.6
+3698,Saw II ,6.6
+3699,10 Cloverfield Lane ,7.3
+3700,Jackass: The Movie ,6.6
+3701,Lights Out ,6.9
+3702,Paranormal Activity 3 ,5.8
+3703,Ouija ,4.4
+3704,A Nightmare on Elm Street 3: Dream Warriors ,6.6
+3705,The Gift ,7.1
+3706,Instructions Not Included ,7.6
+3707,Paranormal Activity 4 ,4.6
+3708,The Robe ,6.8
+3709,The Return of the Pink Panther ,7.1
+3710,Freddy's Dead: The Final Nightmare ,4.9
+3711,Monster ,7.3
+3712,"20,000 Leagues Under the Sea ",7.2
+3713,Paranormal Activity: The Marked Ones ,5.0
+3714,The Elephant Man ,8.2
+3715,Dallas Buyers Club ,8.0
+3716,The Lazarus Effect ,5.2
+3717,Memento ,8.5
+3718,Oculus ,6.5
+3719,Clerks II ,7.4
+3720,Billy Elliot ,7.7
+3721,The Way Way Back ,7.4
+3722,House Party 2 ,5.1
+3723,The Man from Snowy River ,7.3
+3724,Doug's 1st Movie ,5.0
+3725,The Apostle ,7.2
+3726,Mommie Dearest ,6.7
+3727,Our Idiot Brother ,6.4
+3728,Race ,7.1
+3729,The Players Club ,5.6
+3730,O ,6.2
+3731,"As Above, So Below ",6.1
+3732,Addicted ,5.2
+3733,Eve's Bayou ,7.3
+3734,Still Alice ,7.5
+3735,The Egyptian ,6.6
+3736,Nighthawks ,6.4
+3737,Friday the 13th Part VIII: Jason Takes Manhattan ,4.5
+3738,My Big Fat Greek Wedding ,6.6
+3739,Spring Breakers ,5.3
+3740,Halloween: The Curse of Michael Myers ,4.9
+3741,Y Tu Mamá También ,7.7
+3742,Shaun of the Dead ,8.0
+3743,The Haunting of Molly Hartley ,3.8
+3744,Lone Star ,7.6
+3745,Halloween 4: The Return of Michael Myers ,5.9
+3746,April Fool's Day ,6.2
+3747,Diner ,7.2
+3748,Lone Wolf McQuade ,6.3
+3749,Apollo 18 ,5.2
+3750,Sunshine Cleaning ,6.9
+3751,No Escape ,6.8
+3752,The Beastmaster ,6.2
+3753,Solomon and Sheba ,6.2
+3754,Fifty Shades of Black ,3.5
+3755,Not Easily Broken ,6.1
+3756,A Farewell to Arms ,6.6
+3757,The Perfect Match ,4.5
+3758,Digimon: The Movie ,5.9
+3759,Saved! ,6.9
+3760,The Barbarian Invasions ,7.7
+3761,Robin and Marian ,6.6
+3762,The Forsaken ,5.3
+3763,Force 10 from Navarone ,6.3
+3764,UHF ,7.0
+3765,Grandma's Boy ,7.0
+3766,Slums of Beverly Hills ,6.6
+3767,Once Upon a Time in the West ,8.6
+3768,Made ,6.4
+3769,Moon ,7.9
+3770,Keeping Up with the Steins ,5.4
+3771,Sea Rex 3D: Journey to a Prehistoric World ,6.9
+3772,The Sweet Hereafter ,7.7
+3773,Of Gods and Men ,7.2
+3774,Bottle Shock ,6.8
+3775,Jekyll and Hyde... Together Again ,6.2
+3776,Heavenly Creatures ,7.4
+3777,90 Minutes in Heaven ,4.6
+3778,Everything Must Go ,6.4
+3779,Zero Effect ,7.0
+3780,The Machinist ,7.7
+3781,Light Sleeper ,6.8
+3782,Kill the Messenger ,7.0
+3783,Rabbit Hole ,7.0
+3784,Party Monster ,6.3
+3785,Green Room ,7.1
+3786,The Oh in Ohio ,5.6
+3787,Atlas Shrugged: Who Is John Galt? ,4.4
+3788,Bottle Rocket ,7.1
+3789,Albino Alligator ,6.1
+3790,"Gandhi, My Father ",7.4
+3791,Standard Operating Procedure ,7.5
+3792,Out of the Blue ,7.2
+3793,Tucker and Dale vs Evil ,7.6
+3794,"Lovely, Still ",7.3
+3795,Tycoon ,6.2
+3796,Desert Blue ,6.2
+3797,Decoys ,4.6
+3798,The Visit ,6.2
+3799,Redacted ,6.2
+3800,Fascination ,3.3
+3801,Saving Grace             ,7.5
+3802,Area 51 ,4.2
+3803,Sleep Tight ,7.2
+3804,The Cottage ,6.2
+3805,Dead Like Me: Life After Death ,6.1
+3806,Farce of the Penguins ,4.2
+3807,Flying By ,4.5
+3808,Psych             ,8.4
+3809,Rudderless ,7.5
+3810,Henry & Me ,6.7
+3811,Christmas Eve ,5.1
+3812,We Have Your Husband ,5.5
+3813,Dying of the Light ,4.4
+3814,Born of War ,4.4
+3815,Capricorn One ,6.8
+3816,Should've Been Romeo ,6.7
+3817,Running Forever ,8.6
+3818,Yoga Hosers ,4.8
+3819,Navy Seals vs. Zombies ,3.4
+3820,I Served the King of England ,7.4
+3821,Soul Kitchen ,7.3
+3822,Sling Blade ,8.0
+3823,The Awakening ,6.5
+3824,Hostel ,5.9
+3825,Tristram Shandy: A Cock and Bull Story ,6.8
+3826,Take Shelter ,7.4
+3827,Lady in White ,6.7
+3828,Driving Lessons ,6.8
+3829,Let's Kill Ward's Wife ,5.4
+3830,The Texas Chainsaw Massacre 2 ,5.5
+3831,Pat Garrett & Billy the Kid ,7.4
+3832,Only God Forgives ,5.7
+3833,Camping sauvage ,5.4
+3834,Without Men ,3.2
+3835,Barfi ,7.1
+3836,Dear Frankie ,7.8
+3837,All Hat ,5.3
+3838,The Names of Love ,7.2
+3839,Treading Water ,6.2
+3840,Savage Grace ,5.9
+3841,Out of the Blue ,7.3
+3842,Police Academy ,6.7
+3843,The Blue Lagoon ,5.7
+3844,Four Weddings and a Funeral ,7.1
+3845,Fast Times at Ridgemont High ,7.2
+3846,Moby Dick ,7.4
+3847,25th Hour ,7.7
+3848,Secrets and Lies             ,7.7
+3849,Bound ,7.4
+3850,Requiem for a Dream ,8.4
+3851,State Fair ,7.1
+3852,Tango ,7.2
+3853,Salvador ,7.5
+3854,Moms' Night Out ,5.4
+3855,Donnie Darko ,8.1
+3856,Saving Private Perez ,6.0
+3857,Character ,7.8
+3858,Spun ,6.8
+3859,Life During Wartime ,6.5
+3860,Lady Vengeance ,7.7
+3861,Mozart's Sister ,6.4
+3862,Mean Machine ,6.5
+3863,Exiled ,7.3
+3864,Blackthorn ,6.6
+3865,Lilya 4-Ever ,7.9
+3866,After.Life ,5.9
+3867,Fugly ,4.7
+3868,One Flew Over the Cuckoo's Nest ,8.7
+3869,R.L. Stine's Monsterville: The Cabinet of Souls ,5.9
+3870,Silent Movie ,6.7
+3871,Airlift ,8.5
+3872,Anne of Green Gables             ,8.4
+3873,Falcon Rising ,5.8
+3874,The Sweeney ,6.1
+3875,Sexy Beast ,7.3
+3876,Easy Money ,6.7
+3877,Whale Rider ,7.6
+3878,Paa ,7.2
+3879,Cargo ,6.2
+3880,Pan ,5.8
+3881,High School Musical ,5.2
+3882,Animal Kingdom             ,8.1
+3883,Love and Death on Long Island ,7.1
+3884,Night Watch ,6.5
+3885,The Crying Game ,7.3
+3886,Porky's ,6.2
+3887,Survival of the Dead ,5.0
+3888,Night of the Living Dead ,8.0
+3889,Lost in Translation ,7.8
+3890,Annie Hall ,8.1
+3891,The Greatest Show on Earth ,6.7
+3892,Exodus: Gods and Kings ,6.1
+3893,Monster's Ball ,7.1
+3894,Maggie ,5.6
+3895,Leaving Las Vegas ,7.6
+3896,Hansel & Gretel Get Baked ,4.3
+3897,The Return of the Living Dead ,7.3
+3898,The Front Page ,7.3
+3899,The Boy Next Door ,4.6
+3900,Trapeze ,6.8
+3901,Saving Grace             ,7.5
+3902,The Kids Are All Right ,7.1
+3903,They Live ,7.3
+3904,The Great Escape ,8.3
+3905,What the #$*! Do We (K)now!? ,5.4
+3906,The Last Exorcism Part II ,4.0
+3907,Boyhood ,8.0
+3908,Scoop ,6.7
+3909,Planet of the Apes ,5.7
+3910,The Wash ,4.6
+3911,3 Strikes ,4.0
+3912,The Cooler ,7.0
+3913,The Misfits ,7.4
+3914,The Night Listener ,5.9
+3915,The Jerky Boys ,4.6
+3916,My Soul to Take ,4.8
+3917,The Orphanage ,7.5
+3918,A Haunted House 2 ,4.7
+3919,The Rules of Attraction ,6.7
+3920,Topaz ,6.3
+3921,Let's Go to Prison ,6.0
+3922,Four Rooms ,6.7
+3923,Secretary ,7.1
+3924,The Real Cancun ,2.7
+3925,Talk Radio ,7.3
+3926,Waiting for Guffman ,7.6
+3927,Love Stinks ,5.8
+3928,You Kill Me ,6.5
+3929,Thumbsucker ,6.6
+3930,Red State ,6.2
+3931,Mirrormask ,6.9
+3932,Samsara ,8.5
+3933,The Barbarians ,4.8
+3934,The Art of Getting By ,6.6
+3935,Zipper ,5.7
+3936,Poolhall Junkies ,7.0
+3937,The Loss of Sexual Innocence ,5.4
+3938,Holy Motors ,7.1
+3939,Joe ,6.9
+3940,Shooting Fish ,6.6
+3941,Prison ,5.9
+3942,Psycho Beach Party ,6.3
+3943,The Big Tease ,6.3
+3944,"Buen Día, Ramón ",7.7
+3945,Trust ,7.0
+3946,An Everlasting Piece ,6.3
+3947,Among Giants ,5.9
+3948,Adore ,6.2
+3949,The Velocity of Gary ,5.0
+3950,Mondays in the Sun ,7.7
+3951,Stake Land ,6.5
+3952,Sonny with a Chance             ,6.1
+3953,The Last Time I Committed Suicide ,5.8
+3954,Futuro Beach ,6.1
+3955,Another Happy Day ,6.0
+3956,A Lonely Place to Die ,6.3
+3957,Nothing ,6.3
+3958,The Geographer Drank His Globe Away ,7.5
+3959,1776 ,7.6
+3960,Inescapable ,5.2
+3961,Hell's Angels ,7.8
+3962,Purple Violets ,6.6
+3963,The Veil ,4.7
+3964,The Loved Ones ,6.7
+3965,No Vacancy ,4.2
+3966,How to Fall in Love ,6.3
+3967,The Perfect Wave ,4.7
+3968,Ben-Hur ,6.0
+3969,A Man for All Seasons ,7.9
+3970,Network ,8.1
+3971,Gone with the Wind ,8.2
+3972,Desert Dancer ,6.0
+3973,Major Dundee ,6.8
+3974,Down for Life ,7.3
+3975,Annie Get Your Gun ,7.0
+3976,Four Lions ,7.3
+3977,House of Sand ,7.5
+3978,Defendor ,6.8
+3979,The Pirate ,7.1
+3980,The Good Heart ,6.9
+3981,The History Boys ,6.9
+3982,Unknown ,6.9
+3983,M*A*S*H             ,8.4
+3984,Midnight Cowboy ,7.9
+3985,The Full Monty ,7.2
+3986,Airplane! ,7.8
+3987,Chain of Command ,3.5
+3988,Friday ,7.3
+3989,Menace II Society ,7.5
+3990,Empire             ,7.8
+3991,Creepshow 2 ,6.0
+3992,The Ballad of Cable Hogue ,7.3
+3993,In Cold Blood ,8.0
+3994,The Nun's Story ,7.6
+3995,Harper ,7.0
+3996,Frenzy ,7.5
+3997,The Witch ,6.8
+3998,I Got the Hook Up ,3.9
+3999,She's the One ,6.1
+4000,Gods and Monsters ,7.5
+4001,The Secret in Their Eyes ,8.2
+4002,Day of the Dead ,7.2
+4003,Train ,4.8
+4004,Evil Dead II ,7.8
+4005,Pootie Tang ,5.2
+4006,Sharknado ,3.3
+4007,La otra conquista ,6.8
+4008,Trollhunter ,7.0
+4009,Ira & Abby ,6.5
+4010,The Watch ,5.7
+4011,Winter Passing ,6.4
+4012,D.E.B.S. ,5.3
+4013,The Masked Saint ,4.7
+4014,The Betrayed ,6.1
+4015,Taxman ,5.5
+4016,The Secret             ,7.3
+4017,2:13 ,4.8
+4018,"Batman: The Dark Knight Returns, Part 2 ",8.4
+4019,Time to Choose ,7.0
+4020,In the Name of the King: The Last Job ,3.3
+4021,Wicked Blood ,5.4
+4022,Dawn Patrol ,4.8
+4023,Lords of London ,3.1
+4024,High Anxiety ,6.7
+4025,March of the Penguins ,7.6
+4026,Margin Call ,7.1
+4027,August ,6.1
+4028,Choke ,6.5
+4029,Whiplash ,8.5
+4030,City of God ,8.7
+4031,Human Traffic ,7.1
+4032,Day One ,6.6
+4033,The Dead Girl ,6.7
+4034,The Hunt ,8.3
+4035,A Christmas Story ,8.1
+4036,Bella ,7.4
+4037,Class of 1984 ,6.6
+4038,The Opposite Sex ,4.5
+4039,Dreaming of Joseph Lees ,6.4
+4040,The Class ,7.5
+4041,Rosemary's Baby ,8.0
+4042,The Man Who Shot Liberty Valance ,8.1
+4043,Adam ,7.2
+4044,Maria Full of Grace ,7.5
+4045,Beginners ,7.2
+4046,Feast ,6.4
+4047,Animal House ,7.6
+4048,Goldfinger ,7.8
+4049,Antiviral ,5.7
+4050,It's a Wonderful Life ,8.6
+4051,Trainspotting ,8.2
+4052,The Original Kings of Comedy ,6.6
+4053,Paranormal Activity 2 ,5.7
+4054,Waking Ned Devine ,7.4
+4055,Bowling for Columbine ,8.0
+4056,Coming Home ,7.3
+4057,A Nightmare on Elm Street 2: Freddy's Revenge ,5.4
+4058,A Room with a View ,7.4
+4059,The Purge ,5.7
+4060,Sinister ,6.8
+4061,Martin Lawrence Live: Runteldat ,5.4
+4062,Cat on a Hot Tin Roof ,8.1
+4063,Beneath the Planet of the Apes ,6.1
+4064,Air Bud ,5.1
+4065,Pokémon 3: The Movie ,5.6
+4066,Jason Lives: Friday the 13th Part VI ,5.9
+4067,The Bridge on the River Kwai ,8.2
+4068,Spaced Invaders ,5.3
+4069,Family Plot ,6.8
+4070,The Apartment ,8.3
+4071,Jason Goes to Hell: The Final Friday ,4.3
+4072,Torn Curtain ,6.7
+4073,Dave Chappelle's Block Party ,7.2
+4074,Slow West ,6.9
+4075,Krush Groove ,6.6
+4076,Next Day Air ,5.9
+4077,Elmer Gantry ,7.9
+4078,Judgment at Nuremberg ,8.3
+4079,Trippin' ,5.2
+4080,Robot Chicken             ,7.8
+4081,Red River ,7.8
+4082,Phat Girlz ,3.0
+4083,Before Midnight ,7.9
+4084,Teen Wolf Too ,3.2
+4085,Phantasm II ,6.5
+4086,Woman Thou Art Loosed ,6.9
+4087,Real Women Have Curves ,7.0
+4088,Deadline Gallipoli             ,7.4
+4089,Water ,7.8
+4090,East Is East ,6.9
+4091,Whipped ,4.4
+4092,Kama Sutra: A Tale of Love ,6.0
+4093,Please Give ,6.6
+4094,Willy Wonka & the Chocolate Factory ,7.8
+4095,Warlock: The Armageddon ,5.3
+4096,8 Heads in a Duffel Bag ,5.3
+4097,Days of Heaven ,8.0
+4098,Thirteen Conversations About One Thing ,7.1
+4099,Jawbreaker ,5.4
+4100,Basquiat ,6.9
+4101,Frances Ha ,7.4
+4102,Tsotsi ,7.3
+4103,Happiness ,7.8
+4104,DysFunktional Family ,6.6
+4105,Tusk ,5.4
+4106,Oldboy ,8.4
+4107,Letters to God ,6.3
+4108,Hobo with a Shotgun ,6.1
+4109,Compadres ,5.0
+4110,Freeway ,6.9
+4111,Love's Abiding Joy ,7.2
+4112,Fish Tank ,7.3
+4113,Damsels in Distress ,5.7
+4114,Creature             ,5.0
+4115,Bachelorette ,5.3
+4116,BrainDead             ,7.9
+4117,Brave New Girl ,5.0
+4118,Tim and Eric's Billion Dollar Movie ,5.3
+4119,The Gambler ,6.0
+4120,The Grand             ,7.6
+4121,Summer Storm ,7.4
+4122,Fort McCoy ,5.9
+4123,Chain Letter ,4.1
+4124,Just Looking ,6.7
+4125,The Divide ,5.8
+4126,The Eclipse ,6.2
+4127,Demonic ,5.3
+4128,My Big Fat Independent Movie ,3.3
+4129,Alice in Wonderland ,6.5
+4130,The Deported ,6.2
+4131,Tanner Hall ,5.9
+4132,Open Road ,5.5
+4133,They Came Together ,5.5
+4134,30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon Tattoo ,2.6
+4135,Never Back Down 2: The Beatdown ,5.8
+4136,Point Blank ,7.4
+4137,Four Single Fathers ,5.1
+4138,Enter the Dangerous Mind ,5.2
+4139,Something Wicked ,4.8
+4140,AWOL-72 ,3.9
+4141,Iguana ,6.2
+4142,Cinderella ,7.0
+4143,Chicago Overcoat ,6.2
+4144,Barry Munday ,5.9
+4145,Central Station ,8.0
+4146,Pocketful of Miracles ,7.3
+4147,Close Range ,4.9
+4148,Boynton Beach Club ,6.5
+4149,Amnesiac ,4.3
+4150,Freakonomics ,6.4
+4151,The Omen ,7.6
+4152,High Tension ,6.8
+4153,Griff the Invisible ,6.1
+4154,Unnatural ,4.0
+4155,Hustle & Flow ,7.4
+4156,Some Like It Hot ,8.3
+4157,Friday the 13th Part VII: The New Blood ,5.3
+4158,The Wizard of Oz ,8.1
+4159,Young Frankenstein ,8.0
+4160,Diary of the Dead ,5.7
+4161,Lage Raho Munna Bhai ,8.2
+4162,Ulee's Gold ,7.1
+4163,The Black Stallion ,7.4
+4164,Sardaar Ji ,6.6
+4165,Journey to Saturn ,5.7
+4166,Donovan's Reef ,6.9
+4167,The Dress ,7.0
+4168,A Guy Named Joe ,7.0
+4169,Blazing Saddles ,7.8
+4170,Friday the 13th: The Final Chapter ,5.9
+4171,Ida ,7.4
+4172,Maurice ,7.8
+4173,Beer League ,6.0
+4174,The Astronaut's Wife ,5.3
+4175,Riding Giants ,7.9
+4176,Timecrimes ,7.2
+4177,Silver Medallist ,7.4
+4178,Timber Falls ,5.3
+4179,Singin' in the Rain ,8.3
+4180,"Fat, Sick & Nearly Dead ",7.6
+4181,A Haunted House ,5.1
+4182,2016: Obama's America ,5.1
+4183,Halloween II ,4.9
+4184,That Thing You Do! ,6.9
+4185,Halloween III: Season of the Witch ,4.6
+4186,Escape from the Planet of the Apes ,6.3
+4187,Hud ,7.9
+4188,Kevin Hart: Let Me Explain ,6.7
+4189,My Own Private Idaho ,7.1
+4190,Garden State ,7.6
+4191,Before Sunrise ,8.1
+4192,Sur le seuil ,6.6
+4193,Jesus' Son ,7.0
+4194,Saving Face ,7.6
+4195,Brick Lane ,6.7
+4196,Robot & Frank ,7.1
+4197,My Life Without Me ,7.6
+4198,The Spectacular Now ,7.1
+4199,Marilyn Hotchkiss' Ballroom Dancing and Charm School ,7.1
+4200,Religulous ,7.7
+4201,Fuel ,7.6
+4202,Valley of the Heart's Delight ,6.6
+4203,Dodgeball: A True Underdog Story ,6.7
+4204,Eye of the Dolphin ,5.7
+4205,8: The Mormon Proposition ,7.1
+4206,The Other End of the Line ,6.2
+4207,Anatomy ,6.1
+4208,Sleep Dealer ,5.9
+4209,Super ,6.8
+4210,Christmas Mail ,5.8
+4211,Stung ,5.0
+4212,Antibirth ,6.3
+4213,Get on the Bus ,6.8
+4214,Thr3e ,5.1
+4215,Idiocracy ,6.6
+4216,The Rise of the Krays ,5.0
+4217,This Is England ,7.7
+4218,Alien Uprising ,3.1
+4219,Bathing Beauty ,6.5
+4220,Go for It! ,3.9
+4221,"Dancer, Texas Pop. 81 ",6.8
+4222,Show Boat ,7.0
+4223,Redemption Road ,5.9
+4224,The Calling ,5.8
+4225,The Brave Little Toaster ,7.3
+4226,Fantasia ,7.8
+4227,The French Connection ,7.8
+4228,8 Days ,6.9
+4229,Friday the 13th Part III ,5.7
+4230,Friday the 13th: A New Beginning ,4.7
+4231,The Last Sin Eater ,5.9
+4232,Do You Believe? ,5.9
+4233,Impact Point ,4.3
+4234,The Valley of Decision ,7.5
+4235,Eden ,4.8
+4236,Chicken Tikka Masala ,5.8
+4237,Always Woodstock ,5.3
+4238,Jack Brooks: Monster Slayer ,6.0
+4239,The Best Years of Our Lives ,8.1
+4240,Bully ,7.0
+4241,Elling ,7.6
+4242,Mi America ,7.2
+4243,[Rec] ,7.5
+4244,Lies in Plain Sight ,6.3
+4245,Sharkskin ,6.7
+4246,Containment ,4.8
+4247,The Timber ,5.5
+4248,From Russia with Love ,7.5
+4249,The Toxic Avenger Part II ,5.1
+4250,In the Heat of the Night             ,7.4
+4251,Sleeper ,7.3
+4252,It Follows ,6.9
+4253,Everything You Always Wanted to Know About Sex * But Were Afraid to Ask ,6.8
+4254,To Kill a Mockingbird ,8.4
+4255,Mad Max 2: The Road Warrior ,7.6
+4256,The Legend of Drunken Master ,7.6
+4257,Lolita ,7.7
+4258,Boys Don't Cry ,7.6
+4259,Silent House ,5.3
+4260,The Lives of Others ,8.5
+4261,Courageous ,7.0
+4262,The Hustler ,8.0
+4263,Boom Town ,7.1
+4264,The Triplets of Belleville ,7.8
+4265,Smoke Signals ,7.2
+4266,American Splendor ,7.5
+4267,Before Sunset ,8.0
+4268,Amores Perros ,8.1
+4269,Thirteen ,6.8
+4270,Gentleman's Agreement ,7.4
+4271,Winter's Bone ,7.2
+4272,Touching the Void ,8.1
+4273,Alexander's Ragtime Band ,7.0
+4274,Me and You and Everyone We Know ,7.4
+4275,Inside Job ,8.3
+4276,We Are Your Friends ,6.1
+4277,Ghost Dog: The Way of the Samurai ,7.5
+4278,Harsh Times ,7.0
+4279,Captive ,5.3
+4280,Full Frontal ,4.7
+4281,Witchboard ,5.7
+4282,Strangers with Candy             ,8.1
+4283,Hamlet ,7.8
+4284,Shortbus ,6.5
+4285,Waltz with Bashir ,8.0
+4286,"The Book of Mormon Movie, Volume 1: The Journey ",3.3
+4287,No End in Sight ,8.3
+4288,The Diary of a Teenage Girl ,6.9
+4289,Get Real             ,7.3
+4290,In the Shadow of the Moon ,8.1
+4291,Meek's Cutoff ,6.5
+4292,Inside Deep Throat ,6.8
+4293,Dinner Rush ,7.3
+4294,Clockwatchers ,6.4
+4295,The Virginity Hit ,4.6
+4296,Subway ,6.5
+4297,House of D ,7.0
+4298,Teeth ,5.4
+4299,Six-String Samurai ,6.7
+4300,Hum To Mohabbat Karega ,2.8
+4301,It's All Gone Pete Tong ,7.4
+4302,Saint John of Las Vegas ,5.8
+4303,24 7: Twenty Four Seven ,7.1
+4304,Stonewall ,4.5
+4305,Eureka             ,7.9
+4306,Roadside Romeo ,5.3
+4307,This Thing of Ours ,5.4
+4308,The Lost Medallion: The Adventures of Billy Stone ,4.8
+4309,The Last Five Years ,5.9
+4310,The Missing Person ,6.2
+4311,Return of the Living Dead III ,5.9
+4312,London ,6.6
+4313,Sherrybaby ,6.6
+4314,Stealing Harvard ,5.1
+4315,Circle ,6.0
+4316,Eden Lake ,6.8
+4317,Plush ,5.4
+4318,Vampire Killers ,5.2
+4319,Gangster's Paradise: Jerusalema ,7.8
+4320,Freeze Frame ,6.4
+4321,Grave Encounters ,6.1
+4322,Stitches ,5.7
+4323,Nine Dead ,5.5
+4324,"To Be Frank, Sinatra at 100 ",7.4
+4325,Bananas ,7.1
+4326,Supercapitalist ,3.9
+4327,Rockaway ,4.6
+4328,Wings             ,7.3
+4329,The Lady from Shanghai ,7.7
+4330,No Man's Land: The Rise of Reeker ,4.9
+4331,Highway ,6.3
+4332,Small Apartments ,6.1
+4333,Coffee Town ,6.6
+4334,The Ghastly Love of Johnny X ,5.7
+4335,All Is Bright ,5.6
+4336,The Torture Chamber of Dr. Sadism ,6.0
+4337,Straight A's ,5.7
+4338,A Funny Thing Happened on the Way to the Forum ,7.0
+4339,Slacker Uprising ,5.3
+4340,The Legend of Hell's Gate: An American Conspiracy ,4.4
+4341,The Walking Deceased ,3.4
+4342,The Curse of Downers Grove ,4.5
+4343,Shark Lake ,3.4
+4344,River's Edge ,7.1
+4345,Northfork ,6.4
+4346,The Marine 4: Moving Target ,5.2
+4347,Buried ,7.0
+4348,Submarine ,7.3
+4349,The Square ,8.1
+4350,One to Another ,5.8
+4351,Carrie ,5.9
+4352,ABCD (Any Body Can Dance) ,6.4
+4353,A Nightmare on Elm Street ,7.5
+4354,Man on Wire ,7.8
+4355,Abandoned ,6.3
+4356,Brotherly Love ,7.2
+4357,The Last Exorcism ,5.6
+4358,Nowhere Boy ,7.2
+4359,A Streetcar Named Desire ,8.0
+4360,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ,8.5
+4361,El crimen del padre Amaro ,6.8
+4362,Beasts of the Southern Wild ,7.3
+4363,Battle for the Planet of the Apes ,5.5
+4364,Songcatcher ,7.3
+4365,Higher Ground ,6.3
+4366,Vaalu ,5.1
+4367,The Greatest Movie Ever Sold ,6.6
+4368,Ed and His Dead Mother ,6.1
+4369,Travelers and Magicians ,7.5
+4370,Hang 'Em High ,7.0
+4371,Deadline - U.S.A. ,7.2
+4372,Sublime ,5.3
+4373,A Beginner's Guide to Snuff ,8.7
+4374,Independence Daysaster ,3.4
+4375,Dysfunctional Friends ,5.4
+4376,Run Lola Run ,7.8
+4377,May ,6.7
+4378,Against the Wild ,4.7
+4379,Living Dark: The Story of Ted the Caver ,6.3
+4380,Under the Same Moon ,7.4
+4381,Conquest of the Planet of the Apes ,6.1
+4382,In the Bedroom ,7.5
+4383,I Spit on Your Grave ,6.3
+4384,"Happy, Texas ",6.3
+4385,My Summer of Love ,6.8
+4386,The Lunchbox ,7.8
+4387,Yes ,6.9
+4388,You Can't Take It with You ,8.0
+4389,From Here to Eternity ,7.8
+4390,She Wore a Yellow Ribbon ,7.4
+4391,Grace Unplugged ,6.1
+4392,Foolish ,4.3
+4393,N-Secure ,3.5
+4394,Caramel ,7.2
+4395,Out of the Dark ,4.7
+4396,The Bubble ,7.3
+4397,The Conversation ,7.9
+4398,Dil Jo Bhi Kahey... ,5.1
+4399,Mississippi Mermaid ,7.2
+4400,I Love Your Work ,5.4
+4401,Cabin Fever ,3.7
+4402,Dawn of the Dead ,7.4
+4403,Waitress ,7.1
+4404,Bloodsport ,6.8
+4405,Mr. Smith Goes to Washington ,8.2
+4406,Kids ,7.0
+4407,The Squid and the Whale ,7.4
+4408,Kissing Jessica Stein ,6.7
+4409,"A Woman, a Gun and a Noodle Shop ",5.7
+4410,Kickboxer: Vengeance ,9.1
+4411,Spellbound ,7.6
+4412,Exotica ,7.2
+4413,Buffalo '66 ,7.5
+4414,Insidious ,6.8
+4415,Repo Man ,6.9
+4416,Nine Queens ,7.9
+4417,The Gatekeepers ,7.6
+4418,The Ballad of Jack and Rose ,6.7
+4419,The To Do List ,5.8
+4420,Killing Zoe ,6.5
+4421,The Believer ,7.2
+4422,Snow Angels ,6.9
+4423,Unsullied ,5.5
+4424,Session 9 ,6.5
+4425,I Want Someone to Eat Cheese With ,6.2
+4426,Mooz-Lum ,6.7
+4427,Hatchet ,5.7
+4428,Modern Times ,8.6
+4429,Stolen Summer ,6.5
+4430,My Name Is Bruce ,6.3
+4431,The Salon ,4.3
+4432,Road Hard ,6.1
+4433,Forty Shades of Blue ,6.0
+4434,Amigo ,5.8
+4435,Pontypool ,6.7
+4436,Trucker ,6.7
+4437,Me You and Five Bucks ,7.6
+4438,The Lords of Salem ,5.1
+4439,Housebound ,6.8
+4440,Wal-Mart: The High Cost of Low Price ,6.8
+4441,Fetching Cody ,6.8
+4442,Once Upon a Time in Queens ,6.3
+4443,Closer to the Moon ,7.1
+4444,Mutant World ,2.8
+4445,Growing Up Smith ,8.2
+4446,Checkmate ,3.1
+4447,Jack Reacher ,7.0
+4448,#Horror ,3.3
+4449,Wind Walkers ,3.6
+4450,Snow White and the Seven Dwarfs ,7.7
+4451,The Holy Girl ,6.7
+4452,Shalako ,5.5
+4453,Incident at Loch Ness ,6.6
+4454,The Dog Lover ,4.8
+4455,Girl House ,5.5
+4456,The Blue Room ,6.3
+4457,House at the End of the Drive ,6.9
+4458,Batman: The Movie ,6.5
+4459,"Lock, Stock and Two Smoking Barrels ",8.2
+4460,The Ballad of Gregorio Cortez ,7.1
+4461,The Streets of San Francisco             ,7.3
+4462,The Celebration ,8.1
+4463,Trees Lounge ,7.2
+4464,Journey from the Fall ,7.4
+4465,The Basket ,6.5
+4466,Eddie: The Sleepwalking Cannibal ,5.7
+4467,Mercury Rising ,6.1
+4468,Space: Above and Beyond             ,7.7
+4469,Queen of the Mountains ,8.7
+4470,Def-Con 4 ,4.3
+4471,The Hebrew Hammer ,6.2
+4472,Neal 'N' Nikki ,3.3
+4473,The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It ,2.7
+4474,Forget Me Not ,5.2
+4475,Rebecca ,8.2
+4476,Friday the 13th Part 2 ,6.1
+4477,The Lost Weekend ,8.0
+4478,C.H.U.D. ,5.5
+4479,Filly Brown ,5.7
+4480,The Lion of Judah ,3.7
+4481,Niagara ,7.1
+4482,How Green Was My Valley ,7.8
+4483,The Girlfriend Experience             ,7.3
+4484,Da Sweet Blood of Jesus ,4.1
+4485,"Sex, Lies, and Videotape ",7.2
+4486,Saw ,7.7
+4487,Super Troopers ,7.1
+4488,The Algerian ,7.6
+4489,The Amazing Catfish ,7.0
+4490,The Day the Earth Stood Still ,5.5
+4491,Monsoon Wedding ,7.4
+4492,You Can Count on Me ,7.7
+4493,The Trouble with Harry ,7.2
+4494,Lucky Number Slevin ,7.8
+4495,But I'm a Cheerleader ,6.6
+4496,Home Run ,6.0
+4497,Reservoir Dogs ,8.4
+4498,The Blue Bird ,6.5
+4499,"The Good, the Bad and the Ugly ",8.9
+4500,The Second Mother ,7.9
+4501,Blue Like Jazz ,6.0
+4502,Down and Out with the Dolls ,6.1
+4503,"Pink Ribbons, Inc. ",7.4
+4504,Certifiably Jonathan ,6.2
+4505,Q ,5.6
+4506,The Knife of Don Juan ,7.2
+4507,Grand Theft Parsons ,6.1
+4508,Extreme Movie ,3.8
+4509,The Charge of the Light Brigade ,7.1
+4510,Below Zero ,4.5
+4511,Crowsnest ,3.8
+4512,Airborne ,6.2
+4513,Cotton Comes to Harlem ,6.6
+4514,The Wicked Within ,4.6
+4515,Bleeding Hearts ,4.2
+4516,Waiting... ,6.8
+4517,Dead Man's Shoes ,7.7
+4518,Wolf Creek             ,7.1
+4519,From a Whisper to a Scream ,5.9
+4520,Sex with Strangers ,4.7
+4521,Dracula: Pages from a Virgin's Diary ,7.0
+4522,Faith Like Potatoes ,6.9
+4523,Beyond the Black Rainbow ,6.1
+4524,The Raid: Redemption ,7.6
+4525,The Dead Undead ,3.0
+4526,The Vatican Exorcisms ,2.6
+4527,Casablanca ,8.6
+4528,Lake Mungo ,6.1
+4529,Rocket Singh: Salesman of the Year ,7.5
+4530,Silent Running ,6.7
+4531,Rocky ,8.1
+4532,The Sleepwalker ,4.9
+4533,The Fog ,6.8
+4534,Tom Jones ,6.8
+4535,Unfriended ,5.7
+4536,Taxi Driver ,8.3
+4537,The Howling ,6.6
+4538,Dr. No ,7.3
+4539,Chernobyl Diaries ,5.0
+4540,Hellraiser ,7.0
+4541,God's Not Dead 2 ,3.4
+4542,Cry_Wolf ,5.9
+4543,Godzilla 2000 ,6.0
+4544,Blue Valentine ,7.4
+4545,Transamerica ,7.4
+4546,The Devil Inside ,4.2
+4547,Beyond the Valley of the Dolls ,6.2
+4548,Love Me Tender ,6.2
+4549,An Inconvenient Truth ,7.5
+4550,Sands of Iwo Jima ,7.2
+4551,Shine a Light ,7.2
+4552,The Green Inferno ,5.4
+4553,Departure ,7.0
+4554,The Sessions ,7.2
+4555,"Food, Inc. ",7.9
+4556,October Baby ,6.8
+4557,Next Stop Wonderland ,6.7
+4558,Juno ,7.5
+4559,The Skeleton Twins ,6.8
+4560,Martha Marcy May Marlene ,6.9
+4561,Obvious Child ,6.8
+4562,Frozen River ,7.2
+4563,20 Feet from Stardom ,7.4
+4564,Two Girls and a Guy ,5.6
+4565,Walking and Talking ,6.8
+4566,The Full Monty ,7.2
+4567,Who Killed the Electric Car? ,7.7
+4568,The Broken Hearts Club: A Romantic Comedy ,7.0
+4569,Bubba Ho-Tep ,7.2
+4570,Goosebumps ,6.4
+4571,Slam ,7.2
+4572,Brigham City ,7.2
+4573,Fiza ,6.2
+4574,History of the World: Part I ,6.9
+4575,Orgazmo ,6.2
+4576,All the Real Girls ,6.9
+4577,Dream with the Fishes ,7.0
+4578,Blue Car ,6.7
+4579,Luminarias ,3.6
+4580,Palo Alto ,6.3
+4581,Ajami ,7.4
+4582,Wristcutters: A Love Story ,7.4
+4583,I Origins ,7.3
+4584,The Battle of Shaker Heights ,6.1
+4585,The Lovely Bones ,6.7
+4586,The Act of Killing ,8.2
+4587,Taxi to the Dark Side ,7.7
+4588,Once in a Lifetime: The Extraordinary Story of the New York Cosmos ,7.3
+4589,Guiana 1838 ,7.4
+4590,Lisa Picard Is Famous ,5.7
+4591,Antarctica: A Year on Ice ,7.6
+4592,A Lego Brickumentary ,6.8
+4593,Hardflip ,5.6
+4594,Chocolate: Deep Dark Secrets ,4.8
+4595,The House of the Devil ,6.4
+4596,The Perfect Host ,6.8
+4597,Safe Men ,6.1
+4598,Speedway Junky ,5.2
+4599,The Last Big Thing ,6.9
+4600,The Specials ,6.0
+4601,16 to Life ,6.3
+4602,Alone with Her ,6.1
+4603,Creative Control ,5.5
+4604,Special ,6.9
+4605,Sparkler ,5.6
+4606,The Helix... Loaded ,1.9
+4607,In Her Line of Fire ,4.1
+4608,The Jimmy Show ,5.4
+4609,Heli ,6.8
+4610,Karachi se Lahore ,7.0
+4611,Loving Annabelle ,6.7
+4612,Hits ,5.8
+4613,Jimmy and Judy ,6.2
+4614,Frat Party ,2.8
+4615,The Party's Over ,7.3
+4616,Proud ,5.8
+4617,The Poker House ,6.5
+4618,Childless ,6.1
+4619,ZMD: Zombies of Mass Destruction ,5.1
+4620,Snow White: A Deadly Summer ,2.2
+4621,Hidden Away ,7.2
+4622,My Last Day Without You ,5.7
+4623,Steppin: The Movie ,3.4
+4624,Doc Holliday's Revenge ,3.8
+4625,Black Rock ,4.7
+4626,Truth or Die ,5.6
+4627,The Pet ,3.9
+4628,Bang Bang Baby ,5.4
+4629,Fear Clinic ,5.2
+4630,Zombie Hunter ,3.5
+4631,A Fine Step ,5.3
+4632,Trance ,7.0
+4633,Charly ,7.1
+4634,Banshee Chapter ,5.5
+4635,Jesse             ,5.9
+4636,Ask Me Anything ,6.0
+4637,And Then Came Love ,4.8
+4638,Food Chains ,7.1
+4639,On the Waterfront ,8.2
+4640,L!fe Happens ,5.7
+4641,"4 Months, 3 Weeks and 2 Days ",7.9
+4642,The Horror Network Vol. 1 ,7.3
+4643,Hard Candy ,7.1
+4644,The Quiet ,6.4
+4645,Circumstance ,5.9
+4646,Fruitvale Station ,7.5
+4647,The Brass Teapot ,6.4
+4648,Bambi ,7.4
+4649,The Hammer ,7.3
+4650,Snitch ,6.5
+4651,Latter Days ,7.2
+4652,Elza ,6.7
+4653,1982 ,7.1
+4654,"For a Good Time, Call... ",6.0
+4655,Celeste & Jesse Forever ,6.7
+4656,Time Changer ,5.6
+4657,London to Brighton ,7.0
+4658,American Hero ,4.9
+4659,Windsor Drive ,3.2
+4660,A Separation ,8.4
+4661,Crying with Laughter ,6.9
+4662,Welcome to the Dollhouse ,7.5
+4663,Ruby in Paradise ,7.2
+4664,Raising Victor Vargas ,7.2
+4665,Pandora's Box ,8.0
+4666,Harrison Montgomery ,7.4
+4667,Live-In Maid ,7.2
+4668,Deterrence ,6.5
+4669,The Mudge Boy ,7.2
+4670,The Young Unknowns ,4.2
+4671,Not Cool ,5.1
+4672,Dead Snow ,6.4
+4673,Saints and Soldiers ,6.8
+4674,Vessel ,6.2
+4675,American Graffiti ,7.5
+4676,Iraq for Sale: The War Profiteers ,7.7
+4677,Aqua Teen Hunger Force Colon Movie Film for Theaters ,6.9
+4678,Safety Not Guaranteed ,7.0
+4679,Kevin Hart: Laugh at My Pain ,7.5
+4680,Kill List ,6.3
+4681,The Innkeepers ,5.5
+4682,The Unborn ,4.8
+4683,The Conformist ,8.1
+4684,Interview with the Assassin ,6.6
+4685,Donkey Punch ,5.2
+4686,All the Boys Love Mandy Lane ,5.6
+4687,Bled ,3.1
+4688,High Noon ,8.1
+4689,Hoop Dreams ,8.3
+4690,Rize ,7.1
+4691,Destiny ,8.1
+4692,L.I.E. ,7.2
+4693,The Sisterhood of Night ,6.3
+4694,B-Girl ,4.0
+4695,King Kong ,7.2
+4696,House of Wax ,5.3
+4697,Half Nelson ,7.2
+4698,Naturally Native ,6.5
+4699,Hav Plenty ,6.5
+4700,Adulterers ,4.9
+4701,Escape from Tomorrow ,5.2
+4702,Starsuckers ,7.4
+4703,The Hadza: Last of the First ,7.4
+4704,After ,5.4
+4705,Treachery ,3.9
+4706,Walter ,5.3
+4707,Top Hat ,7.8
+4708,The Blair Witch Project ,6.4
+4709,Woodstock ,8.1
+4710,The Kentucky Fried Movie ,6.5
+4711,Mercy Streets ,5.6
+4712,Arnolds Park ,5.6
+4713,Broken Vessels ,6.6
+4714,Water & Power ,6.3
+4715,They Will Have to Kill Us First ,7.7
+4716,Crop Circles: Quest for Truth ,7.0
+4717,Light from the Darkroom ,8.0
+4718,Irreplaceable ,7.2
+4719,The Maid's Room ,4.5
+4720,A Hard Day's Night ,7.7
+4721,The Harvest/La Cosecha ,7.2
+4722,Love Letters ,6.1
+4723,Julija in alfa Romeo ,6.4
+4724,Fireproof ,6.5
+4725,Faith Connections ,7.0
+4726,Benji ,6.1
+4727,Open Water ,5.7
+4728,High Road ,5.4
+4729,Kingdom of the Spiders ,5.9
+4730,Mad Hot Ballroom ,7.5
+4731,The Station Agent ,7.7
+4732,To Save a Life ,7.1
+4733,Wordplay ,7.4
+4734,Beyond the Mat ,7.6
+4735,The Singles Ward ,6.4
+4736,Osama ,7.4
+4737,Sholem Aleichem: Laughing in the Darkness ,6.8
+4738,Groove ,6.5
+4739,The R.M. ,6.0
+4740,Twin Falls Idaho ,7.3
+4741,Mean Creek ,7.3
+4742,Hurricane Streets ,6.5
+4743,Never Again ,6.0
+4744,Civil Brand ,5.3
+4745,Lonesome Jim ,6.6
+4746,Drinking Buddies ,6.1
+4747,Deceptive Practice: The Mysteries and Mentors of Ricky Jay ,7.1
+4748,Seven Samurai ,8.7
+4749,The Other Dream Team ,8.4
+4750,Johnny Suede ,5.8
+4751,Finishing the Game: The Search for a New Bruce Lee ,6.2
+4752,Rubber ,5.8
+4753,Home ,6.7
+4754,Kiss the Bride ,5.7
+4755,The Slaughter Rule ,6.1
+4756,Monsters ,6.4
+4757,The Californians ,5.0
+4758,The Living Wake ,6.5
+4759,Detention of the Dead ,4.6
+4760,Crazy Stone ,7.7
+4761,Scott Walker: 30 Century Man ,7.3
+4762,Everything Put Together ,6.6
+4763,Good Kill ,6.4
+4764,Insomnia Manica ,5.8
+4765,The Outrageous Sophie Tucker ,7.2
+4766,Now Is Good ,7.2
+4767,Girls Gone Dead ,3.5
+4768,America Is Still the Place ,7.5
+4769,Subconscious ,2.2
+4770,Crossroads ,3.3
+4771,Enter Nowhere ,6.6
+4772,The King of Najayo ,6.9
+4773,Fight to the Finish ,4.0
+4774,Alleluia! The Devil's Carnival ,7.4
+4775,The Sound and the Shadow ,8.3
+4776,Rodeo Girl ,5.7
+4777,Born to Fly: Elizabeth Streb vs. Gravity ,6.8
+4778,The Little Ponderosa Zoo ,5.2
+4779,Oz the Great and Powerful ,6.4
+4780,The Toxic Avenger ,6.2
+4781,Straight Out of Brooklyn ,5.9
+4782,Bloody Sunday ,7.7
+4783,Diamond Ruff ,4.3
+4784,Conversations with Other Women ,7.1
+4785,Poultrygeist: Night of the Chicken Dead ,6.2
+4786,Mutual Friends ,6.8
+4787,42nd Street ,7.7
+4788,Rise of the Entrepreneur: The Search for a Better Way ,8.2
+4789,Metropolitan ,7.5
+4790,As It Is in Heaven ,7.6
+4791,Roadside ,4.1
+4792,Napoleon Dynamite ,6.9
+4793,Blue Ruin ,7.1
+4794,Paranormal Activity ,6.3
+4795,Dogtown and Z-Boys ,7.7
+4796,Monty Python and the Holy Grail ,8.3
+4797,Quinceañera ,7.1
+4798,Gory Gory Hallelujah ,4.7
+4799,Heroes             ,7.7
+4800,Tarnation ,7.2
+4801,I Want Your Money ,5.1
+4802,Love in the Time of Monsters ,5.4
+4803,The Beyond ,6.9
+4804,Home Movies             ,8.2
+4805,What Happens in Vegas ,6.1
+4806,The Dark Hours ,6.1
+4807,My Beautiful Laundrette ,6.9
+4808,Fabled ,5.8
+4809,Show Me ,6.0
+4810,Cries & Whispers ,8.2
+4811,Intolerance: Love's Struggle Throughout the Ages ,8.0
+4812,Trekkies ,7.0
+4813,The Broadway Melody ,6.3
+4814,The Evil Dead ,7.6
+4815,Maniac ,6.1
+4816,Censored Voices ,7.2
+4817,Murderball ,7.8
+4818,American Ninja 2: The Confrontation ,4.7
+4819,51 Birch Street ,7.5
+4820,Revolution             ,6.7
+4821,Rotor DR1 ,3.4
+4822,Halloween ,7.9
+4823,12 Angry Men ,8.9
+4824,My Dog Tulip ,6.9
+4825,It Happened One Night ,8.2
+4826,Dogtooth ,7.3
+4827,Tupac: Resurrection ,8.0
+4828,Tumbleweeds ,6.7
+4829,The Prophecy ,6.6
+4830,When the Cat's Away ,6.9
+4831,Pieces of April ,7.1
+4832,The Big Swap ,5.6
+4833,Old Joy ,6.7
+4834,Wendy and Lucy ,7.1
+4835,3 Backyards ,5.2
+4836,Pierrot le Fou ,7.7
+4837,Sisters in Law ,7.5
+4838,Ayurveda: Art of Being ,7.6
+4839,Nothing But a Man ,8.1
+4840,"First Love, Last Rites ",5.5
+4841,Fighting Tommy Riley ,6.6
+4842,Royal Kill ,3.2
+4843,Across the Universe ,7.4
+4844,The Looking Glass ,6.6
+4845,Death Race 2000 ,6.2
+4846,Locker 13 ,4.8
+4847,Midnight Cabaret ,4.5
+4848,Anderson's Cross ,7.2
+4849,Bizarre ,4.3
+4850,Graduation Day ,4.5
+4851,Some Guy Who Kills People ,6.4
+4852,Compliance ,6.4
+4853,Chasing Amy ,7.3
+4854,Lovely & Amazing ,6.9
+4855,Death Calls ,4.3
+4856,Better Luck Tomorrow ,7.2
+4857,The Incredibly True Adventure of Two Girls in Love ,6.5
+4858,Chuck & Buck ,6.6
+4859,American Desi ,6.7
+4860,Amidst the Devil's Wings ,4.3
+4861,Cube ,7.3
+4862,Love and Other Catastrophes ,6.4
+4863,I Married a Strange Person! ,7.0
+4864,November ,5.5
+4865,Like Crazy ,6.7
+4866,Teeth and Blood ,4.3
+4867,Sugar Town ,6.1
+4868,The Motel ,6.8
+4869,The Canyons ,3.9
+4870,Happy Valley             ,8.5
+4871,On the Outs ,6.9
+4872,Shotgun Stories ,7.3
+4873,Exam ,6.9
+4874,The Sticky Fingers of Time ,6.3
+4875,Sunday School Musical ,2.5
+4876,Rust ,5.7
+4877,Ink ,7.0
+4878,The Christmas Bunny ,6.2
+4879,Jesus People ,6.9
+4880,Butterfly ,4.5
+4881,UnDivided ,7.8
+4882,The Frozen ,4.4
+4883,The Love Letter ,7.4
+4884,Horse Camp ,6.6
+4885,Give Me Shelter ,8.0
+4886,The Big Parade ,8.3
+4887,Little Big Top ,6.5
+4888,Along the Roadside ,7.1
+4889,Bronson ,7.1
+4890,Western Religion ,4.0
+4891,Burn ,7.5
+4892,Urbania ,7.0
+4893,The Stewardesses ,4.0
+4894,"The Beast from 20,000 Fathoms ",6.7
+4895,"20,000 Leagues Under the Sea ",7.2
+4896,Mad Max ,7.0
+4897,Swingers ,7.4
+4898,A Fistful of Dollars ,8.0
+4899,She Done Him Wrong ,6.5
+4900,Short Cut to Nirvana: Kumbh Mela ,7.2
+4901,The Grace Card ,6.4
+4902,Middle of Nowhere ,6.5
+4903,3 ,6.8
+4904,The Business of Fancydancing ,6.9
+4905,Call + Response ,7.5
+4906,Side Effects ,7.1
+4907,Malevolence ,5.1
+4908,Shooting the Warwicks ,6.2
+4909,Super Hybrid ,3.9
+4910,Baghead ,6.0
+4911,Solitude ,6.8
+4912,The Case of the Grinning Cat ,7.4
+4913,Ordet ,8.1
+4914,Good Dick ,6.5
+4915,The Man from Earth ,8.0
+4916,The Trials of Darryl Hunt ,7.7
+4917,An American Girl Holiday ,7.2
+4918,Yesterday Was a Lie ,5.4
+4919,Theresa Is a Mother ,6.7
+4920,H. ,6.3
+4921,Archaeology of a Woman ,8.1
+4922,Children of Heaven ,8.5
+4923,Weekend ,7.7
+4924,She's Gotta Have It ,6.5
+4925,Butterfly Girl ,8.7
+4926,The World Is Mine ,6.5
+4927,Another Earth ,7.0
+4928,The Calling ,5.8
+4929,Sweet Sweetback's Baadasssss Song ,5.5
+4930,Perfect Cowboy ,7.0
+4931,Tadpole ,6.3
+4932,Once ,7.9
+4933,The Woman Chaser ,7.3
+4934,The Horse Boy ,7.4
+4935,When the Lights Went Out ,5.4
+4936,Heroes of Dirt ,7.1
+4937,The Texas Chain Saw Massacre ,7.5
+4938,A Charlie Brown Christmas ,8.4
+4939,Antarctic Edge: 70° South ,7.0
+4940,Aroused ,5.3
+4941,Top Spin ,7.1
+4942,Roger & Me ,7.5
+4943,Cat People ,6.1
+4944,An American in Hollywood ,7.2
+4945,Sound of My Voice ,6.7
+4946,The Brain That Sings ,8.2
+4947,The Blood of My Brother ,6.6
+4948,Your Sister's Sister ,6.7
+4949,Romantic Schemer ,5.1
+4950,A Dog's Breakfast ,7.0
+4951,A Dog's Breakfast ,7.0
+4952,Night of the Living Dead ,8.0
+4953,Une Femme Mariée ,7.4
+4954,The Birth of a Nation ,5.4
+4955,The Work and the Story ,5.7
+4956,Facing the Giants ,6.7
+4957,The Gallows ,4.2
+4958,Eraserhead ,7.4
+4959,Over the Hill to the Poorhouse ,4.8
+4960,Hollywood Shuffle ,7.0
+4961,The Mighty ,7.3
+4962,Penitentiary ,5.8
+4963,The Lost Skeleton of Cadavra ,7.0
+4964,"Dude, Where's My Dog?! ",3.2
+4965,Cheap Thrills ,6.8
+4966,Indie Game: The Movie ,7.7
+4967,Closure ,5.6
+4968,Open Secret ,7.1
+4969,Echo Dr. ,3.6
+4970,The Night Visitor ,6.8
+4971,The Past is a Grotesque Animal ,7.6
+4972,The Last House on the Left ,6.6
+4973,"Peace, Propaganda & the Promised Land ",8.3
+4974,Pi ,7.5
+4975,"I Love You, Don't Touch Me! ",5.4
+4976,20 Dates ,5.3
+4977,Queen Crab ,4.5
+4978,Super Size Me ,7.3
+4979,The FP ,5.6
+4980,Happy Christmas ,5.6
+4981,The Brain That Wouldn't Die ,4.1
+4982,Tiger Orange ,6.8
+4983,Supporting Characters ,6.3
+4984,Absentia ,5.8
+4985,The Brothers McMullen ,6.6
+4986,The Dirties ,6.7
+4987,Gabriela ,6.4
+4988,Tiny Furniture ,6.3
+4989,Hayride ,3.4
+4990,The Naked Ape ,4.7
+4991,Counting ,6.0
+4992,The Call of Cthulhu ,7.3
+4993,Bending Steel ,7.9
+4994,The Signal ,6.1
+4995,The Image Revolution ,7.4
+4996,This Is Martin Bonner ,6.6
+4997,A True Story ,5.5
+4998,George Washington ,7.5
+4999,Smiling Fish & Goat on Fire ,7.6
+5000,Dawn of the Crescent Moon ,5.0
+5001,Raymond Did It ,3.2
+5002,The Last Waltz ,8.2
+5003,"Run, Hide, Die ",3.7
+5004,The Exploding Girl ,6.3
+5005,The Legend of God's Gun ,4.1
+5006,Mutual Appreciation ,6.9
+5007,Her Cry: La Llorona Investigation ,5.4
+5008,Down Terrace ,6.5
+5009,Clerks ,7.8
+5010,Pink Narcissus ,6.7
+5011,Funny Ha Ha ,6.4
+5012,In the Company of Men ,7.3
+5013,Sabotage ,5.7
+5014,Manito ,7.0
+5015,Rampage ,6.3
+5016,Slacker ,7.1
+5017,Dutch Kills ,4.8
+5018,Dry Spell ,3.3
+5019,Flywheel ,6.9
+5020,Exeter ,4.6
+5021,The Ridges ,3.0
+5022,The Puffy Chair ,6.6
+5023,Stories of Our Lives ,7.4
+5024,Breaking Upwards ,6.2
+5025,All Superheroes Must Die ,4.0
+5026,Pink Flamingos ,6.1
+5027,Clean ,6.9
+5028,The Circle ,7.5
+5029,Tin Can Man ,6.7
+5030,The Cure ,7.4
+5031,On the Downlow ,6.1
+5032,Sanctuary; Quite a Conundrum ,5.4
+5033,Bang ,6.4
+5034,Primer ,7.0
+5035,Cavite ,6.3
+5036,El Mariachi ,6.9
+5037,The Mongol King ,7.8
+5038,Newlyweds ,6.4
+5039,Signed Sealed Delivered ,7.7
+5040,The Following             ,7.5
+5041,A Plague So Pleasant ,6.3
+5042,Shanghai Calling ,6.3
+5043,My Date with Drew ,6.6
